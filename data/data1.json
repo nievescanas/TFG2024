@@ -1,4962 +1,5954 @@
 [
     {
         "id": "Localizacion/AT/AT1",
+        "area": 1,
         "TIME_PERIOD": 1990,
-        "OBS_VALUE": 100
+        "OBS_VALUE": 10.0
     },
     {
         "id": "Localizacion/AT/AT2",
+        "area": 1,
         "TIME_PERIOD": 1991,
-        "OBS_VALUE": 95.3
+        "OBS_VALUE": 9.53
     },
     {
         "id": "Localizacion/AT/AT3",
+        "area": 1,
         "TIME_PERIOD": 1992,
-        "OBS_VALUE": 100
+        "OBS_VALUE": 10.0
     },
     {
         "id": "Localizacion/AT/AT4",
+        "area": 1,
         "TIME_PERIOD": 1993,
-        "OBS_VALUE": 89.5
+        "OBS_VALUE": 8.95
     },
     {
         "id": "Localizacion/AT/AT5",
+        "area": 1,
         "TIME_PERIOD": 1994,
-        "OBS_VALUE": 100.8
+        "OBS_VALUE": 10.08
     },
     {
         "id": "Localizacion/AT/AT6",
+        "area": 1,
         "TIME_PERIOD": 1995,
-        "OBS_VALUE": 90.9
+        "OBS_VALUE": 9.09
     },
     {
         "id": "Localizacion/AT/AT7",
+        "area": 1,
         "TIME_PERIOD": 1996,
-        "OBS_VALUE": 97.1
+        "OBS_VALUE": 9.709999999999999
     },
     {
         "id": "Localizacion/AT/AT8",
+        "area": 1,
         "TIME_PERIOD": 1997,
-        "OBS_VALUE": 90.9
+        "OBS_VALUE": 9.09
     },
     {
         "id": "Localizacion/AT/AT9",
+        "area": 1,
         "TIME_PERIOD": 1998,
-        "OBS_VALUE": 95
+        "OBS_VALUE": 9.5
     },
     {
         "id": "Localizacion/AT/AT10",
+        "area": 1,
         "TIME_PERIOD": 1999,
-        "OBS_VALUE": 90.9
+        "OBS_VALUE": 9.09
     },
     {
         "id": "Localizacion/AT/AT11",
+        "area": 1,
         "TIME_PERIOD": 2000,
-        "OBS_VALUE": 100.5
+        "OBS_VALUE": 10.05
     },
     {
         "id": "Localizacion/AT/AT12",
+        "area": 1,
         "TIME_PERIOD": 2001,
-        "OBS_VALUE": 83.8
+        "OBS_VALUE": 8.379999999999999
     },
     {
         "id": "Localizacion/AT/AT13",
+        "area": 1,
         "TIME_PERIOD": 2002,
-        "OBS_VALUE": 110.2
+        "OBS_VALUE": 11.02
     },
     {
         "id": "Localizacion/AT/AT14",
+        "area": 1,
         "TIME_PERIOD": 2003,
-        "OBS_VALUE": 114.9
+        "OBS_VALUE": 11.49
     },
     {
         "id": "Localizacion/AT/AT15",
+        "area": 1,
         "TIME_PERIOD": 2004,
-        "OBS_VALUE": 104.5
+        "OBS_VALUE": 10.45
     },
     {
         "id": "Localizacion/AT/AT16",
+        "area": 1,
         "TIME_PERIOD": 2005,
-        "OBS_VALUE": 112.4
+        "OBS_VALUE": 11.24
     },
     {
         "id": "Localizacion/AT/AT17",
+        "area": 1,
         "TIME_PERIOD": 2006,
-        "OBS_VALUE": 122.8
+        "OBS_VALUE": 12.28
     },
     {
         "id": "Localizacion/AT/AT18",
+        "area": 1,
         "TIME_PERIOD": 2007,
-        "OBS_VALUE": 123.9
+        "OBS_VALUE": 12.39
     },
     {
         "id": "Localizacion/AT/AT19",
+        "area": 1,
         "TIME_PERIOD": 2008,
-        "OBS_VALUE": 113.1
+        "OBS_VALUE": 11.309999999999999
     },
     {
         "id": "Localizacion/AT/AT20",
+        "area": 1,
         "TIME_PERIOD": 2009,
-        "OBS_VALUE": 109.3
+        "OBS_VALUE": 10.93
     },
     {
         "id": "Localizacion/AT/AT21",
+        "area": 1,
         "TIME_PERIOD": 2010,
-        "OBS_VALUE": 98.9
+        "OBS_VALUE": 9.89
     },
     {
         "id": "Localizacion/AT/AT22",
+        "area": 1,
         "TIME_PERIOD": 2011,
-        "OBS_VALUE": 102.4
+        "OBS_VALUE": 10.24
     },
     {
         "id": "Localizacion/AT/AT23",
+        "area": 1,
         "TIME_PERIOD": 2012,
-        "OBS_VALUE": 112.4
+        "OBS_VALUE": 11.24
     },
     {
         "id": "Localizacion/AT/AT24",
+        "area": 1,
         "TIME_PERIOD": 2013,
-        "OBS_VALUE": 112.2
+        "OBS_VALUE": 11.22
     },
     {
         "id": "Localizacion/AT/AT25",
+        "area": 1,
         "TIME_PERIOD": 2014,
-        "OBS_VALUE": 104.9
+        "OBS_VALUE": 10.49
     },
     {
         "id": "Localizacion/AT/AT26",
+        "area": 1,
         "TIME_PERIOD": 2015,
-        "OBS_VALUE": 110
+        "OBS_VALUE": 11.0
     },
     {
         "id": "Localizacion/AT/AT27",
+        "area": 1,
         "TIME_PERIOD": 2016,
-        "OBS_VALUE": 111
+        "OBS_VALUE": 11.1
     },
     {
         "id": "Localizacion/AT/AT28",
+        "area": 1,
         "TIME_PERIOD": 2017,
-        "OBS_VALUE": 119.8
+        "OBS_VALUE": 11.98
     },
     {
         "id": "Localizacion/AT/AT29",
+        "area": 1,
         "TIME_PERIOD": 2018,
-        "OBS_VALUE": 127.5
+        "OBS_VALUE": 12.75
     },
     {
         "id": "Localizacion/AT/AT30",
+        "area": 1,
         "TIME_PERIOD": 2019,
-        "OBS_VALUE": 125.6
+        "OBS_VALUE": 12.559999999999999
     },
     {
         "id": "Localizacion/AT/AT31",
+        "area": 1,
         "TIME_PERIOD": 2020,
-        "OBS_VALUE": 103
+        "OBS_VALUE": 10.3
     },
     {
         "id": "Localizacion/AT/AT32",
+        "area": 1,
         "TIME_PERIOD": 2021,
-        "OBS_VALUE": 100.9
+        "OBS_VALUE": 10.09
     },
     {
         "id": "Localizacion/BE/BE1",
+        "area": 1,
         "TIME_PERIOD": 1990,
-        "OBS_VALUE": 100
+        "OBS_VALUE": 10.0
     },
     {
         "id": "Localizacion/BE/BE2",
+        "area": 1,
         "TIME_PERIOD": 1991,
-        "OBS_VALUE": 101.8
+        "OBS_VALUE": 10.18
     },
     {
         "id": "Localizacion/BE/BE3",
+        "area": 1,
         "TIME_PERIOD": 1992,
-        "OBS_VALUE": 101.6
+        "OBS_VALUE": 10.16
     },
     {
         "id": "Localizacion/BE/BE4",
+        "area": 1,
         "TIME_PERIOD": 1993,
-        "OBS_VALUE": 100.7
+        "OBS_VALUE": 10.07
     },
     {
         "id": "Localizacion/BE/BE5",
+        "area": 1,
         "TIME_PERIOD": 1994,
-        "OBS_VALUE": 104
+        "OBS_VALUE": 10.4
     },
     {
         "id": "Localizacion/BE/BE6",
+        "area": 1,
         "TIME_PERIOD": 1995,
-        "OBS_VALUE": 105.6
+        "OBS_VALUE": 10.559999999999999
     },
     {
         "id": "Localizacion/BE/BE7",
+        "area": 1,
         "TIME_PERIOD": 1996,
-        "OBS_VALUE": 108.3
+        "OBS_VALUE": 10.83
     },
     {
         "id": "Localizacion/BE/BE8",
+        "area": 1,
         "TIME_PERIOD": 1997,
-        "OBS_VALUE": 103
+        "OBS_VALUE": 10.3
     },
     {
         "id": "Localizacion/BE/BE9",
+        "area": 1,
         "TIME_PERIOD": 1998,
-        "OBS_VALUE": 106.5
+        "OBS_VALUE": 10.65
     },
     {
         "id": "Localizacion/BE/BE10",
+        "area": 1,
         "TIME_PERIOD": 1999,
-        "OBS_VALUE": 102.9
+        "OBS_VALUE": 10.290000000000001
     },
     {
         "id": "Localizacion/BE/BE11",
+        "area": 1,
         "TIME_PERIOD": 2000,
-        "OBS_VALUE": 104
+        "OBS_VALUE": 10.4
     },
     {
         "id": "Localizacion/BE/BE12",
+        "area": 1,
         "TIME_PERIOD": 2001,
-        "OBS_VALUE": 102.8
+        "OBS_VALUE": 10.28
     },
     {
         "id": "Localizacion/BE/BE13",
+        "area": 1,
         "TIME_PERIOD": 2002,
-        "OBS_VALUE": 101.9
+        "OBS_VALUE": 10.190000000000001
     },
     {
         "id": "Localizacion/BE/BE14",
+        "area": 1,
         "TIME_PERIOD": 2003,
-        "OBS_VALUE": 102.4
+        "OBS_VALUE": 10.24
     },
     {
         "id": "Localizacion/BE/BE15",
+        "area": 1,
         "TIME_PERIOD": 2004,
-        "OBS_VALUE": 103.1
+        "OBS_VALUE": 10.309999999999999
     },
     {
         "id": "Localizacion/BE/BE16",
+        "area": 1,
         "TIME_PERIOD": 2005,
-        "OBS_VALUE": 100.8
+        "OBS_VALUE": 10.08
     },
     {
         "id": "Localizacion/BE/BE17",
+        "area": 1,
         "TIME_PERIOD": 2006,
-        "OBS_VALUE": 99.1
+        "OBS_VALUE": 9.91
     },
     {
         "id": "Localizacion/BE/BE18",
+        "area": 1,
         "TIME_PERIOD": 2007,
-        "OBS_VALUE": 97
+        "OBS_VALUE": 9.7
     },
     {
         "id": "Localizacion/BE/BE19",
+        "area": 1,
         "TIME_PERIOD": 2008,
-        "OBS_VALUE": 97.3
+        "OBS_VALUE": 9.73
     },
     {
         "id": "Localizacion/BE/BE20",
+        "area": 1,
         "TIME_PERIOD": 2009,
-        "OBS_VALUE": 88.5
+        "OBS_VALUE": 8.85
     },
     {
         "id": "Localizacion/BE/BE21",
+        "area": 1,
         "TIME_PERIOD": 2010,
-        "OBS_VALUE": 94.1
+        "OBS_VALUE": 9.41
     },
     {
         "id": "Localizacion/BE/BE22",
+        "area": 1,
         "TIME_PERIOD": 2011,
-        "OBS_VALUE": 87.2
+        "OBS_VALUE": 8.72
     },
     {
         "id": "Localizacion/BE/BE23",
+        "area": 1,
         "TIME_PERIOD": 2012,
-        "OBS_VALUE": 85.1
+        "OBS_VALUE": 8.51
     },
     {
         "id": "Localizacion/BE/BE24",
+        "area": 1,
         "TIME_PERIOD": 2013,
-        "OBS_VALUE": 84.6
+        "OBS_VALUE": 8.459999999999999
     },
     {
         "id": "Localizacion/BE/BE25",
+        "area": 1,
         "TIME_PERIOD": 2014,
-        "OBS_VALUE": 80.8
+        "OBS_VALUE": 8.08
     },
     {
         "id": "Localizacion/BE/BE26",
+        "area": 1,
         "TIME_PERIOD": 2015,
-        "OBS_VALUE": 83.9
+        "OBS_VALUE": 8.39
     },
     {
         "id": "Localizacion/BE/BE27",
+        "area": 1,
         "TIME_PERIOD": 2016,
-        "OBS_VALUE": 82.9
+        "OBS_VALUE": 8.290000000000001
     },
     {
         "id": "Localizacion/BE/BE28",
+        "area": 1,
         "TIME_PERIOD": 2017,
-        "OBS_VALUE": 82.9
+        "OBS_VALUE": 8.290000000000001
     },
     {
         "id": "Localizacion/BE/BE29",
+        "area": 1,
         "TIME_PERIOD": 2018,
-        "OBS_VALUE": 83.6
+        "OBS_VALUE": 8.36
     },
     {
         "id": "Localizacion/BE/BE30",
+        "area": 1,
         "TIME_PERIOD": 2019,
-        "OBS_VALUE": 83
+        "OBS_VALUE": 8.3
     },
     {
         "id": "Localizacion/BE/BE31",
+        "area": 1,
         "TIME_PERIOD": 2020,
-        "OBS_VALUE": 75.7
+        "OBS_VALUE": 7.57
     },
     {
         "id": "Localizacion/BE/BE32",
+        "area": 1,
         "TIME_PERIOD": 2021,
-        "OBS_VALUE": 78.9
+        "OBS_VALUE": 7.890000000000001
     },
     {
         "id": "Localizacion/BG/BG1",
+        "area": 1,
         "TIME_PERIOD": 1990,
-        "OBS_VALUE": 100
+        "OBS_VALUE": 10.0
     },
     {
         "id": "Localizacion/BG/BG2",
+        "area": 1,
         "TIME_PERIOD": 1991,
-        "OBS_VALUE": 78.1
+        "OBS_VALUE": 7.81
     },
     {
         "id": "Localizacion/BG/BG3",
+        "area": 1,
         "TIME_PERIOD": 1992,
-        "OBS_VALUE": 72.3
+        "OBS_VALUE": 7.2299999999999995
     },
     {
         "id": "Localizacion/BG/BG4",
+        "area": 1,
         "TIME_PERIOD": 1993,
-        "OBS_VALUE": 71.5
+        "OBS_VALUE": 7.15
     },
     {
         "id": "Localizacion/BG/BG5",
+        "area": 1,
         "TIME_PERIOD": 1994,
-        "OBS_VALUE": 66.2
+        "OBS_VALUE": 6.62
     },
     {
         "id": "Localizacion/BG/BG6",
+        "area": 1,
         "TIME_PERIOD": 1995,
-        "OBS_VALUE": 67.9
+        "OBS_VALUE": 6.790000000000001
     },
     {
         "id": "Localizacion/BG/BG7",
+        "area": 1,
         "TIME_PERIOD": 1996,
-        "OBS_VALUE": 68.8
+        "OBS_VALUE": 6.88
     },
     {
         "id": "Localizacion/BG/BG8",
+        "area": 1,
         "TIME_PERIOD": 1997,
-        "OBS_VALUE": 64.4
+        "OBS_VALUE": 6.44
     },
     {
         "id": "Localizacion/BG/BG9",
+        "area": 1,
         "TIME_PERIOD": 1998,
-        "OBS_VALUE": 59.8
+        "OBS_VALUE": 5.9799999999999995
     },
     {
         "id": "Localizacion/BG/BG10",
+        "area": 1,
         "TIME_PERIOD": 1999,
-        "OBS_VALUE": 51.3
+        "OBS_VALUE": 5.13
     },
     {
         "id": "Localizacion/BG/BG11",
+        "area": 1,
         "TIME_PERIOD": 2000,
-        "OBS_VALUE": 48.7
+        "OBS_VALUE": 4.87
     },
     {
         "id": "Localizacion/BG/BG12",
+        "area": 1,
         "TIME_PERIOD": 2001,
-        "OBS_VALUE": 55.5
+        "OBS_VALUE": 5.55
     },
     {
         "id": "Localizacion/BG/BG13",
+        "area": 1,
         "TIME_PERIOD": 2002,
-        "OBS_VALUE": 52.1
+        "OBS_VALUE": 5.21
     },
     {
         "id": "Localizacion/BG/BG14",
+        "area": 1,
         "TIME_PERIOD": 2003,
-        "OBS_VALUE": 58.6
+        "OBS_VALUE": 5.86
     },
     {
         "id": "Localizacion/BG/BG15",
+        "area": 1,
         "TIME_PERIOD": 2004,
-        "OBS_VALUE": 56.6
+        "OBS_VALUE": 5.66
     },
     {
         "id": "Localizacion/BG/BG16",
+        "area": 1,
         "TIME_PERIOD": 2005,
-        "OBS_VALUE": 55.8
+        "OBS_VALUE": 5.58
     },
     {
         "id": "Localizacion/BG/BG17",
+        "area": 1,
         "TIME_PERIOD": 2006,
-        "OBS_VALUE": 60.7
+        "OBS_VALUE": 6.07
     },
     {
         "id": "Localizacion/BG/BG18",
+        "area": 1,
         "TIME_PERIOD": 2007,
-        "OBS_VALUE": 64.2
+        "OBS_VALUE": 6.42
     },
     {
         "id": "Localizacion/BG/BG19",
+        "area": 1,
         "TIME_PERIOD": 2008,
-        "OBS_VALUE": 64.7
+        "OBS_VALUE": 6.470000000000001
     },
     {
         "id": "Localizacion/BG/BG20",
+        "area": 1,
         "TIME_PERIOD": 2009,
-        "OBS_VALUE": 53.7
+        "OBS_VALUE": 5.37
     },
     {
         "id": "Localizacion/BG/BG21",
+        "area": 1,
         "TIME_PERIOD": 2010,
-        "OBS_VALUE": 57.7
+        "OBS_VALUE": 5.7700000000000005
     },
     {
         "id": "Localizacion/BG/BG22",
+        "area": 1,
         "TIME_PERIOD": 2011,
-        "OBS_VALUE": 68.1
+        "OBS_VALUE": 6.81
     },
     {
         "id": "Localizacion/BG/BG23",
+        "area": 1,
         "TIME_PERIOD": 2012,
-        "OBS_VALUE": 62.6
+        "OBS_VALUE": 6.26
     },
     {
         "id": "Localizacion/BG/BG24",
+        "area": 1,
         "TIME_PERIOD": 2013,
-        "OBS_VALUE": 57.7
+        "OBS_VALUE": 5.7700000000000005
     },
     {
         "id": "Localizacion/BG/BG25",
+        "area": 1,
         "TIME_PERIOD": 2014,
-        "OBS_VALUE": 59.9
+        "OBS_VALUE": 5.99
     },
     {
         "id": "Localizacion/BG/BG26",
+        "area": 1,
         "TIME_PERIOD": 2015,
-        "OBS_VALUE": 64
+        "OBS_VALUE": 6.4
     },
     {
         "id": "Localizacion/BG/BG27",
+        "area": 1,
         "TIME_PERIOD": 2016,
-        "OBS_VALUE": 58.8
+        "OBS_VALUE": 5.88
     },
     {
         "id": "Localizacion/BG/BG28",
+        "area": 1,
         "TIME_PERIOD": 2017,
-        "OBS_VALUE": 61.3
+        "OBS_VALUE": 6.13
     },
     {
         "id": "Localizacion/BG/BG29",
+        "area": 1,
         "TIME_PERIOD": 2018,
-        "OBS_VALUE": 55.9
+        "OBS_VALUE": 5.59
     },
     {
         "id": "Localizacion/BG/BG30",
+        "area": 1,
         "TIME_PERIOD": 2019,
-        "OBS_VALUE": 54.4
+        "OBS_VALUE": 5.4399999999999995
     },
     {
         "id": "Localizacion/BG/BG31",
+        "area": 1,
         "TIME_PERIOD": 2020,
-        "OBS_VALUE": 46.8
+        "OBS_VALUE": 4.68
     },
     {
         "id": "Localizacion/BG/BG32",
+        "area": 1,
         "TIME_PERIOD": 2021,
-        "OBS_VALUE": 54.4
+        "OBS_VALUE": 5.4399999999999995
     },
     {
         "id": "Localizacion/CH/CH1",
+        "area": 1,
         "TIME_PERIOD": 1990,
-        "OBS_VALUE": 100
+        "OBS_VALUE": 10.0
     },
     {
         "id": "Localizacion/CH/CH2",
+        "area": 1,
         "TIME_PERIOD": 1991,
-        "OBS_VALUE": 97.7
+        "OBS_VALUE": 9.77
     },
     {
         "id": "Localizacion/CH/CH3",
+        "area": 1,
         "TIME_PERIOD": 1992,
-        "OBS_VALUE": 99.1
+        "OBS_VALUE": 9.91
     },
     {
         "id": "Localizacion/CH/CH4",
+        "area": 1,
         "TIME_PERIOD": 1993,
-        "OBS_VALUE": 94.2
+        "OBS_VALUE": 9.42
     },
     {
         "id": "Localizacion/CH/CH5",
+        "area": 1,
         "TIME_PERIOD": 1994,
-        "OBS_VALUE": 94.8
+        "OBS_VALUE": 9.48
     },
     {
         "id": "Localizacion/CH/CH6",
+        "area": 1,
         "TIME_PERIOD": 1995,
-        "OBS_VALUE": 95.3
+        "OBS_VALUE": 9.53
     },
     {
         "id": "Localizacion/CH/CH7",
+        "area": 1,
         "TIME_PERIOD": 1996,
-        "OBS_VALUE": 93.8
+        "OBS_VALUE": 9.379999999999999
     },
     {
         "id": "Localizacion/CH/CH8",
+        "area": 1,
         "TIME_PERIOD": 1997,
-        "OBS_VALUE": 94.9
+        "OBS_VALUE": 9.49
     },
     {
         "id": "Localizacion/CH/CH9",
+        "area": 1,
         "TIME_PERIOD": 1998,
-        "OBS_VALUE": 99.5
+        "OBS_VALUE": 9.95
     },
     {
         "id": "Localizacion/CH/CH10",
+        "area": 1,
         "TIME_PERIOD": 1999,
-        "OBS_VALUE": 100.4
+        "OBS_VALUE": 10.040000000000001
     },
     {
         "id": "Localizacion/CH/CH11",
+        "area": 1,
         "TIME_PERIOD": 2000,
-        "OBS_VALUE": 113
+        "OBS_VALUE": 11.3
     },
     {
         "id": "Localizacion/CH/CH12",
+        "area": 1,
         "TIME_PERIOD": 2001,
-        "OBS_VALUE": 104.4
+        "OBS_VALUE": 10.440000000000001
     },
     {
         "id": "Localizacion/CH/CH13",
+        "area": 1,
         "TIME_PERIOD": 2002,
-        "OBS_VALUE": 98
+        "OBS_VALUE": 9.8
     },
     {
         "id": "Localizacion/CH/CH14",
+        "area": 1,
         "TIME_PERIOD": 2003,
-        "OBS_VALUE": 99.1
+        "OBS_VALUE": 9.91
     },
     {
         "id": "Localizacion/CH/CH15",
+        "area": 1,
         "TIME_PERIOD": 2004,
-        "OBS_VALUE": 99.6
+        "OBS_VALUE": 9.959999999999999
     },
     {
         "id": "Localizacion/CH/CH16",
+        "area": 1,
         "TIME_PERIOD": 2005,
-        "OBS_VALUE": 100.4
+        "OBS_VALUE": 10.040000000000001
     },
     {
         "id": "Localizacion/CH/CH17",
+        "area": 1,
         "TIME_PERIOD": 2006,
-        "OBS_VALUE": 101.8
+        "OBS_VALUE": 10.18
     },
     {
         "id": "Localizacion/CH/CH18",
+        "area": 1,
         "TIME_PERIOD": 2007,
-        "OBS_VALUE": 100.7
+        "OBS_VALUE": 10.07
     },
     {
         "id": "Localizacion/CH/CH19",
+        "area": 1,
         "TIME_PERIOD": 2008,
-        "OBS_VALUE": 101.6
+        "OBS_VALUE": 10.16
     },
     {
         "id": "Localizacion/CH/CH20",
+        "area": 1,
         "TIME_PERIOD": 2009,
-        "OBS_VALUE": 96.7
+        "OBS_VALUE": 9.67
     },
     {
         "id": "Localizacion/CH/CH21",
+        "area": 1,
         "TIME_PERIOD": 2010,
-        "OBS_VALUE": 100.5
+        "OBS_VALUE": 10.05
     },
     {
         "id": "Localizacion/CH/CH22",
+        "area": 1,
         "TIME_PERIOD": 2011,
-        "OBS_VALUE": 96.9
+        "OBS_VALUE": 9.690000000000001
     },
     {
         "id": "Localizacion/CH/CH23",
+        "area": 1,
         "TIME_PERIOD": 2012,
-        "OBS_VALUE": 96.8
+        "OBS_VALUE": 9.68
     },
     {
         "id": "Localizacion/CH/CH24",
+        "area": 1,
         "TIME_PERIOD": 2013,
-        "OBS_VALUE": 99.7
+        "OBS_VALUE": 9.97
     },
     {
         "id": "Localizacion/CH/CH25",
+        "area": 1,
         "TIME_PERIOD": 2014,
-        "OBS_VALUE": 95.6
+        "OBS_VALUE": 9.559999999999999
     },
     {
         "id": "Localizacion/CH/CH26",
+        "area": 1,
         "TIME_PERIOD": 2015,
-        "OBS_VALUE": 91.8
+        "OBS_VALUE": 9.18
     },
     {
         "id": "Localizacion/CH/CH27",
+        "area": 1,
         "TIME_PERIOD": 2016,
-        "OBS_VALUE": 92.7
+        "OBS_VALUE": 9.27
     },
     {
         "id": "Localizacion/CH/CH28",
+        "area": 1,
         "TIME_PERIOD": 2017,
-        "OBS_VALUE": 91.8
+        "OBS_VALUE": 9.18
     },
     {
         "id": "Localizacion/CH/CH29",
+        "area": 1,
         "TIME_PERIOD": 2018,
-        "OBS_VALUE": 90.8
+        "OBS_VALUE": 9.08
     },
     {
         "id": "Localizacion/CH/CH30",
+        "area": 1,
         "TIME_PERIOD": 2019,
-        "OBS_VALUE": 89.2
+        "OBS_VALUE": 8.92
     },
     {
         "id": "Localizacion/CH/CH31",
+        "area": 1,
         "TIME_PERIOD": 2020,
-        "OBS_VALUE": 78.6
+        "OBS_VALUE": 7.859999999999999
     },
     {
         "id": "Localizacion/CH/CH32",
+        "area": 1,
         "TIME_PERIOD": 2021,
-        "OBS_VALUE": 80.7
+        "OBS_VALUE": 8.07
     },
     {
         "id": "Localizacion/CY/CY1",
+        "area": 1,
         "TIME_PERIOD": 1990,
-        "OBS_VALUE": 100
+        "OBS_VALUE": 10.0
     },
     {
         "id": "Localizacion/CY/CY2",
+        "area": 1,
         "TIME_PERIOD": 1991,
-        "OBS_VALUE": 110.1
+        "OBS_VALUE": 11.01
     },
     {
         "id": "Localizacion/CY/CY3",
+        "area": 1,
         "TIME_PERIOD": 1992,
-        "OBS_VALUE": 116.8
+        "OBS_VALUE": 11.68
     },
     {
         "id": "Localizacion/CY/CY4",
+        "area": 1,
         "TIME_PERIOD": 1993,
-        "OBS_VALUE": 119.4
+        "OBS_VALUE": 11.940000000000001
     },
     {
         "id": "Localizacion/CY/CY5",
+        "area": 1,
         "TIME_PERIOD": 1994,
-        "OBS_VALUE": 123.6
+        "OBS_VALUE": 12.36
     },
     {
         "id": "Localizacion/CY/CY6",
+        "area": 1,
         "TIME_PERIOD": 1995,
-        "OBS_VALUE": 123.8
+        "OBS_VALUE": 12.379999999999999
     },
     {
         "id": "Localizacion/CY/CY7",
+        "area": 1,
         "TIME_PERIOD": 1996,
-        "OBS_VALUE": 128.9
+        "OBS_VALUE": 12.89
     },
     {
         "id": "Localizacion/CY/CY8",
+        "area": 1,
         "TIME_PERIOD": 1997,
-        "OBS_VALUE": 130.1
+        "OBS_VALUE": 13.01
     },
     {
         "id": "Localizacion/CY/CY9",
+        "area": 1,
         "TIME_PERIOD": 1998,
-        "OBS_VALUE": 135.9
+        "OBS_VALUE": 13.59
     },
     {
         "id": "Localizacion/CY/CY10",
+        "area": 1,
         "TIME_PERIOD": 1999,
-        "OBS_VALUE": 140.5
+        "OBS_VALUE": 14.05
     },
     {
         "id": "Localizacion/CY/CY11",
+        "area": 1,
         "TIME_PERIOD": 2000,
-        "OBS_VALUE": 146
+        "OBS_VALUE": 14.6
     },
     {
         "id": "Localizacion/CY/CY12",
+        "area": 1,
         "TIME_PERIOD": 2001,
-        "OBS_VALUE": 147.1
+        "OBS_VALUE": 14.709999999999999
     },
     {
         "id": "Localizacion/CY/CY13",
+        "area": 1,
         "TIME_PERIOD": 2002,
-        "OBS_VALUE": 149.8
+        "OBS_VALUE": 14.98
     },
     {
         "id": "Localizacion/CY/CY14",
+        "area": 1,
         "TIME_PERIOD": 2003,
-        "OBS_VALUE": 156.9
+        "OBS_VALUE": 15.690000000000001
     },
     {
         "id": "Localizacion/CY/CY15",
+        "area": 1,
         "TIME_PERIOD": 2004,
-        "OBS_VALUE": 158.8
+        "OBS_VALUE": 15.88
     },
     {
         "id": "Localizacion/CY/CY16",
+        "area": 1,
         "TIME_PERIOD": 2005,
-        "OBS_VALUE": 159.6
+        "OBS_VALUE": 15.959999999999999
     },
     {
         "id": "Localizacion/CY/CY17",
+        "area": 1,
         "TIME_PERIOD": 2006,
-        "OBS_VALUE": 163.8
+        "OBS_VALUE": 16.380000000000003
     },
     {
         "id": "Localizacion/CY/CY18",
+        "area": 1,
         "TIME_PERIOD": 2007,
-        "OBS_VALUE": 169.5
+        "OBS_VALUE": 16.95
     },
     {
         "id": "Localizacion/CY/CY19",
+        "area": 1,
         "TIME_PERIOD": 2008,
-        "OBS_VALUE": 172.4
+        "OBS_VALUE": 17.240000000000002
     },
     {
         "id": "Localizacion/CY/CY20",
+        "area": 1,
         "TIME_PERIOD": 2009,
-        "OBS_VALUE": 167.3
+        "OBS_VALUE": 16.73
     },
     {
         "id": "Localizacion/CY/CY21",
+        "area": 1,
         "TIME_PERIOD": 2010,
-        "OBS_VALUE": 162.6
+        "OBS_VALUE": 16.259999999999998
     },
     {
         "id": "Localizacion/CY/CY22",
+        "area": 1,
         "TIME_PERIOD": 2011,
-        "OBS_VALUE": 157.5
+        "OBS_VALUE": 15.75
     },
     {
         "id": "Localizacion/CY/CY23",
+        "area": 1,
         "TIME_PERIOD": 2012,
-        "OBS_VALUE": 148.6
+        "OBS_VALUE": 14.86
     },
     {
         "id": "Localizacion/CY/CY24",
+        "area": 1,
         "TIME_PERIOD": 2013,
-        "OBS_VALUE": 136.1
+        "OBS_VALUE": 13.61
     },
     {
         "id": "Localizacion/CY/CY25",
+        "area": 1,
         "TIME_PERIOD": 2014,
-        "OBS_VALUE": 142.1
+        "OBS_VALUE": 14.209999999999999
     },
     {
         "id": "Localizacion/CY/CY26",
+        "area": 1,
         "TIME_PERIOD": 2015,
-        "OBS_VALUE": 142.6
+        "OBS_VALUE": 14.26
     },
     {
         "id": "Localizacion/CY/CY27",
+        "area": 1,
         "TIME_PERIOD": 2016,
-        "OBS_VALUE": 153.5
+        "OBS_VALUE": 15.35
     },
     {
         "id": "Localizacion/CY/CY28",
+        "area": 1,
         "TIME_PERIOD": 2017,
-        "OBS_VALUE": 156.5
+        "OBS_VALUE": 15.65
     },
     {
         "id": "Localizacion/CY/CY29",
+        "area": 1,
         "TIME_PERIOD": 2018,
-        "OBS_VALUE": 154.9
+        "OBS_VALUE": 15.49
     },
     {
         "id": "Localizacion/CY/CY30",
+        "area": 1,
         "TIME_PERIOD": 2019,
-        "OBS_VALUE": 155.9
+        "OBS_VALUE": 15.59
     },
     {
         "id": "Localizacion/CY/CY31",
+        "area": 1,
         "TIME_PERIOD": 2020,
-        "OBS_VALUE": 138.4
+        "OBS_VALUE": 13.84
     },
     {
         "id": "Localizacion/CY/CY32",
+        "area": 1,
         "TIME_PERIOD": 2021,
-        "OBS_VALUE": 145.7
+        "OBS_VALUE": 14.569999999999999
     },
     {
         "id": "Localizacion/CZ/CZ1",
+        "area": 1,
         "TIME_PERIOD": 1990,
-        "OBS_VALUE": 100
+        "OBS_VALUE": 10.0
     },
     {
         "id": "Localizacion/CZ/CZ2",
+        "area": 1,
         "TIME_PERIOD": 1991,
-        "OBS_VALUE": 89.8
+        "OBS_VALUE": 8.98
     },
     {
         "id": "Localizacion/CZ/CZ3",
+        "area": 1,
         "TIME_PERIOD": 1992,
-        "OBS_VALUE": 86.7
+        "OBS_VALUE": 8.67
     },
     {
         "id": "Localizacion/CZ/CZ4",
+        "area": 1,
         "TIME_PERIOD": 1993,
-        "OBS_VALUE": 82.8
+        "OBS_VALUE": 8.28
     },
     {
         "id": "Localizacion/CZ/CZ5",
+        "area": 1,
         "TIME_PERIOD": 1994,
-        "OBS_VALUE": 78.9
+        "OBS_VALUE": 7.890000000000001
     },
     {
         "id": "Localizacion/CZ/CZ6",
+        "area": 1,
         "TIME_PERIOD": 1995,
-        "OBS_VALUE": 78.2
+        "OBS_VALUE": 7.82
     },
     {
         "id": "Localizacion/CZ/CZ7",
+        "area": 1,
         "TIME_PERIOD": 1996,
-        "OBS_VALUE": 80
+        "OBS_VALUE": 8.0
     },
     {
         "id": "Localizacion/CZ/CZ8",
+        "area": 1,
         "TIME_PERIOD": 1997,
-        "OBS_VALUE": 78.1
+        "OBS_VALUE": 7.81
     },
     {
         "id": "Localizacion/CZ/CZ9",
+        "area": 1,
         "TIME_PERIOD": 1998,
-        "OBS_VALUE": 75
+        "OBS_VALUE": 7.5
     },
     {
         "id": "Localizacion/CZ/CZ10",
+        "area": 1,
         "TIME_PERIOD": 1999,
-        "OBS_VALUE": 69.7
+        "OBS_VALUE": 6.970000000000001
     },
     {
         "id": "Localizacion/CZ/CZ11",
+        "area": 1,
         "TIME_PERIOD": 2000,
-        "OBS_VALUE": 74.5
+        "OBS_VALUE": 7.45
     },
     {
         "id": "Localizacion/CZ/CZ12",
+        "area": 1,
         "TIME_PERIOD": 2001,
-        "OBS_VALUE": 74.3
+        "OBS_VALUE": 7.43
     },
     {
         "id": "Localizacion/CZ/CZ13",
+        "area": 1,
         "TIME_PERIOD": 2002,
-        "OBS_VALUE": 72.5
+        "OBS_VALUE": 7.25
     },
     {
         "id": "Localizacion/CZ/CZ14",
+        "area": 1,
         "TIME_PERIOD": 2003,
-        "OBS_VALUE": 74.5
+        "OBS_VALUE": 7.45
     },
     {
         "id": "Localizacion/CZ/CZ15",
+        "area": 1,
         "TIME_PERIOD": 2004,
-        "OBS_VALUE": 75.1
+        "OBS_VALUE": 7.51
     },
     {
         "id": "Localizacion/CZ/CZ16",
+        "area": 1,
         "TIME_PERIOD": 2005,
-        "OBS_VALUE": 74.1
+        "OBS_VALUE": 7.409999999999999
     },
     {
         "id": "Localizacion/CZ/CZ17",
+        "area": 1,
         "TIME_PERIOD": 2006,
-        "OBS_VALUE": 75.4
+        "OBS_VALUE": 7.540000000000001
     },
     {
         "id": "Localizacion/CZ/CZ18",
+        "area": 1,
         "TIME_PERIOD": 2007,
-        "OBS_VALUE": 76.5
+        "OBS_VALUE": 7.65
     },
     {
         "id": "Localizacion/CZ/CZ19",
+        "area": 1,
         "TIME_PERIOD": 2008,
-        "OBS_VALUE": 73.2
+        "OBS_VALUE": 7.32
     },
     {
         "id": "Localizacion/CZ/CZ20",
+        "area": 1,
         "TIME_PERIOD": 2009,
-        "OBS_VALUE": 68.2
+        "OBS_VALUE": 6.82
     },
     {
         "id": "Localizacion/CZ/CZ21",
+        "area": 1,
         "TIME_PERIOD": 2010,
-        "OBS_VALUE": 70
+        "OBS_VALUE": 7.0
     },
     {
         "id": "Localizacion/CZ/CZ22",
+        "area": 1,
         "TIME_PERIOD": 2011,
-        "OBS_VALUE": 69
+        "OBS_VALUE": 6.9
     },
     {
         "id": "Localizacion/CZ/CZ23",
+        "area": 1,
         "TIME_PERIOD": 2012,
-        "OBS_VALUE": 66.8
+        "OBS_VALUE": 6.68
     },
     {
         "id": "Localizacion/CZ/CZ24",
+        "area": 1,
         "TIME_PERIOD": 2013,
-        "OBS_VALUE": 64.2
+        "OBS_VALUE": 6.42
     },
     {
         "id": "Localizacion/CZ/CZ25",
+        "area": 1,
         "TIME_PERIOD": 2014,
-        "OBS_VALUE": 63.2
+        "OBS_VALUE": 6.32
     },
     {
         "id": "Localizacion/CZ/CZ26",
+        "area": 1,
         "TIME_PERIOD": 2015,
-        "OBS_VALUE": 63.9
+        "OBS_VALUE": 6.39
     },
     {
         "id": "Localizacion/CZ/CZ27",
+        "area": 1,
         "TIME_PERIOD": 2016,
-        "OBS_VALUE": 65.2
+        "OBS_VALUE": 6.5200000000000005
     },
     {
         "id": "Localizacion/CZ/CZ28",
+        "area": 1,
         "TIME_PERIOD": 2017,
-        "OBS_VALUE": 66.5
+        "OBS_VALUE": 6.65
     },
     {
         "id": "Localizacion/CZ/CZ29",
+        "area": 1,
         "TIME_PERIOD": 2018,
-        "OBS_VALUE": 68.5
+        "OBS_VALUE": 6.85
     },
     {
         "id": "Localizacion/CZ/CZ30",
+        "area": 1,
         "TIME_PERIOD": 2019,
-        "OBS_VALUE": 69.1
+        "OBS_VALUE": 6.909999999999999
     },
     {
         "id": "Localizacion/CZ/CZ31",
+        "area": 1,
         "TIME_PERIOD": 2020,
-        "OBS_VALUE": 65
+        "OBS_VALUE": 6.5
     },
     {
         "id": "Localizacion/CZ/CZ32",
+        "area": 1,
         "TIME_PERIOD": 2021,
-        "OBS_VALUE": 66.3
+        "OBS_VALUE": 6.63
     },
     {
         "id": "Localizacion/DE/DE1",
+        "area": 1,
         "TIME_PERIOD": 1990,
-        "OBS_VALUE": 100
+        "OBS_VALUE": 10.0
     },
     {
         "id": "Localizacion/DE/DE2",
+        "area": 1,
         "TIME_PERIOD": 1991,
-        "OBS_VALUE": 91.7
+        "OBS_VALUE": 9.17
     },
     {
         "id": "Localizacion/DE/DE3",
+        "area": 1,
         "TIME_PERIOD": 1992,
-        "OBS_VALUE": 87.4
+        "OBS_VALUE": 8.74
     },
     {
         "id": "Localizacion/DE/DE4",
+        "area": 1,
         "TIME_PERIOD": 1993,
-        "OBS_VALUE": 86.7
+        "OBS_VALUE": 8.67
     },
     {
         "id": "Localizacion/DE/DE5",
+        "area": 1,
         "TIME_PERIOD": 1994,
-        "OBS_VALUE": 85.7
+        "OBS_VALUE": 8.57
     },
     {
         "id": "Localizacion/DE/DE6",
+        "area": 1,
         "TIME_PERIOD": 1995,
-        "OBS_VALUE": 85.6
+        "OBS_VALUE": 8.559999999999999
     },
     {
         "id": "Localizacion/DE/DE7",
+        "area": 1,
         "TIME_PERIOD": 1996,
-        "OBS_VALUE": 87.5
+        "OBS_VALUE": 8.75
     },
     {
         "id": "Localizacion/DE/DE8",
+        "area": 1,
         "TIME_PERIOD": 1997,
-        "OBS_VALUE": 84.9
+        "OBS_VALUE": 8.49
     },
     {
         "id": "Localizacion/DE/DE9",
+        "area": 1,
         "TIME_PERIOD": 1998,
-        "OBS_VALUE": 83
+        "OBS_VALUE": 8.3
     },
     {
         "id": "Localizacion/DE/DE10",
+        "area": 1,
         "TIME_PERIOD": 1999,
-        "OBS_VALUE": 80.2
+        "OBS_VALUE": 8.02
     },
     {
         "id": "Localizacion/DE/DE11",
+        "area": 1,
         "TIME_PERIOD": 2000,
-        "OBS_VALUE": 81.6
+        "OBS_VALUE": 8.16
     },
     {
         "id": "Localizacion/DE/DE12",
+        "area": 1,
         "TIME_PERIOD": 2001,
-        "OBS_VALUE": 81.9
+        "OBS_VALUE": 8.190000000000001
     },
     {
         "id": "Localizacion/DE/DE13",
+        "area": 1,
         "TIME_PERIOD": 2002,
-        "OBS_VALUE": 82.7
+        "OBS_VALUE": 8.27
     },
     {
         "id": "Localizacion/DE/DE14",
+        "area": 1,
         "TIME_PERIOD": 2003,
-        "OBS_VALUE": 82.1
+        "OBS_VALUE": 8.209999999999999
     },
     {
         "id": "Localizacion/DE/DE15",
+        "area": 1,
         "TIME_PERIOD": 2004,
-        "OBS_VALUE": 80.2
+        "OBS_VALUE": 8.02
     },
     {
         "id": "Localizacion/DE/DE16",
+        "area": 1,
         "TIME_PERIOD": 2005,
-        "OBS_VALUE": 78.2
+        "OBS_VALUE": 7.82
     },
     {
         "id": "Localizacion/DE/DE17",
+        "area": 1,
         "TIME_PERIOD": 2006,
-        "OBS_VALUE": 78.3
+        "OBS_VALUE": 7.83
     },
     {
         "id": "Localizacion/DE/DE18",
+        "area": 1,
         "TIME_PERIOD": 2007,
-        "OBS_VALUE": 76.5
+        "OBS_VALUE": 7.65
     },
     {
         "id": "Localizacion/DE/DE19",
+        "area": 1,
         "TIME_PERIOD": 2008,
-        "OBS_VALUE": 76.1
+        "OBS_VALUE": 7.609999999999999
     },
     {
         "id": "Localizacion/DE/DE20",
+        "area": 1,
         "TIME_PERIOD": 2009,
-        "OBS_VALUE": 70.3
+        "OBS_VALUE": 7.029999999999999
     },
     {
         "id": "Localizacion/DE/DE21",
+        "area": 1,
         "TIME_PERIOD": 2010,
-        "OBS_VALUE": 73.4
+        "OBS_VALUE": 7.340000000000001
     },
     {
         "id": "Localizacion/DE/DE22",
+        "area": 1,
         "TIME_PERIOD": 2011,
-        "OBS_VALUE": 71
+        "OBS_VALUE": 7.1
     },
     {
         "id": "Localizacion/DE/DE23",
+        "area": 1,
         "TIME_PERIOD": 2012,
-        "OBS_VALUE": 70.9
+        "OBS_VALUE": 7.090000000000001
     },
     {
         "id": "Localizacion/DE/DE24",
+        "area": 1,
         "TIME_PERIOD": 2013,
-        "OBS_VALUE": 72.6
+        "OBS_VALUE": 7.26
     },
     {
         "id": "Localizacion/DE/DE25",
+        "area": 1,
         "TIME_PERIOD": 2014,
-        "OBS_VALUE": 70
+        "OBS_VALUE": 7.0
     },
     {
         "id": "Localizacion/DE/DE26",
+        "area": 1,
         "TIME_PERIOD": 2015,
-        "OBS_VALUE": 70.1
+        "OBS_VALUE": 7.01
     },
     {
         "id": "Localizacion/DE/DE27",
+        "area": 1,
         "TIME_PERIOD": 2016,
-        "OBS_VALUE": 70.2
+        "OBS_VALUE": 7.0200000000000005
     },
     {
         "id": "Localizacion/DE/DE28",
+        "area": 1,
         "TIME_PERIOD": 2017,
-        "OBS_VALUE": 69.3
+        "OBS_VALUE": 6.93
     },
     {
         "id": "Localizacion/DE/DE29",
+        "area": 1,
         "TIME_PERIOD": 2018,
-        "OBS_VALUE": 66.9
+        "OBS_VALUE": 6.69
     },
     {
         "id": "Localizacion/DE/DE30",
+        "area": 1,
         "TIME_PERIOD": 2019,
-        "OBS_VALUE": 62.9
+        "OBS_VALUE": 6.29
     },
     {
         "id": "Localizacion/DE/DE31",
+        "area": 1,
         "TIME_PERIOD": 2020,
-        "OBS_VALUE": 57.6
+        "OBS_VALUE": 5.76
     },
     {
         "id": "Localizacion/DE/DE32",
+        "area": 1,
         "TIME_PERIOD": 2021,
-        "OBS_VALUE": 60.2
+        "OBS_VALUE": 6.0200000000000005
     },
     {
         "id": "Localizacion/DK/DK1",
+        "area": 1,
         "TIME_PERIOD": 1990,
-        "OBS_VALUE": 100
+        "OBS_VALUE": 10.0
     },
     {
         "id": "Localizacion/DK/DK2",
+        "area": 1,
         "TIME_PERIOD": 1991,
-        "OBS_VALUE": 112.3
+        "OBS_VALUE": 11.23
     },
     {
         "id": "Localizacion/DK/DK3",
+        "area": 1,
         "TIME_PERIOD": 1992,
-        "OBS_VALUE": 106.2
+        "OBS_VALUE": 10.620000000000001
     },
     {
         "id": "Localizacion/DK/DK4",
+        "area": 1,
         "TIME_PERIOD": 1993,
-        "OBS_VALUE": 107.3
+        "OBS_VALUE": 10.73
     },
     {
         "id": "Localizacion/DK/DK5",
+        "area": 1,
         "TIME_PERIOD": 1994,
-        "OBS_VALUE": 111.8
+        "OBS_VALUE": 11.18
     },
     {
         "id": "Localizacion/DK/DK6",
+        "area": 1,
         "TIME_PERIOD": 1995,
-        "OBS_VALUE": 108.4
+        "OBS_VALUE": 10.84
     },
     {
         "id": "Localizacion/DK/DK7",
+        "area": 1,
         "TIME_PERIOD": 1996,
-        "OBS_VALUE": 124
+        "OBS_VALUE": 12.4
     },
     {
         "id": "Localizacion/DK/DK8",
+        "area": 1,
         "TIME_PERIOD": 1997,
-        "OBS_VALUE": 112.6
+        "OBS_VALUE": 11.26
     },
     {
         "id": "Localizacion/DK/DK9",
+        "area": 1,
         "TIME_PERIOD": 1998,
-        "OBS_VALUE": 107.7
+        "OBS_VALUE": 10.77
     },
     {
         "id": "Localizacion/DK/DK10",
+        "area": 1,
         "TIME_PERIOD": 1999,
-        "OBS_VALUE": 104.8
+        "OBS_VALUE": 10.48
     },
     {
         "id": "Localizacion/DK/DK11",
+        "area": 1,
         "TIME_PERIOD": 2000,
-        "OBS_VALUE": 99.2
+        "OBS_VALUE": 9.92
     },
     {
         "id": "Localizacion/DK/DK12",
+        "area": 1,
         "TIME_PERIOD": 2001,
-        "OBS_VALUE": 100.6
+        "OBS_VALUE": 10.059999999999999
     },
     {
         "id": "Localizacion/DK/DK13",
+        "area": 1,
         "TIME_PERIOD": 2002,
-        "OBS_VALUE": 100.9
+        "OBS_VALUE": 10.09
     },
     {
         "id": "Localizacion/DK/DK14",
+        "area": 1,
         "TIME_PERIOD": 2003,
-        "OBS_VALUE": 106.9
+        "OBS_VALUE": 10.690000000000001
     },
     {
         "id": "Localizacion/DK/DK15",
+        "area": 1,
         "TIME_PERIOD": 2004,
-        "OBS_VALUE": 99.5
+        "OBS_VALUE": 9.95
     },
     {
         "id": "Localizacion/DK/DK16",
+        "area": 1,
         "TIME_PERIOD": 2005,
-        "OBS_VALUE": 94.2
+        "OBS_VALUE": 9.42
     },
     {
         "id": "Localizacion/DK/DK17",
+        "area": 1,
         "TIME_PERIOD": 2006,
-        "OBS_VALUE": 104.1
+        "OBS_VALUE": 10.41
     },
     {
         "id": "Localizacion/DK/DK18",
+        "area": 1,
         "TIME_PERIOD": 2007,
-        "OBS_VALUE": 98.7
+        "OBS_VALUE": 9.870000000000001
     },
     {
         "id": "Localizacion/DK/DK19",
+        "area": 1,
         "TIME_PERIOD": 2008,
-        "OBS_VALUE": 92.4
+        "OBS_VALUE": 9.24
     },
     {
         "id": "Localizacion/DK/DK20",
+        "area": 1,
         "TIME_PERIOD": 2009,
-        "OBS_VALUE": 87.7
+        "OBS_VALUE": 8.77
     },
     {
         "id": "Localizacion/DK/DK21",
+        "area": 1,
         "TIME_PERIOD": 2010,
-        "OBS_VALUE": 86.8
+        "OBS_VALUE": 8.68
     },
     {
         "id": "Localizacion/DK/DK22",
+        "area": 1,
         "TIME_PERIOD": 2011,
-        "OBS_VALUE": 79.7
+        "OBS_VALUE": 7.970000000000001
     },
     {
         "id": "Localizacion/DK/DK23",
+        "area": 1,
         "TIME_PERIOD": 2012,
-        "OBS_VALUE": 73.5
+        "OBS_VALUE": 7.35
     },
     {
         "id": "Localizacion/DK/DK24",
+        "area": 1,
         "TIME_PERIOD": 2013,
-        "OBS_VALUE": 75.2
+        "OBS_VALUE": 7.5200000000000005
     },
     {
         "id": "Localizacion/DK/DK25",
+        "area": 1,
         "TIME_PERIOD": 2014,
-        "OBS_VALUE": 71.1
+        "OBS_VALUE": 7.109999999999999
     },
     {
         "id": "Localizacion/DK/DK26",
+        "area": 1,
         "TIME_PERIOD": 2015,
-        "OBS_VALUE": 66.3
+        "OBS_VALUE": 6.63
     },
     {
         "id": "Localizacion/DK/DK27",
+        "area": 1,
         "TIME_PERIOD": 2016,
-        "OBS_VALUE": 70.4
+        "OBS_VALUE": 7.040000000000001
     },
     {
         "id": "Localizacion/DK/DK28",
+        "area": 1,
         "TIME_PERIOD": 2017,
-        "OBS_VALUE": 67.6
+        "OBS_VALUE": 6.76
     },
     {
         "id": "Localizacion/DK/DK29",
+        "area": 1,
         "TIME_PERIOD": 2018,
-        "OBS_VALUE": 69.9
+        "OBS_VALUE": 6.99
     },
     {
         "id": "Localizacion/DK/DK30",
+        "area": 1,
         "TIME_PERIOD": 2019,
-        "OBS_VALUE": 64.2
+        "OBS_VALUE": 6.42
     },
     {
         "id": "Localizacion/DK/DK31",
+        "area": 1,
         "TIME_PERIOD": 2020,
-        "OBS_VALUE": 58.5
+        "OBS_VALUE": 5.85
     },
     {
         "id": "Localizacion/DK/DK32",
+        "area": 1,
         "TIME_PERIOD": 2021,
-        "OBS_VALUE": 59.3
+        "OBS_VALUE": 5.93
     },
     {
         "id": "Localizacion/EE/EE1",
+        "area": 1,
         "TIME_PERIOD": 1990,
-        "OBS_VALUE": 100
+        "OBS_VALUE": 10.0
     },
     {
         "id": "Localizacion/EE/EE2",
+        "area": 1,
         "TIME_PERIOD": 1991,
-        "OBS_VALUE": 92.5
+        "OBS_VALUE": 9.25
     },
     {
         "id": "Localizacion/EE/EE3",
+        "area": 1,
         "TIME_PERIOD": 1992,
-        "OBS_VALUE": 67.3
+        "OBS_VALUE": 6.7299999999999995
     },
     {
         "id": "Localizacion/EE/EE4",
+        "area": 1,
         "TIME_PERIOD": 1993,
-        "OBS_VALUE": 49.3
+        "OBS_VALUE": 4.93
     },
     {
         "id": "Localizacion/EE/EE5",
+        "area": 1,
         "TIME_PERIOD": 1994,
-        "OBS_VALUE": 52.2
+        "OBS_VALUE": 5.220000000000001
     },
     {
         "id": "Localizacion/EE/EE6",
+        "area": 1,
         "TIME_PERIOD": 1995,
-        "OBS_VALUE": 45.7
+        "OBS_VALUE": 4.57
     },
     {
         "id": "Localizacion/EE/EE7",
+        "area": 1,
         "TIME_PERIOD": 1996,
-        "OBS_VALUE": 47.3
+        "OBS_VALUE": 4.7299999999999995
     },
     {
         "id": "Localizacion/EE/EE8",
+        "area": 1,
         "TIME_PERIOD": 1997,
-        "OBS_VALUE": 46.2
+        "OBS_VALUE": 4.62
     },
     {
         "id": "Localizacion/EE/EE9",
+        "area": 1,
         "TIME_PERIOD": 1998,
-        "OBS_VALUE": 40.1
+        "OBS_VALUE": 4.01
     },
     {
         "id": "Localizacion/EE/EE10",
+        "area": 1,
         "TIME_PERIOD": 1999,
-        "OBS_VALUE": 38.2
+        "OBS_VALUE": 3.8200000000000003
     },
     {
         "id": "Localizacion/EE/EE11",
+        "area": 1,
         "TIME_PERIOD": 2000,
-        "OBS_VALUE": 35
+        "OBS_VALUE": 3.5
     },
     {
         "id": "Localizacion/EE/EE12",
+        "area": 1,
         "TIME_PERIOD": 2001,
-        "OBS_VALUE": 35.5
+        "OBS_VALUE": 3.55
     },
     {
         "id": "Localizacion/EE/EE13",
+        "area": 1,
         "TIME_PERIOD": 2002,
-        "OBS_VALUE": 34.8
+        "OBS_VALUE": 3.4799999999999995
     },
     {
         "id": "Localizacion/EE/EE14",
+        "area": 1,
         "TIME_PERIOD": 2003,
-        "OBS_VALUE": 41
+        "OBS_VALUE": 4.1
     },
     {
         "id": "Localizacion/EE/EE15",
+        "area": 1,
         "TIME_PERIOD": 2004,
-        "OBS_VALUE": 40.1
+        "OBS_VALUE": 4.01
     },
     {
         "id": "Localizacion/EE/EE16",
+        "area": 1,
         "TIME_PERIOD": 2005,
-        "OBS_VALUE": 45
+        "OBS_VALUE": 4.5
     },
     {
         "id": "Localizacion/EE/EE17",
+        "area": 1,
         "TIME_PERIOD": 2006,
-        "OBS_VALUE": 39
+        "OBS_VALUE": 3.9
     },
     {
         "id": "Localizacion/EE/EE18",
+        "area": 1,
         "TIME_PERIOD": 2007,
-        "OBS_VALUE": 50
+        "OBS_VALUE": 5.0
     },
     {
         "id": "Localizacion/EE/EE19",
+        "area": 1,
         "TIME_PERIOD": 2008,
-        "OBS_VALUE": 40.9
+        "OBS_VALUE": 4.09
     },
     {
         "id": "Localizacion/EE/EE20",
+        "area": 1,
         "TIME_PERIOD": 2009,
-        "OBS_VALUE": 32.2
+        "OBS_VALUE": 3.22
     },
     {
         "id": "Localizacion/EE/EE21",
+        "area": 1,
         "TIME_PERIOD": 2010,
-        "OBS_VALUE": 42.9
+        "OBS_VALUE": 4.29
     },
     {
         "id": "Localizacion/EE/EE22",
+        "area": 1,
         "TIME_PERIOD": 2011,
-        "OBS_VALUE": 43.7
+        "OBS_VALUE": 4.37
     },
     {
         "id": "Localizacion/EE/EE23",
+        "area": 1,
         "TIME_PERIOD": 2012,
-        "OBS_VALUE": 45.2
+        "OBS_VALUE": 4.5200000000000005
     },
     {
         "id": "Localizacion/EE/EE24",
+        "area": 1,
         "TIME_PERIOD": 2013,
-        "OBS_VALUE": 52.6
+        "OBS_VALUE": 5.26
     },
     {
         "id": "Localizacion/EE/EE25",
+        "area": 1,
         "TIME_PERIOD": 2014,
-        "OBS_VALUE": 57
+        "OBS_VALUE": 5.7
     },
     {
         "id": "Localizacion/EE/EE26",
+        "area": 1,
         "TIME_PERIOD": 2015,
-        "OBS_VALUE": 47.3
+        "OBS_VALUE": 4.7299999999999995
     },
     {
         "id": "Localizacion/EE/EE27",
+        "area": 1,
         "TIME_PERIOD": 2016,
-        "OBS_VALUE": 53.4
+        "OBS_VALUE": 5.34
     },
     {
         "id": "Localizacion/EE/EE28",
+        "area": 1,
         "TIME_PERIOD": 2017,
-        "OBS_VALUE": 58.2
+        "OBS_VALUE": 5.82
     },
     {
         "id": "Localizacion/EE/EE29",
+        "area": 1,
         "TIME_PERIOD": 2018,
-        "OBS_VALUE": 61.3
+        "OBS_VALUE": 6.13
     },
     {
         "id": "Localizacion/EE/EE30",
+        "area": 1,
         "TIME_PERIOD": 2019,
-        "OBS_VALUE": 43.3
+        "OBS_VALUE": 4.33
     },
     {
         "id": "Localizacion/EE/EE31",
+        "area": 1,
         "TIME_PERIOD": 2020,
-        "OBS_VALUE": 38.1
+        "OBS_VALUE": 3.81
     },
     {
         "id": "Localizacion/EE/EE32",
+        "area": 1,
         "TIME_PERIOD": 2021,
-        "OBS_VALUE": 42.6
+        "OBS_VALUE": 4.26
     },
     {
         "id": "Localizacion/EL/EL1",
+        "area": 1,
         "TIME_PERIOD": 1990,
-        "OBS_VALUE": 100
+        "OBS_VALUE": 10.0
     },
     {
         "id": "Localizacion/EL/EL2",
+        "area": 1,
         "TIME_PERIOD": 1991,
-        "OBS_VALUE": 99.6
+        "OBS_VALUE": 9.959999999999999
     },
     {
         "id": "Localizacion/EL/EL3",
+        "area": 1,
         "TIME_PERIOD": 1992,
-        "OBS_VALUE": 100.7
+        "OBS_VALUE": 10.07
     },
     {
         "id": "Localizacion/EL/EL4",
+        "area": 1,
         "TIME_PERIOD": 1993,
-        "OBS_VALUE": 99.9
+        "OBS_VALUE": 9.99
     },
     {
         "id": "Localizacion/EL/EL5",
+        "area": 1,
         "TIME_PERIOD": 1994,
-        "OBS_VALUE": 103.1
+        "OBS_VALUE": 10.309999999999999
     },
     {
         "id": "Localizacion/EL/EL6",
+        "area": 1,
         "TIME_PERIOD": 1995,
-        "OBS_VALUE": 104.8
+        "OBS_VALUE": 10.48
     },
     {
         "id": "Localizacion/EL/EL7",
+        "area": 1,
         "TIME_PERIOD": 1996,
-        "OBS_VALUE": 108.2
+        "OBS_VALUE": 10.82
     },
     {
         "id": "Localizacion/EL/EL8",
+        "area": 1,
         "TIME_PERIOD": 1997,
-        "OBS_VALUE": 113
+        "OBS_VALUE": 11.3
     },
     {
         "id": "Localizacion/EL/EL9",
+        "area": 1,
         "TIME_PERIOD": 1998,
-        "OBS_VALUE": 118.3
+        "OBS_VALUE": 11.83
     },
     {
         "id": "Localizacion/EL/EL10",
+        "area": 1,
         "TIME_PERIOD": 1999,
-        "OBS_VALUE": 118.2
+        "OBS_VALUE": 11.82
     },
     {
         "id": "Localizacion/EL/EL11",
+        "area": 1,
         "TIME_PERIOD": 2000,
-        "OBS_VALUE": 121.5
+        "OBS_VALUE": 12.15
     },
     {
         "id": "Localizacion/EL/EL12",
+        "area": 1,
         "TIME_PERIOD": 2001,
-        "OBS_VALUE": 122.3
+        "OBS_VALUE": 12.23
     },
     {
         "id": "Localizacion/EL/EL13",
+        "area": 1,
         "TIME_PERIOD": 2002,
-        "OBS_VALUE": 122
+        "OBS_VALUE": 12.2
     },
     {
         "id": "Localizacion/EL/EL14",
+        "area": 1,
         "TIME_PERIOD": 2003,
-        "OBS_VALUE": 126.6
+        "OBS_VALUE": 12.66
     },
     {
         "id": "Localizacion/EL/EL15",
+        "area": 1,
         "TIME_PERIOD": 2004,
-        "OBS_VALUE": 127.3
+        "OBS_VALUE": 12.73
     },
     {
         "id": "Localizacion/EL/EL16",
+        "area": 1,
         "TIME_PERIOD": 2005,
-        "OBS_VALUE": 130.3
+        "OBS_VALUE": 13.030000000000001
     },
     {
         "id": "Localizacion/EL/EL17",
+        "area": 1,
         "TIME_PERIOD": 2006,
-        "OBS_VALUE": 127.1
+        "OBS_VALUE": 12.709999999999999
     },
     {
         "id": "Localizacion/EL/EL18",
+        "area": 1,
         "TIME_PERIOD": 2007,
-        "OBS_VALUE": 131
+        "OBS_VALUE": 13.1
     },
     {
         "id": "Localizacion/EL/EL19",
+        "area": 1,
         "TIME_PERIOD": 2008,
-        "OBS_VALUE": 126.8
+        "OBS_VALUE": 12.68
     },
     {
         "id": "Localizacion/EL/EL20",
+        "area": 1,
         "TIME_PERIOD": 2009,
-        "OBS_VALUE": 119.5
+        "OBS_VALUE": 11.95
     },
     {
         "id": "Localizacion/EL/EL21",
+        "area": 1,
         "TIME_PERIOD": 2010,
-        "OBS_VALUE": 113.6
+        "OBS_VALUE": 11.36
     },
     {
         "id": "Localizacion/EL/EL22",
+        "area": 1,
         "TIME_PERIOD": 2011,
-        "OBS_VALUE": 110.7
+        "OBS_VALUE": 11.07
     },
     {
         "id": "Localizacion/EL/EL23",
+        "area": 1,
         "TIME_PERIOD": 2012,
-        "OBS_VALUE": 107.3
+        "OBS_VALUE": 10.73
     },
     {
         "id": "Localizacion/EL/EL24",
+        "area": 1,
         "TIME_PERIOD": 2013,
-        "OBS_VALUE": 99.5
+        "OBS_VALUE": 9.95
     },
     {
         "id": "Localizacion/EL/EL25",
+        "area": 1,
         "TIME_PERIOD": 2014,
-        "OBS_VALUE": 97.9
+        "OBS_VALUE": 9.790000000000001
     },
     {
         "id": "Localizacion/EL/EL26",
+        "area": 1,
         "TIME_PERIOD": 2015,
-        "OBS_VALUE": 90.8
+        "OBS_VALUE": 9.08
     },
     {
         "id": "Localizacion/EL/EL27",
+        "area": 1,
         "TIME_PERIOD": 2016,
-        "OBS_VALUE": 87.6
+        "OBS_VALUE": 8.76
     },
     {
         "id": "Localizacion/EL/EL28",
+        "area": 1,
         "TIME_PERIOD": 2017,
-        "OBS_VALUE": 91.6
+        "OBS_VALUE": 9.16
     },
     {
         "id": "Localizacion/EL/EL29",
+        "area": 1,
         "TIME_PERIOD": 2018,
-        "OBS_VALUE": 88.1
+        "OBS_VALUE": 8.809999999999999
     },
     {
         "id": "Localizacion/EL/EL30",
+        "area": 1,
         "TIME_PERIOD": 2019,
-        "OBS_VALUE": 81.3
+        "OBS_VALUE": 8.129999999999999
     },
     {
         "id": "Localizacion/EL/EL31",
+        "area": 1,
         "TIME_PERIOD": 2020,
-        "OBS_VALUE": 68.5
+        "OBS_VALUE": 6.85
     },
     {
         "id": "Localizacion/EL/EL32",
+        "area": 1,
         "TIME_PERIOD": 2021,
-        "OBS_VALUE": 71.5
+        "OBS_VALUE": 7.15
     },
     {
         "id": "Localizacion/ES/ES1",
+        "area": 1,
         "TIME_PERIOD": 1990,
-        "OBS_VALUE": 100
+        "OBS_VALUE": 10.0
     },
     {
         "id": "Localizacion/ES/ES2",
+        "area": 1,
         "TIME_PERIOD": 1991,
-        "OBS_VALUE": 103.1
+        "OBS_VALUE": 10.309999999999999
     },
     {
         "id": "Localizacion/ES/ES3",
+        "area": 1,
         "TIME_PERIOD": 1992,
-        "OBS_VALUE": 106.9
+        "OBS_VALUE": 10.690000000000001
     },
     {
         "id": "Localizacion/ES/ES4",
+        "area": 1,
         "TIME_PERIOD": 1993,
-        "OBS_VALUE": 102.5
+        "OBS_VALUE": 10.25
     },
     {
         "id": "Localizacion/ES/ES5",
+        "area": 1,
         "TIME_PERIOD": 1994,
-        "OBS_VALUE": 109.4
+        "OBS_VALUE": 10.940000000000001
     },
     {
         "id": "Localizacion/ES/ES6",
+        "area": 1,
         "TIME_PERIOD": 1995,
-        "OBS_VALUE": 115
+        "OBS_VALUE": 11.5
     },
     {
         "id": "Localizacion/ES/ES7",
+        "area": 1,
         "TIME_PERIOD": 1996,
-        "OBS_VALUE": 111.6
+        "OBS_VALUE": 11.16
     },
     {
         "id": "Localizacion/ES/ES8",
+        "area": 1,
         "TIME_PERIOD": 1997,
-        "OBS_VALUE": 117.2
+        "OBS_VALUE": 11.72
     },
     {
         "id": "Localizacion/ES/ES9",
+        "area": 1,
         "TIME_PERIOD": 1998,
-        "OBS_VALUE": 120.9
+        "OBS_VALUE": 12.09
     },
     {
         "id": "Localizacion/ES/ES10",
+        "area": 1,
         "TIME_PERIOD": 1999,
-        "OBS_VALUE": 129.9
+        "OBS_VALUE": 12.99
     },
     {
         "id": "Localizacion/ES/ES11",
+        "area": 1,
         "TIME_PERIOD": 2000,
-        "OBS_VALUE": 135.2
+        "OBS_VALUE": 13.52
     },
     {
         "id": "Localizacion/ES/ES12",
+        "area": 1,
         "TIME_PERIOD": 2001,
-        "OBS_VALUE": 134
+        "OBS_VALUE": 13.4
     },
     {
         "id": "Localizacion/ES/ES13",
+        "area": 1,
         "TIME_PERIOD": 2002,
-        "OBS_VALUE": 141.5
+        "OBS_VALUE": 14.15
     },
     {
         "id": "Localizacion/ES/ES14",
+        "area": 1,
         "TIME_PERIOD": 2003,
-        "OBS_VALUE": 144.6
+        "OBS_VALUE": 14.459999999999999
     },
     {
         "id": "Localizacion/ES/ES15",
+        "area": 1,
         "TIME_PERIOD": 2004,
-        "OBS_VALUE": 150.8
+        "OBS_VALUE": 15.080000000000002
     },
     {
         "id": "Localizacion/ES/ES16",
+        "area": 1,
         "TIME_PERIOD": 2005,
-        "OBS_VALUE": 157
+        "OBS_VALUE": 15.7
     },
     {
         "id": "Localizacion/ES/ES17",
+        "area": 1,
         "TIME_PERIOD": 2006,
-        "OBS_VALUE": 153.7
+        "OBS_VALUE": 15.37
     },
     {
         "id": "Localizacion/ES/ES18",
+        "area": 1,
         "TIME_PERIOD": 2007,
-        "OBS_VALUE": 159.2
+        "OBS_VALUE": 15.919999999999998
     },
     {
         "id": "Localizacion/ES/ES19",
+        "area": 1,
         "TIME_PERIOD": 2008,
-        "OBS_VALUE": 146.2
+        "OBS_VALUE": 14.62
     },
     {
         "id": "Localizacion/ES/ES20",
+        "area": 1,
         "TIME_PERIOD": 2009,
-        "OBS_VALUE": 131.6
+        "OBS_VALUE": 13.16
     },
     {
         "id": "Localizacion/ES/ES21",
+        "area": 1,
         "TIME_PERIOD": 2010,
-        "OBS_VALUE": 125
+        "OBS_VALUE": 12.5
     },
     {
         "id": "Localizacion/ES/ES22",
+        "area": 1,
         "TIME_PERIOD": 2011,
-        "OBS_VALUE": 125.7
+        "OBS_VALUE": 12.57
     },
     {
         "id": "Localizacion/ES/ES23",
+        "area": 1,
         "TIME_PERIOD": 2012,
-        "OBS_VALUE": 123.7
+        "OBS_VALUE": 12.370000000000001
     },
     {
         "id": "Localizacion/ES/ES24",
+        "area": 1,
         "TIME_PERIOD": 2013,
-        "OBS_VALUE": 113.6
+        "OBS_VALUE": 11.36
     },
     {
         "id": "Localizacion/ES/ES25",
+        "area": 1,
         "TIME_PERIOD": 2014,
-        "OBS_VALUE": 113.7
+        "OBS_VALUE": 11.370000000000001
     },
     {
         "id": "Localizacion/ES/ES26",
+        "area": 1,
         "TIME_PERIOD": 2015,
-        "OBS_VALUE": 117.5
+        "OBS_VALUE": 11.75
     },
     {
         "id": "Localizacion/ES/ES27",
+        "area": 1,
         "TIME_PERIOD": 2016,
-        "OBS_VALUE": 113.4
+        "OBS_VALUE": 11.34
     },
     {
         "id": "Localizacion/ES/ES28",
+        "area": 1,
         "TIME_PERIOD": 2017,
-        "OBS_VALUE": 118.7
+        "OBS_VALUE": 11.870000000000001
     },
     {
         "id": "Localizacion/ES/ES29",
+        "area": 1,
         "TIME_PERIOD": 2018,
-        "OBS_VALUE": 116.5
+        "OBS_VALUE": 11.65
     },
     {
         "id": "Localizacion/ES/ES30",
+        "area": 1,
         "TIME_PERIOD": 2019,
-        "OBS_VALUE": 109.7
+        "OBS_VALUE": 10.97
     },
     {
         "id": "Localizacion/ES/ES31",
+        "area": 1,
         "TIME_PERIOD": 2020,
-        "OBS_VALUE": 90.7
+        "OBS_VALUE": 9.07
     },
     {
         "id": "Localizacion/ES/ES32",
+        "area": 1,
         "TIME_PERIOD": 2021,
-        "OBS_VALUE": 97.7
+        "OBS_VALUE": 9.77
     },
     {
         "id": "Localizacion/EU27_2020/EU27_20201",
+        "area": 1,
         "TIME_PERIOD": 1990,
-        "OBS_VALUE": 100
+        "OBS_VALUE": 10.0
     },
     {
         "id": "Localizacion/EU27_2020/EU27_20202",
+        "area": 1,
         "TIME_PERIOD": 1991,
-        "OBS_VALUE": 95.6
+        "OBS_VALUE": 9.559999999999999
     },
     {
         "id": "Localizacion/EU27_2020/EU27_20203",
+        "area": 1,
         "TIME_PERIOD": 1992,
-        "OBS_VALUE": 93
+        "OBS_VALUE": 9.3
     },
     {
         "id": "Localizacion/EU27_2020/EU27_20204",
+        "area": 1,
         "TIME_PERIOD": 1993,
-        "OBS_VALUE": 91.1
+        "OBS_VALUE": 9.11
     },
     {
         "id": "Localizacion/EU27_2020/EU27_20205",
+        "area": 1,
         "TIME_PERIOD": 1994,
-        "OBS_VALUE": 90.8
+        "OBS_VALUE": 9.08
     },
     {
         "id": "Localizacion/EU27_2020/EU27_20206",
+        "area": 1,
         "TIME_PERIOD": 1995,
-        "OBS_VALUE": 91.5
+        "OBS_VALUE": 9.15
     },
     {
         "id": "Localizacion/EU27_2020/EU27_20207",
+        "area": 1,
         "TIME_PERIOD": 1996,
-        "OBS_VALUE": 93.1
+        "OBS_VALUE": 9.309999999999999
     },
     {
         "id": "Localizacion/EU27_2020/EU27_20208",
+        "area": 1,
         "TIME_PERIOD": 1997,
-        "OBS_VALUE": 91.8
+        "OBS_VALUE": 9.18
     },
     {
         "id": "Localizacion/EU27_2020/EU27_20209",
+        "area": 1,
         "TIME_PERIOD": 1998,
-        "OBS_VALUE": 90.7
+        "OBS_VALUE": 9.07
     },
     {
         "id": "Localizacion/EU27_2020/EU27_202010",
+        "area": 1,
         "TIME_PERIOD": 1999,
-        "OBS_VALUE": 89
+        "OBS_VALUE": 8.9
     },
     {
         "id": "Localizacion/EU27_2020/EU27_202011",
+        "area": 1,
         "TIME_PERIOD": 2000,
-        "OBS_VALUE": 89.8
+        "OBS_VALUE": 8.98
     },
     {
         "id": "Localizacion/EU27_2020/EU27_202012",
+        "area": 1,
         "TIME_PERIOD": 2001,
-        "OBS_VALUE": 89.8
+        "OBS_VALUE": 8.98
     },
     {
         "id": "Localizacion/EU27_2020/EU27_202013",
+        "area": 1,
         "TIME_PERIOD": 2002,
-        "OBS_VALUE": 90.1
+        "OBS_VALUE": 9.01
     },
     {
         "id": "Localizacion/EU27_2020/EU27_202014",
+        "area": 1,
         "TIME_PERIOD": 2003,
-        "OBS_VALUE": 92.1
+        "OBS_VALUE": 9.209999999999999
     },
     {
         "id": "Localizacion/EU27_2020/EU27_202015",
+        "area": 1,
         "TIME_PERIOD": 2004,
-        "OBS_VALUE": 91.5
+        "OBS_VALUE": 9.15
     },
     {
         "id": "Localizacion/EU27_2020/EU27_202016",
+        "area": 1,
         "TIME_PERIOD": 2005,
-        "OBS_VALUE": 91.2
+        "OBS_VALUE": 9.120000000000001
     },
     {
         "id": "Localizacion/EU27_2020/EU27_202017",
+        "area": 1,
         "TIME_PERIOD": 2006,
-        "OBS_VALUE": 91
+        "OBS_VALUE": 9.1
     },
     {
         "id": "Localizacion/EU27_2020/EU27_202018",
+        "area": 1,
         "TIME_PERIOD": 2007,
-        "OBS_VALUE": 91.4
+        "OBS_VALUE": 9.14
     },
     {
         "id": "Localizacion/EU27_2020/EU27_202019",
+        "area": 1,
         "TIME_PERIOD": 2008,
-        "OBS_VALUE": 88.5
+        "OBS_VALUE": 8.85
     },
     {
         "id": "Localizacion/EU27_2020/EU27_202020",
+        "area": 1,
         "TIME_PERIOD": 2009,
-        "OBS_VALUE": 81.6
+        "OBS_VALUE": 8.16
     },
     {
         "id": "Localizacion/EU27_2020/EU27_202021",
+        "area": 1,
         "TIME_PERIOD": 2010,
-        "OBS_VALUE": 83.4
+        "OBS_VALUE": 8.34
     },
     {
         "id": "Localizacion/EU27_2020/EU27_202022",
+        "area": 1,
         "TIME_PERIOD": 2011,
-        "OBS_VALUE": 81.2
+        "OBS_VALUE": 8.120000000000001
     },
     {
         "id": "Localizacion/EU27_2020/EU27_202023",
+        "area": 1,
         "TIME_PERIOD": 2012,
-        "OBS_VALUE": 79.7
+        "OBS_VALUE": 7.970000000000001
     },
     {
         "id": "Localizacion/EU27_2020/EU27_202024",
+        "area": 1,
         "TIME_PERIOD": 2013,
-        "OBS_VALUE": 77.9
+        "OBS_VALUE": 7.790000000000001
     },
     {
         "id": "Localizacion/EU27_2020/EU27_202025",
+        "area": 1,
         "TIME_PERIOD": 2014,
-        "OBS_VALUE": 75.2
+        "OBS_VALUE": 7.5200000000000005
     },
     {
         "id": "Localizacion/EU27_2020/EU27_202026",
+        "area": 1,
         "TIME_PERIOD": 2015,
-        "OBS_VALUE": 76.4
+        "OBS_VALUE": 7.640000000000001
     },
     {
         "id": "Localizacion/EU27_2020/EU27_202027",
+        "area": 1,
         "TIME_PERIOD": 2016,
-        "OBS_VALUE": 76.6
+        "OBS_VALUE": 7.659999999999999
     },
     {
         "id": "Localizacion/EU27_2020/EU27_202028",
+        "area": 1,
         "TIME_PERIOD": 2017,
-        "OBS_VALUE": 78.7
+        "OBS_VALUE": 7.87
     },
     {
         "id": "Localizacion/EU27_2020/EU27_202029",
+        "area": 1,
         "TIME_PERIOD": 2018,
-        "OBS_VALUE": 76.9
+        "OBS_VALUE": 7.69
     },
     {
         "id": "Localizacion/EU27_2020/EU27_202030",
+        "area": 1,
         "TIME_PERIOD": 2019,
-        "OBS_VALUE": 73.8
+        "OBS_VALUE": 7.38
     },
     {
         "id": "Localizacion/EU27_2020/EU27_202031",
+        "area": 1,
         "TIME_PERIOD": 2020,
-        "OBS_VALUE": 66.2
+        "OBS_VALUE": 6.62
     },
     {
         "id": "Localizacion/EU27_2020/EU27_202032",
+        "area": 1,
         "TIME_PERIOD": 2021,
-        "OBS_VALUE": 70.3
+        "OBS_VALUE": 7.029999999999999
     },
     {
         "id": "Localizacion/FI/FI1",
+        "area": 1,
         "TIME_PERIOD": 1990,
-        "OBS_VALUE": 100
+        "OBS_VALUE": 10.0
     },
     {
         "id": "Localizacion/FI/FI2",
+        "area": 1,
         "TIME_PERIOD": 1991,
-        "OBS_VALUE": 68.7
+        "OBS_VALUE": 6.87
     },
     {
         "id": "Localizacion/FI/FI3",
+        "area": 1,
         "TIME_PERIOD": 1992,
-        "OBS_VALUE": 78.4
+        "OBS_VALUE": 7.840000000000001
     },
     {
         "id": "Localizacion/FI/FI4",
+        "area": 1,
         "TIME_PERIOD": 1993,
-        "OBS_VALUE": 81.6
+        "OBS_VALUE": 8.16
     },
     {
         "id": "Localizacion/FI/FI5",
+        "area": 1,
         "TIME_PERIOD": 1994,
-        "OBS_VALUE": 108.3
+        "OBS_VALUE": 10.83
     },
     {
         "id": "Localizacion/FI/FI6",
+        "area": 1,
         "TIME_PERIOD": 1995,
-        "OBS_VALUE": 103.2
+        "OBS_VALUE": 10.32
     },
     {
         "id": "Localizacion/FI/FI7",
+        "area": 1,
         "TIME_PERIOD": 1996,
-        "OBS_VALUE": 102.5
+        "OBS_VALUE": 10.25
     },
     {
         "id": "Localizacion/FI/FI8",
+        "area": 1,
         "TIME_PERIOD": 1997,
-        "OBS_VALUE": 109.6
+        "OBS_VALUE": 10.959999999999999
     },
     {
         "id": "Localizacion/FI/FI9",
+        "area": 1,
         "TIME_PERIOD": 1998,
-        "OBS_VALUE": 106
+        "OBS_VALUE": 10.6
     },
     {
         "id": "Localizacion/FI/FI10",
+        "area": 1,
         "TIME_PERIOD": 1999,
-        "OBS_VALUE": 104.2
+        "OBS_VALUE": 10.42
     },
     {
         "id": "Localizacion/FI/FI11",
+        "area": 1,
         "TIME_PERIOD": 2000,
-        "OBS_VALUE": 100.9
+        "OBS_VALUE": 10.09
     },
     {
         "id": "Localizacion/FI/FI12",
+        "area": 1,
         "TIME_PERIOD": 2001,
-        "OBS_VALUE": 110.8
+        "OBS_VALUE": 11.08
     },
     {
         "id": "Localizacion/FI/FI13",
+        "area": 1,
         "TIME_PERIOD": 2002,
-        "OBS_VALUE": 113.5
+        "OBS_VALUE": 11.35
     },
     {
         "id": "Localizacion/FI/FI14",
+        "area": 1,
         "TIME_PERIOD": 2003,
-        "OBS_VALUE": 128.8
+        "OBS_VALUE": 12.88
     },
     {
         "id": "Localizacion/FI/FI15",
+        "area": 1,
         "TIME_PERIOD": 2004,
-        "OBS_VALUE": 117.8
+        "OBS_VALUE": 11.78
     },
     {
         "id": "Localizacion/FI/FI16",
+        "area": 1,
         "TIME_PERIOD": 2005,
-        "OBS_VALUE": 91.8
+        "OBS_VALUE": 9.18
     },
     {
         "id": "Localizacion/FI/FI17",
+        "area": 1,
         "TIME_PERIOD": 2006,
-        "OBS_VALUE": 108.3
+        "OBS_VALUE": 10.83
     },
     {
         "id": "Localizacion/FI/FI18",
+        "area": 1,
         "TIME_PERIOD": 2007,
-        "OBS_VALUE": 125.9
+        "OBS_VALUE": 12.59
     },
     {
         "id": "Localizacion/FI/FI19",
+        "area": 1,
         "TIME_PERIOD": 2008,
-        "OBS_VALUE": 103.1
+        "OBS_VALUE": 10.309999999999999
     },
     {
         "id": "Localizacion/FI/FI20",
+        "area": 1,
         "TIME_PERIOD": 2009,
-        "OBS_VALUE": 68.4
+        "OBS_VALUE": 6.840000000000001
     },
     {
         "id": "Localizacion/FI/FI21",
+        "area": 1,
         "TIME_PERIOD": 2010,
-        "OBS_VALUE": 110.3
+        "OBS_VALUE": 11.03
     },
     {
         "id": "Localizacion/FI/FI22",
+        "area": 1,
         "TIME_PERIOD": 2011,
-        "OBS_VALUE": 95.9
+        "OBS_VALUE": 9.59
     },
     {
         "id": "Localizacion/FI/FI23",
+        "area": 1,
         "TIME_PERIOD": 2012,
-        "OBS_VALUE": 80
+        "OBS_VALUE": 8.0
     },
     {
         "id": "Localizacion/FI/FI24",
+        "area": 1,
         "TIME_PERIOD": 2013,
-        "OBS_VALUE": 95.7
+        "OBS_VALUE": 9.57
     },
     {
         "id": "Localizacion/FI/FI25",
+        "area": 1,
         "TIME_PERIOD": 2014,
-        "OBS_VALUE": 85.6
+        "OBS_VALUE": 8.559999999999999
     },
     {
         "id": "Localizacion/FI/FI26",
+        "area": 1,
         "TIME_PERIOD": 2015,
-        "OBS_VALUE": 86.8
+        "OBS_VALUE": 8.68
     },
     {
         "id": "Localizacion/FI/FI27",
+        "area": 1,
         "TIME_PERIOD": 2016,
-        "OBS_VALUE": 100
+        "OBS_VALUE": 10.0
     },
     {
         "id": "Localizacion/FI/FI28",
+        "area": 1,
         "TIME_PERIOD": 2017,
-        "OBS_VALUE": 99.4
+        "OBS_VALUE": 9.940000000000001
     },
     {
         "id": "Localizacion/FI/FI29",
+        "area": 1,
         "TIME_PERIOD": 2018,
-        "OBS_VALUE": 121.8
+        "OBS_VALUE": 12.18
     },
     {
         "id": "Localizacion/FI/FI30",
+        "area": 1,
         "TIME_PERIOD": 2019,
-        "OBS_VALUE": 104.7
+        "OBS_VALUE": 10.47
     },
     {
         "id": "Localizacion/FI/FI31",
+        "area": 1,
         "TIME_PERIOD": 2020,
-        "OBS_VALUE": 85.2
+        "OBS_VALUE": 8.52
     },
     {
         "id": "Localizacion/FI/FI32",
+        "area": 1,
         "TIME_PERIOD": 2021,
-        "OBS_VALUE": 105.8
+        "OBS_VALUE": 10.58
     },
     {
         "id": "Localizacion/FR/FR1",
+        "area": 1,
         "TIME_PERIOD": 1990,
-        "OBS_VALUE": 100
+        "OBS_VALUE": 10.0
     },
     {
         "id": "Localizacion/FR/FR2",
+        "area": 1,
         "TIME_PERIOD": 1991,
-        "OBS_VALUE": 104.8
+        "OBS_VALUE": 10.48
     },
     {
         "id": "Localizacion/FR/FR3",
+        "area": 1,
         "TIME_PERIOD": 1992,
-        "OBS_VALUE": 103.7
+        "OBS_VALUE": 10.370000000000001
     },
     {
         "id": "Localizacion/FR/FR4",
+        "area": 1,
         "TIME_PERIOD": 1993,
-        "OBS_VALUE": 99
+        "OBS_VALUE": 9.9
     },
     {
         "id": "Localizacion/FR/FR5",
+        "area": 1,
         "TIME_PERIOD": 1994,
-        "OBS_VALUE": 97.9
+        "OBS_VALUE": 9.790000000000001
     },
     {
         "id": "Localizacion/FR/FR6",
+        "area": 1,
         "TIME_PERIOD": 1995,
-        "OBS_VALUE": 98.4
+        "OBS_VALUE": 9.84
     },
     {
         "id": "Localizacion/FR/FR7",
+        "area": 1,
         "TIME_PERIOD": 1996,
-        "OBS_VALUE": 100.6
+        "OBS_VALUE": 10.059999999999999
     },
     {
         "id": "Localizacion/FR/FR8",
+        "area": 1,
         "TIME_PERIOD": 1997,
-        "OBS_VALUE": 98.9
+        "OBS_VALUE": 9.89
     },
     {
         "id": "Localizacion/FR/FR9",
+        "area": 1,
         "TIME_PERIOD": 1998,
-        "OBS_VALUE": 101.2
+        "OBS_VALUE": 10.120000000000001
     },
     {
         "id": "Localizacion/FR/FR10",
+        "area": 1,
         "TIME_PERIOD": 1999,
-        "OBS_VALUE": 99.7
+        "OBS_VALUE": 9.97
     },
     {
         "id": "Localizacion/FR/FR11",
+        "area": 1,
         "TIME_PERIOD": 2000,
-        "OBS_VALUE": 101.7
+        "OBS_VALUE": 10.17
     },
     {
         "id": "Localizacion/FR/FR12",
+        "area": 1,
         "TIME_PERIOD": 2001,
-        "OBS_VALUE": 100.2
+        "OBS_VALUE": 10.02
     },
     {
         "id": "Localizacion/FR/FR13",
+        "area": 1,
         "TIME_PERIOD": 2002,
-        "OBS_VALUE": 97.2
+        "OBS_VALUE": 9.72
     },
     {
         "id": "Localizacion/FR/FR14",
+        "area": 1,
         "TIME_PERIOD": 2003,
-        "OBS_VALUE": 97.1
+        "OBS_VALUE": 9.709999999999999
     },
     {
         "id": "Localizacion/FR/FR15",
+        "area": 1,
         "TIME_PERIOD": 2004,
-        "OBS_VALUE": 96.8
+        "OBS_VALUE": 9.68
     },
     {
         "id": "Localizacion/FR/FR16",
+        "area": 1,
         "TIME_PERIOD": 2005,
-        "OBS_VALUE": 97.1
+        "OBS_VALUE": 9.709999999999999
     },
     {
         "id": "Localizacion/FR/FR17",
+        "area": 1,
         "TIME_PERIOD": 2006,
-        "OBS_VALUE": 95.2
+        "OBS_VALUE": 9.52
     },
     {
         "id": "Localizacion/FR/FR18",
+        "area": 1,
         "TIME_PERIOD": 2007,
-        "OBS_VALUE": 93.9
+        "OBS_VALUE": 9.39
     },
     {
         "id": "Localizacion/FR/FR19",
+        "area": 1,
         "TIME_PERIOD": 2008,
-        "OBS_VALUE": 93
+        "OBS_VALUE": 9.3
     },
     {
         "id": "Localizacion/FR/FR20",
+        "area": 1,
         "TIME_PERIOD": 2009,
-        "OBS_VALUE": 90.6
+        "OBS_VALUE": 9.059999999999999
     },
     {
         "id": "Localizacion/FR/FR21",
+        "area": 1,
         "TIME_PERIOD": 2010,
-        "OBS_VALUE": 90.8
+        "OBS_VALUE": 9.08
     },
     {
         "id": "Localizacion/FR/FR22",
+        "area": 1,
         "TIME_PERIOD": 2011,
-        "OBS_VALUE": 85.9
+        "OBS_VALUE": 8.59
     },
     {
         "id": "Localizacion/FR/FR23",
+        "area": 1,
         "TIME_PERIOD": 2012,
-        "OBS_VALUE": 85.4
+        "OBS_VALUE": 8.540000000000001
     },
     {
         "id": "Localizacion/FR/FR24",
+        "area": 1,
         "TIME_PERIOD": 2013,
-        "OBS_VALUE": 85.5
+        "OBS_VALUE": 8.55
     },
     {
         "id": "Localizacion/FR/FR25",
+        "area": 1,
         "TIME_PERIOD": 2014,
-        "OBS_VALUE": 80.3
+        "OBS_VALUE": 8.03
     },
     {
         "id": "Localizacion/FR/FR26",
+        "area": 1,
         "TIME_PERIOD": 2015,
-        "OBS_VALUE": 82
+        "OBS_VALUE": 8.2
     },
     {
         "id": "Localizacion/FR/FR27",
+        "area": 1,
         "TIME_PERIOD": 2016,
-        "OBS_VALUE": 83.5
+        "OBS_VALUE": 8.35
     },
     {
         "id": "Localizacion/FR/FR28",
+        "area": 1,
         "TIME_PERIOD": 2017,
-        "OBS_VALUE": 85.9
+        "OBS_VALUE": 8.59
     },
     {
         "id": "Localizacion/FR/FR29",
+        "area": 1,
         "TIME_PERIOD": 2018,
-        "OBS_VALUE": 82.7
+        "OBS_VALUE": 8.27
     },
     {
         "id": "Localizacion/FR/FR30",
+        "area": 1,
         "TIME_PERIOD": 2019,
-        "OBS_VALUE": 81.4
+        "OBS_VALUE": 8.14
     },
     {
         "id": "Localizacion/FR/FR31",
+        "area": 1,
         "TIME_PERIOD": 2020,
-        "OBS_VALUE": 71.4
+        "OBS_VALUE": 7.140000000000001
     },
     {
         "id": "Localizacion/FR/FR32",
+        "area": 1,
         "TIME_PERIOD": 2021,
-        "OBS_VALUE": 76.5
+        "OBS_VALUE": 7.65
     },
     {
         "id": "Localizacion/HR/HR1",
+        "area": 1,
         "TIME_PERIOD": 1990,
-        "OBS_VALUE": 100
+        "OBS_VALUE": 10.0
     },
     {
         "id": "Localizacion/HR/HR2",
+        "area": 1,
         "TIME_PERIOD": 1991,
-        "OBS_VALUE": 68
+        "OBS_VALUE": 6.8
     },
     {
         "id": "Localizacion/HR/HR3",
+        "area": 1,
         "TIME_PERIOD": 1992,
-        "OBS_VALUE": 60.2
+        "OBS_VALUE": 6.0200000000000005
     },
     {
         "id": "Localizacion/HR/HR4",
+        "area": 1,
         "TIME_PERIOD": 1993,
-        "OBS_VALUE": 59.9
+        "OBS_VALUE": 5.99
     },
     {
         "id": "Localizacion/HR/HR5",
+        "area": 1,
         "TIME_PERIOD": 1994,
-        "OBS_VALUE": 55.6
+        "OBS_VALUE": 5.5600000000000005
     },
     {
         "id": "Localizacion/HR/HR6",
+        "area": 1,
         "TIME_PERIOD": 1995,
-        "OBS_VALUE": 56.3
+        "OBS_VALUE": 5.63
     },
     {
         "id": "Localizacion/HR/HR7",
+        "area": 1,
         "TIME_PERIOD": 1996,
-        "OBS_VALUE": 59.5
+        "OBS_VALUE": 5.95
     },
     {
         "id": "Localizacion/HR/HR8",
+        "area": 1,
         "TIME_PERIOD": 1997,
-        "OBS_VALUE": 67.2
+        "OBS_VALUE": 6.720000000000001
     },
     {
         "id": "Localizacion/HR/HR9",
+        "area": 1,
         "TIME_PERIOD": 1998,
-        "OBS_VALUE": 68.5
+        "OBS_VALUE": 6.85
     },
     {
         "id": "Localizacion/HR/HR10",
+        "area": 1,
         "TIME_PERIOD": 1999,
-        "OBS_VALUE": 70.4
+        "OBS_VALUE": 7.040000000000001
     },
     {
         "id": "Localizacion/HR/HR11",
+        "area": 1,
         "TIME_PERIOD": 2000,
-        "OBS_VALUE": 74.7
+        "OBS_VALUE": 7.470000000000001
     },
     {
         "id": "Localizacion/HR/HR12",
+        "area": 1,
         "TIME_PERIOD": 2001,
-        "OBS_VALUE": 74.5
+        "OBS_VALUE": 7.45
     },
     {
         "id": "Localizacion/HR/HR13",
+        "area": 1,
         "TIME_PERIOD": 2002,
-        "OBS_VALUE": 77.5
+        "OBS_VALUE": 7.75
     },
     {
         "id": "Localizacion/HR/HR14",
+        "area": 1,
         "TIME_PERIOD": 2003,
-        "OBS_VALUE": 86.4
+        "OBS_VALUE": 8.64
     },
     {
         "id": "Localizacion/HR/HR15",
+        "area": 1,
         "TIME_PERIOD": 2004,
-        "OBS_VALUE": 85.3
+        "OBS_VALUE": 8.53
     },
     {
         "id": "Localizacion/HR/HR16",
+        "area": 1,
         "TIME_PERIOD": 2005,
-        "OBS_VALUE": 86.5
+        "OBS_VALUE": 8.65
     },
     {
         "id": "Localizacion/HR/HR17",
+        "area": 1,
         "TIME_PERIOD": 2006,
-        "OBS_VALUE": 88.8
+        "OBS_VALUE": 8.879999999999999
     },
     {
         "id": "Localizacion/HR/HR18",
+        "area": 1,
         "TIME_PERIOD": 2007,
-        "OBS_VALUE": 98.9
+        "OBS_VALUE": 9.89
     },
     {
         "id": "Localizacion/HR/HR19",
+        "area": 1,
         "TIME_PERIOD": 2008,
-        "OBS_VALUE": 94.6
+        "OBS_VALUE": 9.459999999999999
     },
     {
         "id": "Localizacion/HR/HR20",
+        "area": 1,
         "TIME_PERIOD": 2009,
-        "OBS_VALUE": 85.4
+        "OBS_VALUE": 8.540000000000001
     },
     {
         "id": "Localizacion/HR/HR21",
+        "area": 1,
         "TIME_PERIOD": 2010,
-        "OBS_VALUE": 84.2
+        "OBS_VALUE": 8.42
     },
     {
         "id": "Localizacion/HR/HR22",
+        "area": 1,
         "TIME_PERIOD": 2011,
-        "OBS_VALUE": 88
+        "OBS_VALUE": 8.8
     },
     {
         "id": "Localizacion/HR/HR23",
+        "area": 1,
         "TIME_PERIOD": 2012,
-        "OBS_VALUE": 82.9
+        "OBS_VALUE": 8.290000000000001
     },
     {
         "id": "Localizacion/HR/HR24",
+        "area": 1,
         "TIME_PERIOD": 2013,
-        "OBS_VALUE": 74.5
+        "OBS_VALUE": 7.45
     },
     {
         "id": "Localizacion/HR/HR25",
+        "area": 1,
         "TIME_PERIOD": 2014,
-        "OBS_VALUE": 72.2
+        "OBS_VALUE": 7.220000000000001
     },
     {
         "id": "Localizacion/HR/HR26",
+        "area": 1,
         "TIME_PERIOD": 2015,
-        "OBS_VALUE": 75.2
+        "OBS_VALUE": 7.5200000000000005
     },
     {
         "id": "Localizacion/HR/HR27",
+        "area": 1,
         "TIME_PERIOD": 2016,
-        "OBS_VALUE": 76.1
+        "OBS_VALUE": 7.609999999999999
     },
     {
         "id": "Localizacion/HR/HR28",
+        "area": 1,
         "TIME_PERIOD": 2017,
-        "OBS_VALUE": 82.9
+        "OBS_VALUE": 8.290000000000001
     },
     {
         "id": "Localizacion/HR/HR29",
+        "area": 1,
         "TIME_PERIOD": 2018,
-        "OBS_VALUE": 76.7
+        "OBS_VALUE": 7.67
     },
     {
         "id": "Localizacion/HR/HR30",
+        "area": 1,
         "TIME_PERIOD": 2019,
-        "OBS_VALUE": 76.7
+        "OBS_VALUE": 7.67
     },
     {
         "id": "Localizacion/HR/HR31",
+        "area": 1,
         "TIME_PERIOD": 2020,
-        "OBS_VALUE": 71.8
+        "OBS_VALUE": 7.18
     },
     {
         "id": "Localizacion/HR/HR32",
+        "area": 1,
         "TIME_PERIOD": 2021,
-        "OBS_VALUE": 73.9
+        "OBS_VALUE": 7.390000000000001
     },
     {
         "id": "Localizacion/HU/HU1",
+        "area": 1,
         "TIME_PERIOD": 1990,
-        "OBS_VALUE": 100
+        "OBS_VALUE": 10.0
     },
     {
         "id": "Localizacion/HU/HU2",
+        "area": 1,
         "TIME_PERIOD": 1991,
-        "OBS_VALUE": 94
+        "OBS_VALUE": 9.4
     },
     {
         "id": "Localizacion/HU/HU3",
+        "area": 1,
         "TIME_PERIOD": 1992,
-        "OBS_VALUE": 82.7
+        "OBS_VALUE": 8.27
     },
     {
         "id": "Localizacion/HU/HU4",
+        "area": 1,
         "TIME_PERIOD": 1993,
-        "OBS_VALUE": 80.9
+        "OBS_VALUE": 8.09
     },
     {
         "id": "Localizacion/HU/HU5",
+        "area": 1,
         "TIME_PERIOD": 1994,
-        "OBS_VALUE": 79.2
+        "OBS_VALUE": 7.92
     },
     {
         "id": "Localizacion/HU/HU6",
+        "area": 1,
         "TIME_PERIOD": 1995,
-        "OBS_VALUE": 78
+        "OBS_VALUE": 7.8
     },
     {
         "id": "Localizacion/HU/HU7",
+        "area": 1,
         "TIME_PERIOD": 1996,
-        "OBS_VALUE": 84.4
+        "OBS_VALUE": 8.440000000000001
     },
     {
         "id": "Localizacion/HU/HU8",
+        "area": 1,
         "TIME_PERIOD": 1997,
-        "OBS_VALUE": 82.2
+        "OBS_VALUE": 8.22
     },
     {
         "id": "Localizacion/HU/HU9",
+        "area": 1,
         "TIME_PERIOD": 1998,
-        "OBS_VALUE": 80.5
+        "OBS_VALUE": 8.05
     },
     {
         "id": "Localizacion/HU/HU10",
+        "area": 1,
         "TIME_PERIOD": 1999,
-        "OBS_VALUE": 83.5
+        "OBS_VALUE": 8.35
     },
     {
         "id": "Localizacion/HU/HU11",
+        "area": 1,
         "TIME_PERIOD": 2000,
-        "OBS_VALUE": 81.4
+        "OBS_VALUE": 8.14
     },
     {
         "id": "Localizacion/HU/HU12",
+        "area": 1,
         "TIME_PERIOD": 2001,
-        "OBS_VALUE": 81.5
+        "OBS_VALUE": 8.15
     },
     {
         "id": "Localizacion/HU/HU13",
+        "area": 1,
         "TIME_PERIOD": 2002,
-        "OBS_VALUE": 80.4
+        "OBS_VALUE": 8.040000000000001
     },
     {
         "id": "Localizacion/HU/HU14",
+        "area": 1,
         "TIME_PERIOD": 2003,
-        "OBS_VALUE": 80.9
+        "OBS_VALUE": 8.09
     },
     {
         "id": "Localizacion/HU/HU15",
+        "area": 1,
         "TIME_PERIOD": 2004,
-        "OBS_VALUE": 80.8
+        "OBS_VALUE": 8.08
     },
     {
         "id": "Localizacion/HU/HU16",
+        "area": 1,
         "TIME_PERIOD": 2005,
-        "OBS_VALUE": 77.9
+        "OBS_VALUE": 7.790000000000001
     },
     {
         "id": "Localizacion/HU/HU17",
+        "area": 1,
         "TIME_PERIOD": 2006,
-        "OBS_VALUE": 78.6
+        "OBS_VALUE": 7.859999999999999
     },
     {
         "id": "Localizacion/HU/HU18",
+        "area": 1,
         "TIME_PERIOD": 2007,
-        "OBS_VALUE": 76.5
+        "OBS_VALUE": 7.65
     },
     {
         "id": "Localizacion/HU/HU19",
+        "area": 1,
         "TIME_PERIOD": 2008,
-        "OBS_VALUE": 72.5
+        "OBS_VALUE": 7.25
     },
     {
         "id": "Localizacion/HU/HU20",
+        "area": 1,
         "TIME_PERIOD": 2009,
-        "OBS_VALUE": 67.3
+        "OBS_VALUE": 6.7299999999999995
     },
     {
         "id": "Localizacion/HU/HU21",
+        "area": 1,
         "TIME_PERIOD": 2010,
-        "OBS_VALUE": 67.8
+        "OBS_VALUE": 6.779999999999999
     },
     {
         "id": "Localizacion/HU/HU22",
+        "area": 1,
         "TIME_PERIOD": 2011,
-        "OBS_VALUE": 66.7
+        "OBS_VALUE": 6.67
     },
     {
         "id": "Localizacion/HU/HU23",
+        "area": 1,
         "TIME_PERIOD": 2012,
-        "OBS_VALUE": 62.2
+        "OBS_VALUE": 6.220000000000001
     },
     {
         "id": "Localizacion/HU/HU24",
+        "area": 1,
         "TIME_PERIOD": 2013,
-        "OBS_VALUE": 59.8
+        "OBS_VALUE": 5.9799999999999995
     },
     {
         "id": "Localizacion/HU/HU25",
+        "area": 1,
         "TIME_PERIOD": 2014,
-        "OBS_VALUE": 59.1
+        "OBS_VALUE": 5.91
     },
     {
         "id": "Localizacion/HU/HU26",
+        "area": 1,
         "TIME_PERIOD": 2015,
-        "OBS_VALUE": 61.9
+        "OBS_VALUE": 6.1899999999999995
     },
     {
         "id": "Localizacion/HU/HU27",
+        "area": 1,
         "TIME_PERIOD": 2016,
-        "OBS_VALUE": 63.7
+        "OBS_VALUE": 6.37
     },
     {
         "id": "Localizacion/HU/HU28",
+        "area": 1,
         "TIME_PERIOD": 2017,
-        "OBS_VALUE": 65.6
+        "OBS_VALUE": 6.56
     },
     {
         "id": "Localizacion/HU/HU29",
+        "area": 1,
         "TIME_PERIOD": 2018,
-        "OBS_VALUE": 66.3
+        "OBS_VALUE": 6.63
     },
     {
         "id": "Localizacion/HU/HU30",
+        "area": 1,
         "TIME_PERIOD": 2019,
-        "OBS_VALUE": 65.4
+        "OBS_VALUE": 6.540000000000001
     },
     {
         "id": "Localizacion/HU/HU31",
+        "area": 1,
         "TIME_PERIOD": 2020,
-        "OBS_VALUE": 61
+        "OBS_VALUE": 6.1
     },
     {
         "id": "Localizacion/HU/HU32",
+        "area": 1,
         "TIME_PERIOD": 2021,
-        "OBS_VALUE": 62.3
+        "OBS_VALUE": 6.2299999999999995
     },
     {
         "id": "Localizacion/IE/IE1",
+        "area": 1,
         "TIME_PERIOD": 1990,
-        "OBS_VALUE": 100
+        "OBS_VALUE": 10.0
     },
     {
         "id": "Localizacion/IE/IE2",
+        "area": 1,
         "TIME_PERIOD": 1991,
-        "OBS_VALUE": 101.1
+        "OBS_VALUE": 10.11
     },
     {
         "id": "Localizacion/IE/IE3",
+        "area": 1,
         "TIME_PERIOD": 1992,
-        "OBS_VALUE": 100.5
+        "OBS_VALUE": 10.05
     },
     {
         "id": "Localizacion/IE/IE4",
+        "area": 1,
         "TIME_PERIOD": 1993,
-        "OBS_VALUE": 102.4
+        "OBS_VALUE": 10.24
     },
     {
         "id": "Localizacion/IE/IE5",
+        "area": 1,
         "TIME_PERIOD": 1994,
-        "OBS_VALUE": 104.5
+        "OBS_VALUE": 10.45
     },
     {
         "id": "Localizacion/IE/IE6",
+        "area": 1,
         "TIME_PERIOD": 1995,
-        "OBS_VALUE": 108.3
+        "OBS_VALUE": 10.83
     },
     {
         "id": "Localizacion/IE/IE7",
+        "area": 1,
         "TIME_PERIOD": 1996,
-        "OBS_VALUE": 111.1
+        "OBS_VALUE": 11.11
     },
     {
         "id": "Localizacion/IE/IE8",
+        "area": 1,
         "TIME_PERIOD": 1997,
-        "OBS_VALUE": 112.9
+        "OBS_VALUE": 11.290000000000001
     },
     {
         "id": "Localizacion/IE/IE9",
+        "area": 1,
         "TIME_PERIOD": 1998,
-        "OBS_VALUE": 116.8
+        "OBS_VALUE": 11.68
     },
     {
         "id": "Localizacion/IE/IE10",
+        "area": 1,
         "TIME_PERIOD": 1999,
-        "OBS_VALUE": 119.3
+        "OBS_VALUE": 11.93
     },
     {
         "id": "Localizacion/IE/IE11",
+        "area": 1,
         "TIME_PERIOD": 2000,
-        "OBS_VALUE": 125.7
+        "OBS_VALUE": 12.57
     },
     {
         "id": "Localizacion/IE/IE12",
+        "area": 1,
         "TIME_PERIOD": 2001,
-        "OBS_VALUE": 131.4
+        "OBS_VALUE": 13.14
     },
     {
         "id": "Localizacion/IE/IE13",
+        "area": 1,
         "TIME_PERIOD": 2002,
-        "OBS_VALUE": 128.5
+        "OBS_VALUE": 12.85
     },
     {
         "id": "Localizacion/IE/IE14",
+        "area": 1,
         "TIME_PERIOD": 2003,
-        "OBS_VALUE": 130
+        "OBS_VALUE": 13.0
     },
     {
         "id": "Localizacion/IE/IE15",
+        "area": 1,
         "TIME_PERIOD": 2004,
-        "OBS_VALUE": 126.2
+        "OBS_VALUE": 12.620000000000001
     },
     {
         "id": "Localizacion/IE/IE16",
+        "area": 1,
         "TIME_PERIOD": 2005,
-        "OBS_VALUE": 130.3
+        "OBS_VALUE": 13.030000000000001
     },
     {
         "id": "Localizacion/IE/IE17",
+        "area": 1,
         "TIME_PERIOD": 2006,
-        "OBS_VALUE": 130
+        "OBS_VALUE": 13.0
     },
     {
         "id": "Localizacion/IE/IE18",
+        "area": 1,
         "TIME_PERIOD": 2007,
-        "OBS_VALUE": 126.7
+        "OBS_VALUE": 12.67
     },
     {
         "id": "Localizacion/IE/IE19",
+        "area": 1,
         "TIME_PERIOD": 2008,
-        "OBS_VALUE": 124.8
+        "OBS_VALUE": 12.48
     },
     {
         "id": "Localizacion/IE/IE20",
+        "area": 1,
         "TIME_PERIOD": 2009,
-        "OBS_VALUE": 113.7
+        "OBS_VALUE": 11.370000000000001
     },
     {
         "id": "Localizacion/IE/IE21",
+        "area": 1,
         "TIME_PERIOD": 2010,
-        "OBS_VALUE": 115.4
+        "OBS_VALUE": 11.540000000000001
     },
     {
         "id": "Localizacion/IE/IE22",
+        "area": 1,
         "TIME_PERIOD": 2011,
-        "OBS_VALUE": 107
+        "OBS_VALUE": 10.7
     },
     {
         "id": "Localizacion/IE/IE23",
+        "area": 1,
         "TIME_PERIOD": 2012,
-        "OBS_VALUE": 107.1
+        "OBS_VALUE": 10.709999999999999
     },
     {
         "id": "Localizacion/IE/IE24",
+        "area": 1,
         "TIME_PERIOD": 2013,
-        "OBS_VALUE": 108.4
+        "OBS_VALUE": 10.84
     },
     {
         "id": "Localizacion/IE/IE25",
+        "area": 1,
         "TIME_PERIOD": 2014,
-        "OBS_VALUE": 107.3
+        "OBS_VALUE": 10.73
     },
     {
         "id": "Localizacion/IE/IE26",
+        "area": 1,
         "TIME_PERIOD": 2015,
-        "OBS_VALUE": 112.4
+        "OBS_VALUE": 11.24
     },
     {
         "id": "Localizacion/IE/IE27",
+        "area": 1,
         "TIME_PERIOD": 2016,
-        "OBS_VALUE": 114.2
+        "OBS_VALUE": 11.42
     },
     {
         "id": "Localizacion/IE/IE28",
+        "area": 1,
         "TIME_PERIOD": 2017,
-        "OBS_VALUE": 117.8
+        "OBS_VALUE": 11.78
     },
     {
         "id": "Localizacion/IE/IE29",
+        "area": 1,
         "TIME_PERIOD": 2018,
-        "OBS_VALUE": 116.9
+        "OBS_VALUE": 11.690000000000001
     },
     {
         "id": "Localizacion/IE/IE30",
+        "area": 1,
         "TIME_PERIOD": 2019,
-        "OBS_VALUE": 113.4
+        "OBS_VALUE": 11.34
     },
     {
         "id": "Localizacion/IE/IE31",
+        "area": 1,
         "TIME_PERIOD": 2020,
-        "OBS_VALUE": 107.3
+        "OBS_VALUE": 10.73
     },
     {
         "id": "Localizacion/IE/IE32",
+        "area": 1,
         "TIME_PERIOD": 2021,
-        "OBS_VALUE": 112.8
+        "OBS_VALUE": 11.28
     },
     {
         "id": "Localizacion/IS/IS1",
+        "area": 1,
         "TIME_PERIOD": 1990,
-        "OBS_VALUE": 100
+        "OBS_VALUE": 10.0
     },
     {
         "id": "Localizacion/IS/IS2",
+        "area": 1,
         "TIME_PERIOD": 1991,
-        "OBS_VALUE": 98.6
+        "OBS_VALUE": 9.86
     },
     {
         "id": "Localizacion/IS/IS3",
+        "area": 1,
         "TIME_PERIOD": 1992,
-        "OBS_VALUE": 97.9
+        "OBS_VALUE": 9.790000000000001
     },
     {
         "id": "Localizacion/IS/IS4",
+        "area": 1,
         "TIME_PERIOD": 1993,
-        "OBS_VALUE": 98.4
+        "OBS_VALUE": 9.84
     },
     {
         "id": "Localizacion/IS/IS5",
+        "area": 1,
         "TIME_PERIOD": 1994,
-        "OBS_VALUE": 98
+        "OBS_VALUE": 9.8
     },
     {
         "id": "Localizacion/IS/IS6",
+        "area": 1,
         "TIME_PERIOD": 1995,
-        "OBS_VALUE": 99
+        "OBS_VALUE": 9.9
     },
     {
         "id": "Localizacion/IS/IS7",
+        "area": 1,
         "TIME_PERIOD": 1996,
-        "OBS_VALUE": 99.7
+        "OBS_VALUE": 9.97
     },
     {
         "id": "Localizacion/IS/IS8",
+        "area": 1,
         "TIME_PERIOD": 1997,
-        "OBS_VALUE": 101
+        "OBS_VALUE": 10.1
     },
     {
         "id": "Localizacion/IS/IS9",
+        "area": 1,
         "TIME_PERIOD": 1998,
-        "OBS_VALUE": 102.4
+        "OBS_VALUE": 10.24
     },
     {
         "id": "Localizacion/IS/IS10",
+        "area": 1,
         "TIME_PERIOD": 1999,
-        "OBS_VALUE": 104.2
+        "OBS_VALUE": 10.42
     },
     {
         "id": "Localizacion/IS/IS11",
+        "area": 1,
         "TIME_PERIOD": 2000,
-        "OBS_VALUE": 104.9
+        "OBS_VALUE": 10.49
     },
     {
         "id": "Localizacion/IS/IS12",
+        "area": 1,
         "TIME_PERIOD": 2001,
-        "OBS_VALUE": 103.7
+        "OBS_VALUE": 10.370000000000001
     },
     {
         "id": "Localizacion/IS/IS13",
+        "area": 1,
         "TIME_PERIOD": 2002,
-        "OBS_VALUE": 104.3
+        "OBS_VALUE": 10.43
     },
     {
         "id": "Localizacion/IS/IS14",
+        "area": 1,
         "TIME_PERIOD": 2003,
-        "OBS_VALUE": 104.2
+        "OBS_VALUE": 10.42
     },
     {
         "id": "Localizacion/IS/IS15",
+        "area": 1,
         "TIME_PERIOD": 2004,
-        "OBS_VALUE": 105.3
+        "OBS_VALUE": 10.53
     },
     {
         "id": "Localizacion/IS/IS16",
+        "area": 1,
         "TIME_PERIOD": 2005,
-        "OBS_VALUE": 104.5
+        "OBS_VALUE": 10.45
     },
     {
         "id": "Localizacion/IS/IS17",
+        "area": 1,
         "TIME_PERIOD": 2006,
-        "OBS_VALUE": 109.7
+        "OBS_VALUE": 10.97
     },
     {
         "id": "Localizacion/IS/IS18",
+        "area": 1,
         "TIME_PERIOD": 2007,
-        "OBS_VALUE": 111.3
+        "OBS_VALUE": 11.129999999999999
     },
     {
         "id": "Localizacion/IS/IS19",
+        "area": 1,
         "TIME_PERIOD": 2008,
-        "OBS_VALUE": 113.8
+        "OBS_VALUE": 11.379999999999999
     },
     {
         "id": "Localizacion/IS/IS20",
+        "area": 1,
         "TIME_PERIOD": 2009,
-        "OBS_VALUE": 110.9
+        "OBS_VALUE": 11.09
     },
     {
         "id": "Localizacion/IS/IS21",
+        "area": 1,
         "TIME_PERIOD": 2010,
-        "OBS_VALUE": 110.1
+        "OBS_VALUE": 11.01
     },
     {
         "id": "Localizacion/IS/IS22",
+        "area": 1,
         "TIME_PERIOD": 2011,
-        "OBS_VALUE": 108.7
+        "OBS_VALUE": 10.870000000000001
     },
     {
         "id": "Localizacion/IS/IS23",
+        "area": 1,
         "TIME_PERIOD": 2012,
-        "OBS_VALUE": 108.8
+        "OBS_VALUE": 10.879999999999999
     },
     {
         "id": "Localizacion/IS/IS24",
+        "area": 1,
         "TIME_PERIOD": 2013,
-        "OBS_VALUE": 109.1
+        "OBS_VALUE": 10.91
     },
     {
         "id": "Localizacion/IS/IS25",
+        "area": 1,
         "TIME_PERIOD": 2014,
-        "OBS_VALUE": 109.5
+        "OBS_VALUE": 10.95
     },
     {
         "id": "Localizacion/IS/IS26",
+        "area": 1,
         "TIME_PERIOD": 2015,
-        "OBS_VALUE": 110.7
+        "OBS_VALUE": 11.07
     },
     {
         "id": "Localizacion/IS/IS27",
+        "area": 1,
         "TIME_PERIOD": 2016,
-        "OBS_VALUE": 111.9
+        "OBS_VALUE": 11.190000000000001
     },
     {
         "id": "Localizacion/IS/IS28",
+        "area": 1,
         "TIME_PERIOD": 2017,
-        "OBS_VALUE": 113.9
+        "OBS_VALUE": 11.39
     },
     {
         "id": "Localizacion/IS/IS29",
+        "area": 1,
         "TIME_PERIOD": 2018,
-        "OBS_VALUE": 115.3
+        "OBS_VALUE": 11.53
     },
     {
         "id": "Localizacion/IS/IS30",
+        "area": 1,
         "TIME_PERIOD": 2019,
-        "OBS_VALUE": 111.7
+        "OBS_VALUE": 11.17
     },
     {
         "id": "Localizacion/IS/IS31",
+        "area": 1,
         "TIME_PERIOD": 2020,
-        "OBS_VALUE": 105.1
+        "OBS_VALUE": 10.51
     },
     {
         "id": "Localizacion/IS/IS32",
+        "area": 1,
         "TIME_PERIOD": 2021,
-        "OBS_VALUE": 107.1
+        "OBS_VALUE": 10.709999999999999
     },
     {
         "id": "Localizacion/IT/IT1",
+        "area": 1,
         "TIME_PERIOD": 1990,
-        "OBS_VALUE": 100
+        "OBS_VALUE": 10.0
     },
     {
         "id": "Localizacion/IT/IT2",
+        "area": 1,
         "TIME_PERIOD": 1991,
-        "OBS_VALUE": 97.4
+        "OBS_VALUE": 9.74
     },
     {
         "id": "Localizacion/IT/IT3",
+        "area": 1,
         "TIME_PERIOD": 1992,
-        "OBS_VALUE": 97.7
+        "OBS_VALUE": 9.77
     },
     {
         "id": "Localizacion/IT/IT4",
+        "area": 1,
         "TIME_PERIOD": 1993,
-        "OBS_VALUE": 98.9
+        "OBS_VALUE": 9.89
     },
     {
         "id": "Localizacion/IT/IT5",
+        "area": 1,
         "TIME_PERIOD": 1994,
-        "OBS_VALUE": 95.3
+        "OBS_VALUE": 9.53
     },
     {
         "id": "Localizacion/IT/IT6",
+        "area": 1,
         "TIME_PERIOD": 1995,
-        "OBS_VALUE": 99.1
+        "OBS_VALUE": 9.91
     },
     {
         "id": "Localizacion/IT/IT7",
+        "area": 1,
         "TIME_PERIOD": 1996,
-        "OBS_VALUE": 97.9
+        "OBS_VALUE": 9.790000000000001
     },
     {
         "id": "Localizacion/IT/IT8",
+        "area": 1,
         "TIME_PERIOD": 1997,
-        "OBS_VALUE": 101
+        "OBS_VALUE": 10.1
     },
     {
         "id": "Localizacion/IT/IT9",
+        "area": 1,
         "TIME_PERIOD": 1998,
-        "OBS_VALUE": 103.9
+        "OBS_VALUE": 10.39
     },
     {
         "id": "Localizacion/IT/IT10",
+        "area": 1,
         "TIME_PERIOD": 1999,
-        "OBS_VALUE": 103.3
+        "OBS_VALUE": 10.33
     },
     {
         "id": "Localizacion/IT/IT11",
+        "area": 1,
         "TIME_PERIOD": 2000,
-        "OBS_VALUE": 104.6
+        "OBS_VALUE": 10.459999999999999
     },
     {
         "id": "Localizacion/IT/IT12",
+        "area": 1,
         "TIME_PERIOD": 2001,
-        "OBS_VALUE": 103
+        "OBS_VALUE": 10.3
     },
     {
         "id": "Localizacion/IT/IT13",
+        "area": 1,
         "TIME_PERIOD": 2002,
-        "OBS_VALUE": 103.1
+        "OBS_VALUE": 10.309999999999999
     },
     {
         "id": "Localizacion/IT/IT14",
+        "area": 1,
         "TIME_PERIOD": 2003,
-        "OBS_VALUE": 108.6
+        "OBS_VALUE": 10.86
     },
     {
         "id": "Localizacion/IT/IT15",
+        "area": 1,
         "TIME_PERIOD": 2004,
-        "OBS_VALUE": 108.5
+        "OBS_VALUE": 10.85
     },
     {
         "id": "Localizacion/IT/IT16",
+        "area": 1,
         "TIME_PERIOD": 2005,
-        "OBS_VALUE": 108.6
+        "OBS_VALUE": 10.86
     },
     {
         "id": "Localizacion/IT/IT17",
+        "area": 1,
         "TIME_PERIOD": 2006,
-        "OBS_VALUE": 106.6
+        "OBS_VALUE": 10.66
     },
     {
         "id": "Localizacion/IT/IT18",
+        "area": 1,
         "TIME_PERIOD": 2007,
-        "OBS_VALUE": 110.1
+        "OBS_VALUE": 11.01
     },
     {
         "id": "Localizacion/IT/IT19",
+        "area": 1,
         "TIME_PERIOD": 2008,
-        "OBS_VALUE": 104.1
+        "OBS_VALUE": 10.41
     },
     {
         "id": "Localizacion/IT/IT20",
+        "area": 1,
         "TIME_PERIOD": 2009,
-        "OBS_VALUE": 92.8
+        "OBS_VALUE": 9.28
     },
     {
         "id": "Localizacion/IT/IT21",
+        "area": 1,
         "TIME_PERIOD": 2010,
-        "OBS_VALUE": 93.9
+        "OBS_VALUE": 9.39
     },
     {
         "id": "Localizacion/IT/IT22",
+        "area": 1,
         "TIME_PERIOD": 2011,
-        "OBS_VALUE": 93
+        "OBS_VALUE": 9.3
     },
     {
         "id": "Localizacion/IT/IT23",
+        "area": 1,
         "TIME_PERIOD": 2012,
-        "OBS_VALUE": 91.1
+        "OBS_VALUE": 9.11
     },
     {
         "id": "Localizacion/IT/IT24",
+        "area": 1,
         "TIME_PERIOD": 2013,
-        "OBS_VALUE": 81.2
+        "OBS_VALUE": 8.120000000000001
     },
     {
         "id": "Localizacion/IT/IT25",
+        "area": 1,
         "TIME_PERIOD": 2014,
-        "OBS_VALUE": 77.1
+        "OBS_VALUE": 7.709999999999999
     },
     {
         "id": "Localizacion/IT/IT26",
+        "area": 1,
         "TIME_PERIOD": 2015,
-        "OBS_VALUE": 78.8
+        "OBS_VALUE": 7.88
     },
     {
         "id": "Localizacion/IT/IT27",
+        "area": 1,
         "TIME_PERIOD": 2016,
-        "OBS_VALUE": 78.5
+        "OBS_VALUE": 7.85
     },
     {
         "id": "Localizacion/IT/IT28",
+        "area": 1,
         "TIME_PERIOD": 2017,
-        "OBS_VALUE": 81.4
+        "OBS_VALUE": 8.14
     },
     {
         "id": "Localizacion/IT/IT29",
+        "area": 1,
         "TIME_PERIOD": 2018,
-        "OBS_VALUE": 76.7
+        "OBS_VALUE": 7.67
     },
     {
         "id": "Localizacion/IT/IT30",
+        "area": 1,
         "TIME_PERIOD": 2019,
-        "OBS_VALUE": 75.2
+        "OBS_VALUE": 7.5200000000000005
     },
     {
         "id": "Localizacion/IT/IT31",
+        "area": 1,
         "TIME_PERIOD": 2020,
-        "OBS_VALUE": 68.2
+        "OBS_VALUE": 6.82
     },
     {
         "id": "Localizacion/IT/IT32",
+        "area": 1,
         "TIME_PERIOD": 2021,
-        "OBS_VALUE": 75.7
+        "OBS_VALUE": 7.57
     },
     {
         "id": "Localizacion/LT/LT1",
+        "area": 1,
         "TIME_PERIOD": 1990,
-        "OBS_VALUE": 100
+        "OBS_VALUE": 10.0
     },
     {
         "id": "Localizacion/LT/LT2",
+        "area": 1,
         "TIME_PERIOD": 1991,
-        "OBS_VALUE": 104
+        "OBS_VALUE": 10.4
     },
     {
         "id": "Localizacion/LT/LT3",
+        "area": 1,
         "TIME_PERIOD": 1992,
-        "OBS_VALUE": 59.8
+        "OBS_VALUE": 5.9799999999999995
     },
     {
         "id": "Localizacion/LT/LT4",
+        "area": 1,
         "TIME_PERIOD": 1993,
-        "OBS_VALUE": 43.2
+        "OBS_VALUE": 4.32
     },
     {
         "id": "Localizacion/LT/LT5",
+        "area": 1,
         "TIME_PERIOD": 1994,
-        "OBS_VALUE": 41.2
+        "OBS_VALUE": 4.12
     },
     {
         "id": "Localizacion/LT/LT6",
+        "area": 1,
         "TIME_PERIOD": 1995,
-        "OBS_VALUE": 41.7
+        "OBS_VALUE": 4.17
     },
     {
         "id": "Localizacion/LT/LT7",
+        "area": 1,
         "TIME_PERIOD": 1996,
-        "OBS_VALUE": 56.8
+        "OBS_VALUE": 5.68
     },
     {
         "id": "Localizacion/LT/LT8",
+        "area": 1,
         "TIME_PERIOD": 1997,
-        "OBS_VALUE": 52.9
+        "OBS_VALUE": 5.29
     },
     {
         "id": "Localizacion/LT/LT9",
+        "area": 1,
         "TIME_PERIOD": 1998,
-        "OBS_VALUE": 37.4
+        "OBS_VALUE": 3.7399999999999998
     },
     {
         "id": "Localizacion/LT/LT10",
+        "area": 1,
         "TIME_PERIOD": 1999,
-        "OBS_VALUE": 32.4
+        "OBS_VALUE": 3.2399999999999998
     },
     {
         "id": "Localizacion/LT/LT11",
+        "area": 1,
         "TIME_PERIOD": 2000,
-        "OBS_VALUE": 23.4
+        "OBS_VALUE": 2.34
     },
     {
         "id": "Localizacion/LT/LT12",
+        "area": 1,
         "TIME_PERIOD": 2001,
-        "OBS_VALUE": 30.3
+        "OBS_VALUE": 3.0300000000000002
     },
     {
         "id": "Localizacion/LT/LT13",
+        "area": 1,
         "TIME_PERIOD": 2002,
-        "OBS_VALUE": 33.3
+        "OBS_VALUE": 3.3299999999999996
     },
     {
         "id": "Localizacion/LT/LT14",
+        "area": 1,
         "TIME_PERIOD": 2003,
-        "OBS_VALUE": 35.5
+        "OBS_VALUE": 3.55
     },
     {
         "id": "Localizacion/LT/LT15",
+        "area": 1,
         "TIME_PERIOD": 2004,
-        "OBS_VALUE": 38.6
+        "OBS_VALUE": 3.8600000000000003
     },
     {
         "id": "Localizacion/LT/LT16",
+        "area": 1,
         "TIME_PERIOD": 2005,
-        "OBS_VALUE": 42.7
+        "OBS_VALUE": 4.2700000000000005
     },
     {
         "id": "Localizacion/LT/LT17",
+        "area": 1,
         "TIME_PERIOD": 2006,
-        "OBS_VALUE": 44.5
+        "OBS_VALUE": 4.45
     },
     {
         "id": "Localizacion/LT/LT18",
+        "area": 1,
         "TIME_PERIOD": 2007,
-        "OBS_VALUE": 45
+        "OBS_VALUE": 4.5
     },
     {
         "id": "Localizacion/LT/LT19",
+        "area": 1,
         "TIME_PERIOD": 2008,
-        "OBS_VALUE": 41.3
+        "OBS_VALUE": 4.13
     },
     {
         "id": "Localizacion/LT/LT20",
+        "area": 1,
         "TIME_PERIOD": 2009,
-        "OBS_VALUE": 29.4
+        "OBS_VALUE": 2.94
     },
     {
         "id": "Localizacion/LT/LT21",
+        "area": 1,
         "TIME_PERIOD": 2010,
-        "OBS_VALUE": 24.4
+        "OBS_VALUE": 2.44
     },
     {
         "id": "Localizacion/LT/LT22",
+        "area": 1,
         "TIME_PERIOD": 2011,
-        "OBS_VALUE": 24.9
+        "OBS_VALUE": 2.4899999999999998
     },
     {
         "id": "Localizacion/LT/LT23",
+        "area": 1,
         "TIME_PERIOD": 2012,
-        "OBS_VALUE": 25.7
+        "OBS_VALUE": 2.57
     },
     {
         "id": "Localizacion/LT/LT24",
+        "area": 1,
         "TIME_PERIOD": 2013,
-        "OBS_VALUE": 24.6
+        "OBS_VALUE": 2.46
     },
     {
         "id": "Localizacion/LT/LT25",
+        "area": 1,
         "TIME_PERIOD": 2014,
-        "OBS_VALUE": 26.2
+        "OBS_VALUE": 2.62
     },
     {
         "id": "Localizacion/LT/LT26",
+        "area": 1,
         "TIME_PERIOD": 2015,
-        "OBS_VALUE": 28.9
+        "OBS_VALUE": 2.8899999999999997
     },
     {
         "id": "Localizacion/LT/LT27",
+        "area": 1,
         "TIME_PERIOD": 2016,
-        "OBS_VALUE": 31
+        "OBS_VALUE": 3.1
     },
     {
         "id": "Localizacion/LT/LT28",
+        "area": 1,
         "TIME_PERIOD": 2017,
-        "OBS_VALUE": 32.7
+        "OBS_VALUE": 3.2700000000000005
     },
     {
         "id": "Localizacion/LT/LT29",
+        "area": 1,
         "TIME_PERIOD": 2018,
-        "OBS_VALUE": 34.4
+        "OBS_VALUE": 3.44
     },
     {
         "id": "Localizacion/LT/LT30",
+        "area": 1,
         "TIME_PERIOD": 2019,
-        "OBS_VALUE": 34.2
+        "OBS_VALUE": 3.4200000000000004
     },
     {
         "id": "Localizacion/LT/LT31",
+        "area": 1,
         "TIME_PERIOD": 2020,
-        "OBS_VALUE": 31.8
+        "OBS_VALUE": 3.18
     },
     {
         "id": "Localizacion/LT/LT32",
+        "area": 1,
         "TIME_PERIOD": 2021,
-        "OBS_VALUE": 33.3
+        "OBS_VALUE": 3.3299999999999996
     },
     {
         "id": "Localizacion/LU/LU1",
+        "area": 1,
         "TIME_PERIOD": 1990,
-        "OBS_VALUE": 100
+        "OBS_VALUE": 10.0
     },
     {
         "id": "Localizacion/LU/LU2",
+        "area": 1,
         "TIME_PERIOD": 1991,
-        "OBS_VALUE": 104.4
+        "OBS_VALUE": 10.440000000000001
     },
     {
         "id": "Localizacion/LU/LU3",
+        "area": 1,
         "TIME_PERIOD": 1992,
-        "OBS_VALUE": 99.4
+        "OBS_VALUE": 9.940000000000001
     },
     {
         "id": "Localizacion/LU/LU4",
+        "area": 1,
         "TIME_PERIOD": 1993,
-        "OBS_VALUE": 99.7
+        "OBS_VALUE": 9.97
     },
     {
         "id": "Localizacion/LU/LU5",
+        "area": 1,
         "TIME_PERIOD": 1994,
-        "OBS_VALUE": 95.3
+        "OBS_VALUE": 9.53
     },
     {
         "id": "Localizacion/LU/LU6",
+        "area": 1,
         "TIME_PERIOD": 1995,
-        "OBS_VALUE": 77.1
+        "OBS_VALUE": 7.709999999999999
     },
     {
         "id": "Localizacion/LU/LU7",
+        "area": 1,
         "TIME_PERIOD": 1996,
-        "OBS_VALUE": 77.7
+        "OBS_VALUE": 7.7700000000000005
     },
     {
         "id": "Localizacion/LU/LU8",
+        "area": 1,
         "TIME_PERIOD": 1997,
-        "OBS_VALUE": 73.1
+        "OBS_VALUE": 7.31
     },
     {
         "id": "Localizacion/LU/LU9",
+        "area": 1,
         "TIME_PERIOD": 1998,
-        "OBS_VALUE": 68.2
+        "OBS_VALUE": 6.82
     },
     {
         "id": "Localizacion/LU/LU10",
+        "area": 1,
         "TIME_PERIOD": 1999,
-        "OBS_VALUE": 72.1
+        "OBS_VALUE": 7.209999999999999
     },
     {
         "id": "Localizacion/LU/LU11",
+        "area": 1,
         "TIME_PERIOD": 2000,
-        "OBS_VALUE": 76.1
+        "OBS_VALUE": 7.609999999999999
     },
     {
         "id": "Localizacion/LU/LU12",
+        "area": 1,
         "TIME_PERIOD": 2001,
-        "OBS_VALUE": 80.7
+        "OBS_VALUE": 8.07
     },
     {
         "id": "Localizacion/LU/LU13",
+        "area": 1,
         "TIME_PERIOD": 2002,
-        "OBS_VALUE": 87.3
+        "OBS_VALUE": 8.73
     },
     {
         "id": "Localizacion/LU/LU14",
+        "area": 1,
         "TIME_PERIOD": 2003,
-        "OBS_VALUE": 91.3
+        "OBS_VALUE": 9.129999999999999
     },
     {
         "id": "Localizacion/LU/LU15",
+        "area": 1,
         "TIME_PERIOD": 2004,
-        "OBS_VALUE": 102.2
+        "OBS_VALUE": 10.22
     },
     {
         "id": "Localizacion/LU/LU16",
+        "area": 1,
         "TIME_PERIOD": 2005,
-        "OBS_VALUE": 104.6
+        "OBS_VALUE": 10.459999999999999
     },
     {
         "id": "Localizacion/LU/LU17",
+        "area": 1,
         "TIME_PERIOD": 2006,
-        "OBS_VALUE": 103.3
+        "OBS_VALUE": 10.33
     },
     {
         "id": "Localizacion/LU/LU18",
+        "area": 1,
         "TIME_PERIOD": 2007,
-        "OBS_VALUE": 100.2
+        "OBS_VALUE": 10.02
     },
     {
         "id": "Localizacion/LU/LU19",
+        "area": 1,
         "TIME_PERIOD": 2008,
-        "OBS_VALUE": 99.3
+        "OBS_VALUE": 9.93
     },
     {
         "id": "Localizacion/LU/LU20",
+        "area": 1,
         "TIME_PERIOD": 2009,
-        "OBS_VALUE": 94.7
+        "OBS_VALUE": 9.47
     },
     {
         "id": "Localizacion/LU/LU21",
+        "area": 1,
         "TIME_PERIOD": 2010,
-        "OBS_VALUE": 101
+        "OBS_VALUE": 10.1
     },
     {
         "id": "Localizacion/LU/LU22",
+        "area": 1,
         "TIME_PERIOD": 2011,
-        "OBS_VALUE": 98.7
+        "OBS_VALUE": 9.870000000000001
     },
     {
         "id": "Localizacion/LU/LU23",
+        "area": 1,
         "TIME_PERIOD": 2012,
-        "OBS_VALUE": 95.7
+        "OBS_VALUE": 9.57
     },
     {
         "id": "Localizacion/LU/LU24",
+        "area": 1,
         "TIME_PERIOD": 2013,
-        "OBS_VALUE": 90.6
+        "OBS_VALUE": 9.059999999999999
     },
     {
         "id": "Localizacion/LU/LU25",
+        "area": 1,
         "TIME_PERIOD": 2014,
-        "OBS_VALUE": 88.3
+        "OBS_VALUE": 8.83
     },
     {
         "id": "Localizacion/LU/LU26",
+        "area": 1,
         "TIME_PERIOD": 2015,
-        "OBS_VALUE": 86.3
+        "OBS_VALUE": 8.629999999999999
     },
     {
         "id": "Localizacion/LU/LU27",
+        "area": 1,
         "TIME_PERIOD": 2016,
-        "OBS_VALUE": 84.9
+        "OBS_VALUE": 8.49
     },
     {
         "id": "Localizacion/LU/LU28",
+        "area": 1,
         "TIME_PERIOD": 2017,
-        "OBS_VALUE": 88.5
+        "OBS_VALUE": 8.85
     },
     {
         "id": "Localizacion/LU/LU29",
+        "area": 1,
         "TIME_PERIOD": 2018,
-        "OBS_VALUE": 92.7
+        "OBS_VALUE": 9.27
     },
     {
         "id": "Localizacion/LU/LU30",
+        "area": 1,
         "TIME_PERIOD": 2019,
-        "OBS_VALUE": 92.8
+        "OBS_VALUE": 9.28
     },
     {
         "id": "Localizacion/LU/LU31",
+        "area": 1,
         "TIME_PERIOD": 2020,
-        "OBS_VALUE": 77.9
+        "OBS_VALUE": 7.790000000000001
     },
     {
         "id": "Localizacion/LU/LU32",
+        "area": 1,
         "TIME_PERIOD": 2021,
-        "OBS_VALUE": 81.2
+        "OBS_VALUE": 8.120000000000001
     },
     {
         "id": "Localizacion/LV/LV1",
+        "area": 1,
         "TIME_PERIOD": 1990,
-        "OBS_VALUE": 100
+        "OBS_VALUE": 10.0
     },
     {
         "id": "Localizacion/LV/LV2",
+        "area": 1,
         "TIME_PERIOD": 1991,
-        "OBS_VALUE": 83.9
+        "OBS_VALUE": 8.39
     },
     {
         "id": "Localizacion/LV/LV3",
+        "area": 1,
         "TIME_PERIOD": 1992,
-        "OBS_VALUE": 45.2
+        "OBS_VALUE": 4.5200000000000005
     },
     {
         "id": "Localizacion/LV/LV4",
+        "area": 1,
         "TIME_PERIOD": 1993,
-        "OBS_VALUE": 21.2
+        "OBS_VALUE": 2.12
     },
     {
         "id": "Localizacion/LV/LV5",
+        "area": 1,
         "TIME_PERIOD": 1994,
-        "OBS_VALUE": -13.7
+        "OBS_VALUE": -1.3699999999999999
     },
     {
         "id": "Localizacion/LV/LV6",
+        "area": 1,
         "TIME_PERIOD": 1995,
-        "OBS_VALUE": -15.4
+        "OBS_VALUE": -1.54
     },
     {
         "id": "Localizacion/LV/LV7",
+        "area": 1,
         "TIME_PERIOD": 1996,
-        "OBS_VALUE": -16.1
+        "OBS_VALUE": -1.61
     },
     {
         "id": "Localizacion/LV/LV8",
+        "area": 1,
         "TIME_PERIOD": 1997,
-        "OBS_VALUE": -7.4
+        "OBS_VALUE": -0.74
     },
     {
         "id": "Localizacion/LV/LV9",
+        "area": 1,
         "TIME_PERIOD": 1998,
-        "OBS_VALUE": -4.3
+        "OBS_VALUE": -0.43
     },
     {
         "id": "Localizacion/LV/LV10",
+        "area": 1,
         "TIME_PERIOD": 1999,
-        "OBS_VALUE": 16.6
+        "OBS_VALUE": 1.6600000000000001
     },
     {
         "id": "Localizacion/LV/LV11",
+        "area": 1,
         "TIME_PERIOD": 2000,
-        "OBS_VALUE": -11.4
+        "OBS_VALUE": -1.1400000000000001
     },
     {
         "id": "Localizacion/LV/LV12",
+        "area": 1,
         "TIME_PERIOD": 2001,
-        "OBS_VALUE": -10.8
+        "OBS_VALUE": -1.08
     },
     {
         "id": "Localizacion/LV/LV13",
+        "area": 1,
         "TIME_PERIOD": 2002,
-        "OBS_VALUE": 1.4
+        "OBS_VALUE": 0.13999999999999999
     },
     {
         "id": "Localizacion/LV/LV14",
+        "area": 1,
         "TIME_PERIOD": 2003,
-        "OBS_VALUE": 6
+        "OBS_VALUE": 0.6
     },
     {
         "id": "Localizacion/LV/LV15",
+        "area": 1,
         "TIME_PERIOD": 2004,
-        "OBS_VALUE": 32.5
+        "OBS_VALUE": 3.25
     },
     {
         "id": "Localizacion/LV/LV16",
+        "area": 1,
         "TIME_PERIOD": 2005,
-        "OBS_VALUE": 37.8
+        "OBS_VALUE": 3.78
     },
     {
         "id": "Localizacion/LV/LV17",
+        "area": 1,
         "TIME_PERIOD": 2006,
-        "OBS_VALUE": 35.7
+        "OBS_VALUE": 3.5700000000000003
     },
     {
         "id": "Localizacion/LV/LV18",
+        "area": 1,
         "TIME_PERIOD": 2007,
-        "OBS_VALUE": 42.3
+        "OBS_VALUE": 4.2299999999999995
     },
     {
         "id": "Localizacion/LV/LV19",
+        "area": 1,
         "TIME_PERIOD": 2008,
-        "OBS_VALUE": 36.6
+        "OBS_VALUE": 3.66
     },
     {
         "id": "Localizacion/LV/LV20",
+        "area": 1,
         "TIME_PERIOD": 2009,
-        "OBS_VALUE": 52.6
+        "OBS_VALUE": 5.26
     },
     {
         "id": "Localizacion/LV/LV21",
+        "area": 1,
         "TIME_PERIOD": 2010,
-        "OBS_VALUE": 73.4
+        "OBS_VALUE": 7.340000000000001
     },
     {
         "id": "Localizacion/LV/LV22",
+        "area": 1,
         "TIME_PERIOD": 2011,
-        "OBS_VALUE": 64.8
+        "OBS_VALUE": 6.4799999999999995
     },
     {
         "id": "Localizacion/LV/LV23",
+        "area": 1,
         "TIME_PERIOD": 2012,
-        "OBS_VALUE": 53.8
+        "OBS_VALUE": 5.38
     },
     {
         "id": "Localizacion/LV/LV24",
+        "area": 1,
         "TIME_PERIOD": 2013,
-        "OBS_VALUE": 62.6
+        "OBS_VALUE": 6.26
     },
     {
         "id": "Localizacion/LV/LV25",
+        "area": 1,
         "TIME_PERIOD": 2014,
-        "OBS_VALUE": 89.8
+        "OBS_VALUE": 8.98
     },
     {
         "id": "Localizacion/LV/LV26",
+        "area": 1,
         "TIME_PERIOD": 2015,
-        "OBS_VALUE": 81
+        "OBS_VALUE": 8.1
     },
     {
         "id": "Localizacion/LV/LV27",
+        "area": 1,
         "TIME_PERIOD": 2016,
-        "OBS_VALUE": 68.2
+        "OBS_VALUE": 6.82
     },
     {
         "id": "Localizacion/LV/LV28",
+        "area": 1,
         "TIME_PERIOD": 2017,
-        "OBS_VALUE": 58.4
+        "OBS_VALUE": 5.84
     },
     {
         "id": "Localizacion/LV/LV29",
+        "area": 1,
         "TIME_PERIOD": 2018,
-        "OBS_VALUE": 80.2
+        "OBS_VALUE": 8.02
     },
     {
         "id": "Localizacion/LV/LV30",
+        "area": 1,
         "TIME_PERIOD": 2019,
-        "OBS_VALUE": 67.2
+        "OBS_VALUE": 6.720000000000001
     },
     {
         "id": "Localizacion/LV/LV31",
+        "area": 1,
         "TIME_PERIOD": 2020,
-        "OBS_VALUE": 82.6
+        "OBS_VALUE": 8.26
     },
     {
         "id": "Localizacion/LV/LV32",
+        "area": 1,
         "TIME_PERIOD": 2021,
-        "OBS_VALUE": 96.2
+        "OBS_VALUE": 9.620000000000001
     },
     {
         "id": "Localizacion/MT/MT1",
+        "area": 1,
         "TIME_PERIOD": 1990,
-        "OBS_VALUE": 100
+        "OBS_VALUE": 10.0
     },
     {
         "id": "Localizacion/MT/MT2",
+        "area": 1,
         "TIME_PERIOD": 1991,
-        "OBS_VALUE": 94.4
+        "OBS_VALUE": 9.440000000000001
     },
     {
         "id": "Localizacion/MT/MT3",
+        "area": 1,
         "TIME_PERIOD": 1992,
-        "OBS_VALUE": 97.8
+        "OBS_VALUE": 9.78
     },
     {
         "id": "Localizacion/MT/MT4",
+        "area": 1,
         "TIME_PERIOD": 1993,
-        "OBS_VALUE": 119.4
+        "OBS_VALUE": 11.940000000000001
     },
     {
         "id": "Localizacion/MT/MT5",
+        "area": 1,
         "TIME_PERIOD": 1994,
-        "OBS_VALUE": 113.6
+        "OBS_VALUE": 11.36
     },
     {
         "id": "Localizacion/MT/MT6",
+        "area": 1,
         "TIME_PERIOD": 1995,
-        "OBS_VALUE": 107.2
+        "OBS_VALUE": 10.72
     },
     {
         "id": "Localizacion/MT/MT7",
+        "area": 1,
         "TIME_PERIOD": 1996,
-        "OBS_VALUE": 110.3
+        "OBS_VALUE": 11.03
     },
     {
         "id": "Localizacion/MT/MT8",
+        "area": 1,
         "TIME_PERIOD": 1997,
-        "OBS_VALUE": 112
+        "OBS_VALUE": 11.2
     },
     {
         "id": "Localizacion/MT/MT9",
+        "area": 1,
         "TIME_PERIOD": 1998,
-        "OBS_VALUE": 110.6
+        "OBS_VALUE": 11.059999999999999
     },
     {
         "id": "Localizacion/MT/MT10",
+        "area": 1,
         "TIME_PERIOD": 1999,
-        "OBS_VALUE": 112.9
+        "OBS_VALUE": 11.290000000000001
     },
     {
         "id": "Localizacion/MT/MT11",
+        "area": 1,
         "TIME_PERIOD": 2000,
-        "OBS_VALUE": 109.1
+        "OBS_VALUE": 10.91
     },
     {
         "id": "Localizacion/MT/MT12",
+        "area": 1,
         "TIME_PERIOD": 2001,
-        "OBS_VALUE": 117.2
+        "OBS_VALUE": 11.72
     },
     {
         "id": "Localizacion/MT/MT13",
+        "area": 1,
         "TIME_PERIOD": 2002,
-        "OBS_VALUE": 118
+        "OBS_VALUE": 11.8
     },
     {
         "id": "Localizacion/MT/MT14",
+        "area": 1,
         "TIME_PERIOD": 2003,
-        "OBS_VALUE": 125.9
+        "OBS_VALUE": 12.59
     },
     {
         "id": "Localizacion/MT/MT15",
+        "area": 1,
         "TIME_PERIOD": 2004,
-        "OBS_VALUE": 122.1
+        "OBS_VALUE": 12.209999999999999
     },
     {
         "id": "Localizacion/MT/MT16",
+        "area": 1,
         "TIME_PERIOD": 2005,
-        "OBS_VALUE": 115.9
+        "OBS_VALUE": 11.59
     },
     {
         "id": "Localizacion/MT/MT17",
+        "area": 1,
         "TIME_PERIOD": 2006,
-        "OBS_VALUE": 117.6
+        "OBS_VALUE": 11.76
     },
     {
         "id": "Localizacion/MT/MT18",
+        "area": 1,
         "TIME_PERIOD": 2007,
-        "OBS_VALUE": 121.3
+        "OBS_VALUE": 12.129999999999999
     },
     {
         "id": "Localizacion/MT/MT19",
+        "area": 1,
         "TIME_PERIOD": 2008,
-        "OBS_VALUE": 117.8
+        "OBS_VALUE": 11.78
     },
     {
         "id": "Localizacion/MT/MT20",
+        "area": 1,
         "TIME_PERIOD": 2009,
-        "OBS_VALUE": 112.4
+        "OBS_VALUE": 11.24
     },
     {
         "id": "Localizacion/MT/MT21",
+        "area": 1,
         "TIME_PERIOD": 2010,
-        "OBS_VALUE": 116
+        "OBS_VALUE": 11.6
     },
     {
         "id": "Localizacion/MT/MT22",
+        "area": 1,
         "TIME_PERIOD": 2011,
-        "OBS_VALUE": 115.9
+        "OBS_VALUE": 11.59
     },
     {
         "id": "Localizacion/MT/MT23",
+        "area": 1,
         "TIME_PERIOD": 2012,
-        "OBS_VALUE": 121.6
+        "OBS_VALUE": 12.16
     },
     {
         "id": "Localizacion/MT/MT24",
+        "area": 1,
         "TIME_PERIOD": 2013,
-        "OBS_VALUE": 110.9
+        "OBS_VALUE": 11.09
     },
     {
         "id": "Localizacion/MT/MT25",
+        "area": 1,
         "TIME_PERIOD": 2014,
-        "OBS_VALUE": 111.7
+        "OBS_VALUE": 11.17
     },
     {
         "id": "Localizacion/MT/MT26",
+        "area": 1,
         "TIME_PERIOD": 2015,
-        "OBS_VALUE": 88.3
+        "OBS_VALUE": 8.83
     },
     {
         "id": "Localizacion/MT/MT27",
+        "area": 1,
         "TIME_PERIOD": 2016,
-        "OBS_VALUE": 79.5
+        "OBS_VALUE": 7.95
     },
     {
         "id": "Localizacion/MT/MT28",
+        "area": 1,
         "TIME_PERIOD": 2017,
-        "OBS_VALUE": 87.3
+        "OBS_VALUE": 8.73
     },
     {
         "id": "Localizacion/MT/MT29",
+        "area": 1,
         "TIME_PERIOD": 2018,
-        "OBS_VALUE": 89.2
+        "OBS_VALUE": 8.92
     },
     {
         "id": "Localizacion/MT/MT30",
+        "area": 1,
         "TIME_PERIOD": 2019,
-        "OBS_VALUE": 94.7
+        "OBS_VALUE": 9.47
     },
     {
         "id": "Localizacion/MT/MT31",
+        "area": 1,
         "TIME_PERIOD": 2020,
-        "OBS_VALUE": 82.2
+        "OBS_VALUE": 8.22
     },
     {
         "id": "Localizacion/MT/MT32",
+        "area": 1,
         "TIME_PERIOD": 2021,
-        "OBS_VALUE": 84.6
+        "OBS_VALUE": 8.459999999999999
     },
     {
         "id": "Localizacion/NL/NL1",
+        "area": 1,
         "TIME_PERIOD": 1990,
-        "OBS_VALUE": 100
+        "OBS_VALUE": 10.0
     },
     {
         "id": "Localizacion/NL/NL2",
+        "area": 1,
         "TIME_PERIOD": 1991,
-        "OBS_VALUE": 103.5
+        "OBS_VALUE": 10.35
     },
     {
         "id": "Localizacion/NL/NL3",
+        "area": 1,
         "TIME_PERIOD": 1992,
-        "OBS_VALUE": 104
+        "OBS_VALUE": 10.4
     },
     {
         "id": "Localizacion/NL/NL4",
+        "area": 1,
         "TIME_PERIOD": 1993,
-        "OBS_VALUE": 104.4
+        "OBS_VALUE": 10.440000000000001
     },
     {
         "id": "Localizacion/NL/NL5",
+        "area": 1,
         "TIME_PERIOD": 1994,
-        "OBS_VALUE": 104.8
+        "OBS_VALUE": 10.48
     },
     {
         "id": "Localizacion/NL/NL6",
+        "area": 1,
         "TIME_PERIOD": 1995,
-        "OBS_VALUE": 105.2
+        "OBS_VALUE": 10.52
     },
     {
         "id": "Localizacion/NL/NL7",
+        "area": 1,
         "TIME_PERIOD": 1996,
-        "OBS_VALUE": 109.8
+        "OBS_VALUE": 10.98
     },
     {
         "id": "Localizacion/NL/NL8",
+        "area": 1,
         "TIME_PERIOD": 1997,
-        "OBS_VALUE": 106.5
+        "OBS_VALUE": 10.65
     },
     {
         "id": "Localizacion/NL/NL9",
+        "area": 1,
         "TIME_PERIOD": 1998,
-        "OBS_VALUE": 106.8
+        "OBS_VALUE": 10.68
     },
     {
         "id": "Localizacion/NL/NL10",
+        "area": 1,
         "TIME_PERIOD": 1999,
-        "OBS_VALUE": 101.6
+        "OBS_VALUE": 10.16
     },
     {
         "id": "Localizacion/NL/NL11",
+        "area": 1,
         "TIME_PERIOD": 2000,
-        "OBS_VALUE": 100.9
+        "OBS_VALUE": 10.09
     },
     {
         "id": "Localizacion/NL/NL12",
+        "area": 1,
         "TIME_PERIOD": 2001,
-        "OBS_VALUE": 101.3
+        "OBS_VALUE": 10.129999999999999
     },
     {
         "id": "Localizacion/NL/NL13",
+        "area": 1,
         "TIME_PERIOD": 2002,
-        "OBS_VALUE": 100.4
+        "OBS_VALUE": 10.040000000000001
     },
     {
         "id": "Localizacion/NL/NL14",
+        "area": 1,
         "TIME_PERIOD": 2003,
-        "OBS_VALUE": 100.8
+        "OBS_VALUE": 10.08
     },
     {
         "id": "Localizacion/NL/NL15",
+        "area": 1,
         "TIME_PERIOD": 2004,
-        "OBS_VALUE": 101.7
+        "OBS_VALUE": 10.17
     },
     {
         "id": "Localizacion/NL/NL16",
+        "area": 1,
         "TIME_PERIOD": 2005,
-        "OBS_VALUE": 99.3
+        "OBS_VALUE": 9.93
     },
     {
         "id": "Localizacion/NL/NL17",
+        "area": 1,
         "TIME_PERIOD": 2006,
-        "OBS_VALUE": 97.1
+        "OBS_VALUE": 9.709999999999999
     },
     {
         "id": "Localizacion/NL/NL18",
+        "area": 1,
         "TIME_PERIOD": 2007,
-        "OBS_VALUE": 96.4
+        "OBS_VALUE": 9.64
     },
     {
         "id": "Localizacion/NL/NL19",
+        "area": 1,
         "TIME_PERIOD": 2008,
-        "OBS_VALUE": 96.4
+        "OBS_VALUE": 9.64
     },
     {
         "id": "Localizacion/NL/NL20",
+        "area": 1,
         "TIME_PERIOD": 2009,
-        "OBS_VALUE": 93.6
+        "OBS_VALUE": 9.36
     },
     {
         "id": "Localizacion/NL/NL21",
+        "area": 1,
         "TIME_PERIOD": 2010,
-        "OBS_VALUE": 98.5
+        "OBS_VALUE": 9.85
     },
     {
         "id": "Localizacion/NL/NL22",
+        "area": 1,
         "TIME_PERIOD": 2011,
-        "OBS_VALUE": 92.8
+        "OBS_VALUE": 9.28
     },
     {
         "id": "Localizacion/NL/NL23",
+        "area": 1,
         "TIME_PERIOD": 2012,
-        "OBS_VALUE": 90.9
+        "OBS_VALUE": 9.09
     },
     {
         "id": "Localizacion/NL/NL24",
+        "area": 1,
         "TIME_PERIOD": 2013,
-        "OBS_VALUE": 90.7
+        "OBS_VALUE": 9.07
     },
     {
         "id": "Localizacion/NL/NL25",
+        "area": 1,
         "TIME_PERIOD": 2014,
-        "OBS_VALUE": 87.3
+        "OBS_VALUE": 8.73
     },
     {
         "id": "Localizacion/NL/NL26",
+        "area": 1,
         "TIME_PERIOD": 2015,
-        "OBS_VALUE": 90.5
+        "OBS_VALUE": 9.05
     },
     {
         "id": "Localizacion/NL/NL27",
+        "area": 1,
         "TIME_PERIOD": 2016,
-        "OBS_VALUE": 90.8
+        "OBS_VALUE": 9.08
     },
     {
         "id": "Localizacion/NL/NL28",
+        "area": 1,
         "TIME_PERIOD": 2017,
-        "OBS_VALUE": 89.3
+        "OBS_VALUE": 8.93
     },
     {
         "id": "Localizacion/NL/NL29",
+        "area": 1,
         "TIME_PERIOD": 2018,
-        "OBS_VALUE": 87.2
+        "OBS_VALUE": 8.72
     },
     {
         "id": "Localizacion/NL/NL30",
+        "area": 1,
         "TIME_PERIOD": 2019,
-        "OBS_VALUE": 84.6
+        "OBS_VALUE": 8.459999999999999
     },
     {
         "id": "Localizacion/NL/NL31",
+        "area": 1,
         "TIME_PERIOD": 2020,
-        "OBS_VALUE": 75.2
+        "OBS_VALUE": 7.5200000000000005
     },
     {
         "id": "Localizacion/NL/NL32",
+        "area": 1,
         "TIME_PERIOD": 2021,
-        "OBS_VALUE": 76.8
+        "OBS_VALUE": 7.68
     },
     {
         "id": "Localizacion/NO/NO1",
+        "area": 1,
         "TIME_PERIOD": 1990,
-        "OBS_VALUE": 100
+        "OBS_VALUE": 10.0
     },
     {
         "id": "Localizacion/NO/NO2",
+        "area": 1,
         "TIME_PERIOD": 1991,
-        "OBS_VALUE": 90
+        "OBS_VALUE": 9.0
     },
     {
         "id": "Localizacion/NO/NO3",
+        "area": 1,
         "TIME_PERIOD": 1992,
-        "OBS_VALUE": 87.9
+        "OBS_VALUE": 8.790000000000001
     },
     {
         "id": "Localizacion/NO/NO4",
+        "area": 1,
         "TIME_PERIOD": 1993,
-        "OBS_VALUE": 88.9
+        "OBS_VALUE": 8.89
     },
     {
         "id": "Localizacion/NO/NO5",
+        "area": 1,
         "TIME_PERIOD": 1994,
-        "OBS_VALUE": 98.4
+        "OBS_VALUE": 9.84
     },
     {
         "id": "Localizacion/NO/NO6",
+        "area": 1,
         "TIME_PERIOD": 1995,
-        "OBS_VALUE": 89.2
+        "OBS_VALUE": 8.92
     },
     {
         "id": "Localizacion/NO/NO7",
+        "area": 1,
         "TIME_PERIOD": 1996,
-        "OBS_VALUE": 98.1
+        "OBS_VALUE": 9.809999999999999
     },
     {
         "id": "Localizacion/NO/NO8",
+        "area": 1,
         "TIME_PERIOD": 1997,
-        "OBS_VALUE": 100.8
+        "OBS_VALUE": 10.08
     },
     {
         "id": "Localizacion/NO/NO9",
+        "area": 1,
         "TIME_PERIOD": 1998,
-        "OBS_VALUE": 95.1
+        "OBS_VALUE": 9.51
     },
     {
         "id": "Localizacion/NO/NO10",
+        "area": 1,
         "TIME_PERIOD": 1999,
-        "OBS_VALUE": 93.9
+        "OBS_VALUE": 9.39
     },
     {
         "id": "Localizacion/NO/NO11",
+        "area": 1,
         "TIME_PERIOD": 2000,
-        "OBS_VALUE": 88.5
+        "OBS_VALUE": 8.85
     },
     {
         "id": "Localizacion/NO/NO12",
+        "area": 1,
         "TIME_PERIOD": 2001,
-        "OBS_VALUE": 86.7
+        "OBS_VALUE": 8.67
     },
     {
         "id": "Localizacion/NO/NO13",
+        "area": 1,
         "TIME_PERIOD": 2002,
-        "OBS_VALUE": 81
+        "OBS_VALUE": 8.1
     },
     {
         "id": "Localizacion/NO/NO14",
+        "area": 1,
         "TIME_PERIOD": 2003,
-        "OBS_VALUE": 78.8
+        "OBS_VALUE": 7.88
     },
     {
         "id": "Localizacion/NO/NO15",
+        "area": 1,
         "TIME_PERIOD": 2004,
-        "OBS_VALUE": 80.6
+        "OBS_VALUE": 8.059999999999999
     },
     {
         "id": "Localizacion/NO/NO16",
+        "area": 1,
         "TIME_PERIOD": 2005,
-        "OBS_VALUE": 84.5
+        "OBS_VALUE": 8.45
     },
     {
         "id": "Localizacion/NO/NO17",
+        "area": 1,
         "TIME_PERIOD": 2006,
-        "OBS_VALUE": 80.2
+        "OBS_VALUE": 8.02
     },
     {
         "id": "Localizacion/NO/NO18",
+        "area": 1,
         "TIME_PERIOD": 2007,
-        "OBS_VALUE": 84
+        "OBS_VALUE": 8.4
     },
     {
         "id": "Localizacion/NO/NO19",
+        "area": 1,
         "TIME_PERIOD": 2008,
-        "OBS_VALUE": 77.3
+        "OBS_VALUE": 7.7299999999999995
     },
     {
         "id": "Localizacion/NO/NO20",
+        "area": 1,
         "TIME_PERIOD": 2009,
-        "OBS_VALUE": 63.4
+        "OBS_VALUE": 6.34
     },
     {
         "id": "Localizacion/NO/NO21",
+        "area": 1,
         "TIME_PERIOD": 2010,
-        "OBS_VALUE": 77.6
+        "OBS_VALUE": 7.76
     },
     {
         "id": "Localizacion/NO/NO22",
+        "area": 1,
         "TIME_PERIOD": 2011,
-        "OBS_VALUE": 72.4
+        "OBS_VALUE": 7.24
     },
     {
         "id": "Localizacion/NO/NO23",
+        "area": 1,
         "TIME_PERIOD": 2012,
-        "OBS_VALUE": 80.2
+        "OBS_VALUE": 8.02
     },
     {
         "id": "Localizacion/NO/NO24",
+        "area": 1,
         "TIME_PERIOD": 2013,
-        "OBS_VALUE": 79.7
+        "OBS_VALUE": 7.970000000000001
     },
     {
         "id": "Localizacion/NO/NO25",
+        "area": 1,
         "TIME_PERIOD": 2014,
-        "OBS_VALUE": 89.6
+        "OBS_VALUE": 8.959999999999999
     },
     {
         "id": "Localizacion/NO/NO26",
+        "area": 1,
         "TIME_PERIOD": 2015,
-        "OBS_VALUE": 102
+        "OBS_VALUE": 10.2
     },
     {
         "id": "Localizacion/NO/NO27",
+        "area": 1,
         "TIME_PERIOD": 2016,
-        "OBS_VALUE": 99.8
+        "OBS_VALUE": 9.98
     },
     {
         "id": "Localizacion/NO/NO28",
+        "area": 1,
         "TIME_PERIOD": 2017,
-        "OBS_VALUE": 100.2
+        "OBS_VALUE": 10.02
     },
     {
         "id": "Localizacion/NO/NO29",
+        "area": 1,
         "TIME_PERIOD": 2018,
-        "OBS_VALUE": 98.5
+        "OBS_VALUE": 9.85
     },
     {
         "id": "Localizacion/NO/NO30",
+        "area": 1,
         "TIME_PERIOD": 2019,
-        "OBS_VALUE": 89.5
+        "OBS_VALUE": 8.95
     },
     {
         "id": "Localizacion/NO/NO31",
+        "area": 1,
         "TIME_PERIOD": 2020,
-        "OBS_VALUE": 73.3
+        "OBS_VALUE": 7.33
     },
     {
         "id": "Localizacion/NO/NO32",
+        "area": 1,
         "TIME_PERIOD": 2021,
-        "OBS_VALUE": 81.1
+        "OBS_VALUE": 8.11
     },
     {
         "id": "Localizacion/PL/PL1",
+        "area": 1,
         "TIME_PERIOD": 1990,
-        "OBS_VALUE": 100
+        "OBS_VALUE": 10.0
     },
     {
         "id": "Localizacion/PL/PL2",
+        "area": 1,
         "TIME_PERIOD": 1991,
-        "OBS_VALUE": 99.1
+        "OBS_VALUE": 9.91
     },
     {
         "id": "Localizacion/PL/PL3",
+        "area": 1,
         "TIME_PERIOD": 1992,
-        "OBS_VALUE": 101.1
+        "OBS_VALUE": 10.11
     },
     {
         "id": "Localizacion/PL/PL4",
+        "area": 1,
         "TIME_PERIOD": 1993,
-        "OBS_VALUE": 99.4
+        "OBS_VALUE": 9.940000000000001
     },
     {
         "id": "Localizacion/PL/PL5",
+        "area": 1,
         "TIME_PERIOD": 1994,
-        "OBS_VALUE": 98.1
+        "OBS_VALUE": 9.809999999999999
     },
     {
         "id": "Localizacion/PL/PL6",
+        "area": 1,
         "TIME_PERIOD": 1995,
-        "OBS_VALUE": 96.2
+        "OBS_VALUE": 9.620000000000001
     },
     {
         "id": "Localizacion/PL/PL7",
+        "area": 1,
         "TIME_PERIOD": 1996,
-        "OBS_VALUE": 95.4
+        "OBS_VALUE": 9.540000000000001
     },
     {
         "id": "Localizacion/PL/PL8",
+        "area": 1,
         "TIME_PERIOD": 1997,
-        "OBS_VALUE": 93.1
+        "OBS_VALUE": 9.309999999999999
     },
     {
         "id": "Localizacion/PL/PL9",
+        "area": 1,
         "TIME_PERIOD": 1998,
-        "OBS_VALUE": 85
+        "OBS_VALUE": 8.5
     },
     {
         "id": "Localizacion/PL/PL10",
+        "area": 1,
         "TIME_PERIOD": 1999,
-        "OBS_VALUE": 83
+        "OBS_VALUE": 8.3
     },
     {
         "id": "Localizacion/PL/PL11",
+        "area": 1,
         "TIME_PERIOD": 2000,
-        "OBS_VALUE": 80.7
+        "OBS_VALUE": 8.07
     },
     {
         "id": "Localizacion/PL/PL12",
+        "area": 1,
         "TIME_PERIOD": 2001,
-        "OBS_VALUE": 82.1
+        "OBS_VALUE": 8.209999999999999
     },
     {
         "id": "Localizacion/PL/PL13",
+        "area": 1,
         "TIME_PERIOD": 2002,
-        "OBS_VALUE": 77.9
+        "OBS_VALUE": 7.790000000000001
     },
     {
         "id": "Localizacion/PL/PL14",
+        "area": 1,
         "TIME_PERIOD": 2003,
-        "OBS_VALUE": 80.4
+        "OBS_VALUE": 8.040000000000001
     },
     {
         "id": "Localizacion/PL/PL15",
+        "area": 1,
         "TIME_PERIOD": 2004,
-        "OBS_VALUE": 79.1
+        "OBS_VALUE": 7.909999999999999
     },
     {
         "id": "Localizacion/PL/PL16",
+        "area": 1,
         "TIME_PERIOD": 2005,
-        "OBS_VALUE": 79.2
+        "OBS_VALUE": 7.92
     },
     {
         "id": "Localizacion/PL/PL17",
+        "area": 1,
         "TIME_PERIOD": 2006,
-        "OBS_VALUE": 83.9
+        "OBS_VALUE": 8.39
     },
     {
         "id": "Localizacion/PL/PL18",
+        "area": 1,
         "TIME_PERIOD": 2007,
-        "OBS_VALUE": 85.3
+        "OBS_VALUE": 8.53
     },
     {
         "id": "Localizacion/PL/PL19",
+        "area": 1,
         "TIME_PERIOD": 2008,
-        "OBS_VALUE": 84
+        "OBS_VALUE": 8.4
     },
     {
         "id": "Localizacion/PL/PL20",
+        "area": 1,
         "TIME_PERIOD": 2009,
-        "OBS_VALUE": 79.9
+        "OBS_VALUE": 7.99
     },
     {
         "id": "Localizacion/PL/PL21",
+        "area": 1,
         "TIME_PERIOD": 2010,
-        "OBS_VALUE": 84.2
+        "OBS_VALUE": 8.42
     },
     {
         "id": "Localizacion/PL/PL22",
+        "area": 1,
         "TIME_PERIOD": 2011,
-        "OBS_VALUE": 82.6
+        "OBS_VALUE": 8.26
     },
     {
         "id": "Localizacion/PL/PL23",
+        "area": 1,
         "TIME_PERIOD": 2012,
-        "OBS_VALUE": 80.8
+        "OBS_VALUE": 8.08
     },
     {
         "id": "Localizacion/PL/PL24",
+        "area": 1,
         "TIME_PERIOD": 2013,
-        "OBS_VALUE": 79.4
+        "OBS_VALUE": 7.94
     },
     {
         "id": "Localizacion/PL/PL25",
+        "area": 1,
         "TIME_PERIOD": 2014,
-        "OBS_VALUE": 78.3
+        "OBS_VALUE": 7.83
     },
     {
         "id": "Localizacion/PL/PL26",
+        "area": 1,
         "TIME_PERIOD": 2015,
-        "OBS_VALUE": 79.8
+        "OBS_VALUE": 7.9799999999999995
     },
     {
         "id": "Localizacion/PL/PL27",
+        "area": 1,
         "TIME_PERIOD": 2016,
-        "OBS_VALUE": 80.7
+        "OBS_VALUE": 8.07
     },
     {
         "id": "Localizacion/PL/PL28",
+        "area": 1,
         "TIME_PERIOD": 2017,
-        "OBS_VALUE": 83.8
+        "OBS_VALUE": 8.379999999999999
     },
     {
         "id": "Localizacion/PL/PL29",
+        "area": 1,
         "TIME_PERIOD": 2018,
-        "OBS_VALUE": 84.1
+        "OBS_VALUE": 8.41
     },
     {
         "id": "Localizacion/PL/PL30",
+        "area": 1,
         "TIME_PERIOD": 2019,
-        "OBS_VALUE": 83.2
+        "OBS_VALUE": 8.32
     },
     {
         "id": "Localizacion/PL/PL31",
+        "area": 1,
         "TIME_PERIOD": 2020,
-        "OBS_VALUE": 79.3
+        "OBS_VALUE": 7.93
     },
     {
         "id": "Localizacion/PL/PL32",
+        "area": 1,
         "TIME_PERIOD": 2021,
-        "OBS_VALUE": 85.5
+        "OBS_VALUE": 8.55
     },
     {
         "id": "Localizacion/PT/PT1",
+        "area": 1,
         "TIME_PERIOD": 1990,
-        "OBS_VALUE": 100
+        "OBS_VALUE": 10.0
     },
     {
         "id": "Localizacion/PT/PT2",
+        "area": 1,
         "TIME_PERIOD": 1991,
-        "OBS_VALUE": 89.1
+        "OBS_VALUE": 8.91
     },
     {
         "id": "Localizacion/PT/PT3",
+        "area": 1,
         "TIME_PERIOD": 1992,
-        "OBS_VALUE": 85.2
+        "OBS_VALUE": 8.52
     },
     {
         "id": "Localizacion/PT/PT4",
+        "area": 1,
         "TIME_PERIOD": 1993,
-        "OBS_VALUE": 81.6
+        "OBS_VALUE": 8.16
     },
     {
         "id": "Localizacion/PT/PT5",
+        "area": 1,
         "TIME_PERIOD": 1994,
-        "OBS_VALUE": 84.3
+        "OBS_VALUE": 8.43
     },
     {
         "id": "Localizacion/PT/PT6",
+        "area": 1,
         "TIME_PERIOD": 1995,
-        "OBS_VALUE": 89.3
+        "OBS_VALUE": 8.93
     },
     {
         "id": "Localizacion/PT/PT7",
+        "area": 1,
         "TIME_PERIOD": 1996,
-        "OBS_VALUE": 87.6
+        "OBS_VALUE": 8.76
     },
     {
         "id": "Localizacion/PT/PT8",
+        "area": 1,
         "TIME_PERIOD": 1997,
-        "OBS_VALUE": 90.8
+        "OBS_VALUE": 9.08
     },
     {
         "id": "Localizacion/PT/PT9",
+        "area": 1,
         "TIME_PERIOD": 1998,
-        "OBS_VALUE": 98.6
+        "OBS_VALUE": 9.86
     },
     {
         "id": "Localizacion/PT/PT10",
+        "area": 1,
         "TIME_PERIOD": 1999,
-        "OBS_VALUE": 110.1
+        "OBS_VALUE": 11.01
     },
     {
         "id": "Localizacion/PT/PT11",
+        "area": 1,
         "TIME_PERIOD": 2000,
-        "OBS_VALUE": 121
+        "OBS_VALUE": 12.1
     },
     {
         "id": "Localizacion/PT/PT12",
+        "area": 1,
         "TIME_PERIOD": 2001,
-        "OBS_VALUE": 111
+        "OBS_VALUE": 11.1
     },
     {
         "id": "Localizacion/PT/PT13",
+        "area": 1,
         "TIME_PERIOD": 2002,
-        "OBS_VALUE": 118
+        "OBS_VALUE": 11.8
     },
     {
         "id": "Localizacion/PT/PT14",
+        "area": 1,
         "TIME_PERIOD": 2003,
-        "OBS_VALUE": 129.7
+        "OBS_VALUE": 12.969999999999999
     },
     {
         "id": "Localizacion/PT/PT15",
+        "area": 1,
         "TIME_PERIOD": 2004,
-        "OBS_VALUE": 121
+        "OBS_VALUE": 12.1
     },
     {
         "id": "Localizacion/PT/PT16",
+        "area": 1,
         "TIME_PERIOD": 2005,
-        "OBS_VALUE": 135.5
+        "OBS_VALUE": 13.55
     },
     {
         "id": "Localizacion/PT/PT17",
+        "area": 1,
         "TIME_PERIOD": 2006,
-        "OBS_VALUE": 120.7
+        "OBS_VALUE": 12.07
     },
     {
         "id": "Localizacion/PT/PT18",
+        "area": 1,
         "TIME_PERIOD": 2007,
-        "OBS_VALUE": 115.2
+        "OBS_VALUE": 11.52
     },
     {
         "id": "Localizacion/PT/PT19",
+        "area": 1,
         "TIME_PERIOD": 2008,
-        "OBS_VALUE": 103
+        "OBS_VALUE": 10.3
     },
     {
         "id": "Localizacion/PT/PT20",
+        "area": 1,
         "TIME_PERIOD": 2009,
-        "OBS_VALUE": 96.8
+        "OBS_VALUE": 9.68
     },
     {
         "id": "Localizacion/PT/PT21",
+        "area": 1,
         "TIME_PERIOD": 2010,
-        "OBS_VALUE": 96.4
+        "OBS_VALUE": 9.64
     },
     {
         "id": "Localizacion/PT/PT22",
+        "area": 1,
         "TIME_PERIOD": 2011,
-        "OBS_VALUE": 99.5
+        "OBS_VALUE": 9.95
     },
     {
         "id": "Localizacion/PT/PT23",
+        "area": 1,
         "TIME_PERIOD": 2012,
-        "OBS_VALUE": 99.4
+        "OBS_VALUE": 9.940000000000001
     },
     {
         "id": "Localizacion/PT/PT24",
+        "area": 1,
         "TIME_PERIOD": 2013,
-        "OBS_VALUE": 98.4
+        "OBS_VALUE": 9.84
     },
     {
         "id": "Localizacion/PT/PT25",
+        "area": 1,
         "TIME_PERIOD": 2014,
-        "OBS_VALUE": 91
+        "OBS_VALUE": 9.1
     },
     {
         "id": "Localizacion/PT/PT26",
+        "area": 1,
         "TIME_PERIOD": 2015,
-        "OBS_VALUE": 99.2
+        "OBS_VALUE": 9.92
     },
     {
         "id": "Localizacion/PT/PT27",
+        "area": 1,
         "TIME_PERIOD": 2016,
-        "OBS_VALUE": 104
+        "OBS_VALUE": 10.4
     },
     {
         "id": "Localizacion/PT/PT28",
+        "area": 1,
         "TIME_PERIOD": 2017,
-        "OBS_VALUE": 142
+        "OBS_VALUE": 14.2
     },
     {
         "id": "Localizacion/PT/PT29",
+        "area": 1,
         "TIME_PERIOD": 2018,
-        "OBS_VALUE": 100.5
+        "OBS_VALUE": 10.05
     },
     {
         "id": "Localizacion/PT/PT30",
+        "area": 1,
         "TIME_PERIOD": 2019,
-        "OBS_VALUE": 94
+        "OBS_VALUE": 9.4
     },
     {
         "id": "Localizacion/PT/PT31",
+        "area": 1,
         "TIME_PERIOD": 2020,
-        "OBS_VALUE": 80.6
+        "OBS_VALUE": 8.059999999999999
     },
     {
         "id": "Localizacion/PT/PT32",
+        "area": 1,
         "TIME_PERIOD": 2021,
-        "OBS_VALUE": 77
+        "OBS_VALUE": 7.7
     },
     {
         "id": "Localizacion/RO/RO1",
+        "area": 1,
         "TIME_PERIOD": 1990,
-        "OBS_VALUE": 100
+        "OBS_VALUE": 10.0
     },
     {
         "id": "Localizacion/RO/RO2",
+        "area": 1,
         "TIME_PERIOD": 1991,
-        "OBS_VALUE": 79.3
+        "OBS_VALUE": 7.93
     },
     {
         "id": "Localizacion/RO/RO3",
+        "area": 1,
         "TIME_PERIOD": 1992,
-        "OBS_VALUE": 72
+        "OBS_VALUE": 7.2
     },
     {
         "id": "Localizacion/RO/RO4",
+        "area": 1,
         "TIME_PERIOD": 1993,
-        "OBS_VALUE": 66.9
+        "OBS_VALUE": 6.69
     },
     {
         "id": "Localizacion/RO/RO5",
+        "area": 1,
         "TIME_PERIOD": 1994,
-        "OBS_VALUE": 65.8
+        "OBS_VALUE": 6.58
     },
     {
         "id": "Localizacion/RO/RO6",
+        "area": 1,
         "TIME_PERIOD": 1995,
-        "OBS_VALUE": 69
+        "OBS_VALUE": 6.9
     },
     {
         "id": "Localizacion/RO/RO7",
+        "area": 1,
         "TIME_PERIOD": 1996,
-        "OBS_VALUE": 70.5
+        "OBS_VALUE": 7.05
     },
     {
         "id": "Localizacion/RO/RO8",
+        "area": 1,
         "TIME_PERIOD": 1997,
-        "OBS_VALUE": 67.4
+        "OBS_VALUE": 6.74
     },
     {
         "id": "Localizacion/RO/RO9",
+        "area": 1,
         "TIME_PERIOD": 1998,
-        "OBS_VALUE": 59
+        "OBS_VALUE": 5.9
     },
     {
         "id": "Localizacion/RO/RO10",
+        "area": 1,
         "TIME_PERIOD": 1999,
-        "OBS_VALUE": 51.4
+        "OBS_VALUE": 5.14
     },
     {
         "id": "Localizacion/RO/RO11",
+        "area": 1,
         "TIME_PERIOD": 2000,
-        "OBS_VALUE": 47.9
+        "OBS_VALUE": 4.79
     },
     {
         "id": "Localizacion/RO/RO12",
+        "area": 1,
         "TIME_PERIOD": 2001,
-        "OBS_VALUE": 49.1
+        "OBS_VALUE": 4.91
     },
     {
         "id": "Localizacion/RO/RO13",
+        "area": 1,
         "TIME_PERIOD": 2002,
-        "OBS_VALUE": 50.8
+        "OBS_VALUE": 5.08
     },
     {
         "id": "Localizacion/RO/RO14",
+        "area": 1,
         "TIME_PERIOD": 2003,
-        "OBS_VALUE": 53.1
+        "OBS_VALUE": 5.3100000000000005
     },
     {
         "id": "Localizacion/RO/RO15",
+        "area": 1,
         "TIME_PERIOD": 2004,
-        "OBS_VALUE": 52.5
+        "OBS_VALUE": 5.25
     },
     {
         "id": "Localizacion/RO/RO16",
+        "area": 1,
         "TIME_PERIOD": 2005,
-        "OBS_VALUE": 51.6
+        "OBS_VALUE": 5.16
     },
     {
         "id": "Localizacion/RO/RO17",
+        "area": 1,
         "TIME_PERIOD": 2006,
-        "OBS_VALUE": 52.2
+        "OBS_VALUE": 5.220000000000001
     },
     {
         "id": "Localizacion/RO/RO18",
+        "area": 1,
         "TIME_PERIOD": 2007,
-        "OBS_VALUE": 53.4
+        "OBS_VALUE": 5.34
     },
     {
         "id": "Localizacion/RO/RO19",
+        "area": 1,
         "TIME_PERIOD": 2008,
-        "OBS_VALUE": 51.8
+        "OBS_VALUE": 5.18
     },
     {
         "id": "Localizacion/RO/RO20",
+        "area": 1,
         "TIME_PERIOD": 2009,
-        "OBS_VALUE": 43.7
+        "OBS_VALUE": 4.37
     },
     {
         "id": "Localizacion/RO/RO21",
+        "area": 1,
         "TIME_PERIOD": 2010,
-        "OBS_VALUE": 39.2
+        "OBS_VALUE": 3.9200000000000004
     },
     {
         "id": "Localizacion/RO/RO22",
+        "area": 1,
         "TIME_PERIOD": 2011,
-        "OBS_VALUE": 41.8
+        "OBS_VALUE": 4.18
     },
     {
         "id": "Localizacion/RO/RO23",
+        "area": 1,
         "TIME_PERIOD": 2012,
-        "OBS_VALUE": 39.8
+        "OBS_VALUE": 3.9799999999999995
     },
     {
         "id": "Localizacion/RO/RO24",
+        "area": 1,
         "TIME_PERIOD": 2013,
-        "OBS_VALUE": 34.6
+        "OBS_VALUE": 3.46
     },
     {
         "id": "Localizacion/RO/RO25",
+        "area": 1,
         "TIME_PERIOD": 2014,
-        "OBS_VALUE": 29.5
+        "OBS_VALUE": 2.95
     },
     {
         "id": "Localizacion/RO/RO26",
+        "area": 1,
         "TIME_PERIOD": 2015,
-        "OBS_VALUE": 29.4
+        "OBS_VALUE": 2.94
     },
     {
         "id": "Localizacion/RO/RO27",
+        "area": 1,
         "TIME_PERIOD": 2016,
-        "OBS_VALUE": 27.7
+        "OBS_VALUE": 2.77
     },
     {
         "id": "Localizacion/RO/RO28",
+        "area": 1,
         "TIME_PERIOD": 2017,
-        "OBS_VALUE": 30
+        "OBS_VALUE": 3.0
     },
     {
         "id": "Localizacion/RO/RO29",
+        "area": 1,
         "TIME_PERIOD": 2018,
-        "OBS_VALUE": 31.2
+        "OBS_VALUE": 3.12
     },
     {
         "id": "Localizacion/RO/RO30",
+        "area": 1,
         "TIME_PERIOD": 2019,
-        "OBS_VALUE": 29.7
+        "OBS_VALUE": 2.9699999999999998
     },
     {
         "id": "Localizacion/RO/RO31",
+        "area": 1,
         "TIME_PERIOD": 2020,
-        "OBS_VALUE": 26.9
+        "OBS_VALUE": 2.69
     },
     {
         "id": "Localizacion/RO/RO32",
+        "area": 1,
         "TIME_PERIOD": 2021,
-        "OBS_VALUE": 29
+        "OBS_VALUE": 2.9
     },
     {
         "id": "Localizacion/SE/SE1",
+        "area": 1,
         "TIME_PERIOD": 1990,
-        "OBS_VALUE": 100
+        "OBS_VALUE": 10.0
     },
     {
         "id": "Localizacion/SE/SE2",
+        "area": 1,
         "TIME_PERIOD": 1991,
-        "OBS_VALUE": 100.5
+        "OBS_VALUE": 10.05
     },
     {
         "id": "Localizacion/SE/SE3",
+        "area": 1,
         "TIME_PERIOD": 1992,
-        "OBS_VALUE": 102.2
+        "OBS_VALUE": 10.22
     },
     {
         "id": "Localizacion/SE/SE4",
+        "area": 1,
         "TIME_PERIOD": 1993,
-        "OBS_VALUE": 119.4
+        "OBS_VALUE": 11.940000000000001
     },
     {
         "id": "Localizacion/SE/SE5",
+        "area": 1,
         "TIME_PERIOD": 1994,
-        "OBS_VALUE": 123.5
+        "OBS_VALUE": 12.35
     },
     {
         "id": "Localizacion/SE/SE6",
+        "area": 1,
         "TIME_PERIOD": 1995,
-        "OBS_VALUE": 121.3
+        "OBS_VALUE": 12.129999999999999
     },
     {
         "id": "Localizacion/SE/SE7",
+        "area": 1,
         "TIME_PERIOD": 1996,
-        "OBS_VALUE": 126.5
+        "OBS_VALUE": 12.65
     },
     {
         "id": "Localizacion/SE/SE8",
+        "area": 1,
         "TIME_PERIOD": 1997,
-        "OBS_VALUE": 105.4
+        "OBS_VALUE": 10.540000000000001
     },
     {
         "id": "Localizacion/SE/SE9",
+        "area": 1,
         "TIME_PERIOD": 1998,
-        "OBS_VALUE": 105
+        "OBS_VALUE": 10.5
     },
     {
         "id": "Localizacion/SE/SE10",
+        "area": 1,
         "TIME_PERIOD": 1999,
-        "OBS_VALUE": 92.6
+        "OBS_VALUE": 9.26
     },
     {
         "id": "Localizacion/SE/SE11",
+        "area": 1,
         "TIME_PERIOD": 2000,
-        "OBS_VALUE": 83.4
+        "OBS_VALUE": 8.34
     },
     {
         "id": "Localizacion/SE/SE12",
+        "area": 1,
         "TIME_PERIOD": 2001,
-        "OBS_VALUE": 82.8
+        "OBS_VALUE": 8.28
     },
     {
         "id": "Localizacion/SE/SE13",
+        "area": 1,
         "TIME_PERIOD": 2002,
-        "OBS_VALUE": 87.9
+        "OBS_VALUE": 8.790000000000001
     },
     {
         "id": "Localizacion/SE/SE14",
+        "area": 1,
         "TIME_PERIOD": 2003,
-        "OBS_VALUE": 99.5
+        "OBS_VALUE": 9.95
     },
     {
         "id": "Localizacion/SE/SE15",
+        "area": 1,
         "TIME_PERIOD": 2004,
-        "OBS_VALUE": 106.9
+        "OBS_VALUE": 10.690000000000001
     },
     {
         "id": "Localizacion/SE/SE16",
+        "area": 1,
         "TIME_PERIOD": 2005,
-        "OBS_VALUE": 94.8
+        "OBS_VALUE": 9.48
     },
     {
         "id": "Localizacion/SE/SE17",
+        "area": 1,
         "TIME_PERIOD": 2006,
-        "OBS_VALUE": 67.2
+        "OBS_VALUE": 6.720000000000001
     },
     {
         "id": "Localizacion/SE/SE18",
+        "area": 1,
         "TIME_PERIOD": 2007,
-        "OBS_VALUE": 71.5
+        "OBS_VALUE": 7.15
     },
     {
         "id": "Localizacion/SE/SE19",
+        "area": 1,
         "TIME_PERIOD": 2008,
-        "OBS_VALUE": 64.4
+        "OBS_VALUE": 6.44
     },
     {
         "id": "Localizacion/SE/SE20",
+        "area": 1,
         "TIME_PERIOD": 2009,
-        "OBS_VALUE": 47.5
+        "OBS_VALUE": 4.75
     },
     {
         "id": "Localizacion/SE/SE21",
+        "area": 1,
         "TIME_PERIOD": 2010,
-        "OBS_VALUE": 61.2
+        "OBS_VALUE": 6.12
     },
     {
         "id": "Localizacion/SE/SE22",
+        "area": 1,
         "TIME_PERIOD": 2011,
-        "OBS_VALUE": 42.1
+        "OBS_VALUE": 4.21
     },
     {
         "id": "Localizacion/SE/SE23",
+        "area": 1,
         "TIME_PERIOD": 2012,
-        "OBS_VALUE": 30.4
+        "OBS_VALUE": 3.04
     },
     {
         "id": "Localizacion/SE/SE24",
+        "area": 1,
         "TIME_PERIOD": 2013,
-        "OBS_VALUE": 31.3
+        "OBS_VALUE": 3.13
     },
     {
         "id": "Localizacion/SE/SE25",
+        "area": 1,
         "TIME_PERIOD": 2014,
-        "OBS_VALUE": 30.6
+        "OBS_VALUE": 3.06
     },
     {
         "id": "Localizacion/SE/SE26",
+        "area": 1,
         "TIME_PERIOD": 2015,
-        "OBS_VALUE": 35.3
+        "OBS_VALUE": 3.53
     },
     {
         "id": "Localizacion/SE/SE27",
+        "area": 1,
         "TIME_PERIOD": 2016,
-        "OBS_VALUE": 40.8
+        "OBS_VALUE": 4.08
     },
     {
         "id": "Localizacion/SE/SE28",
+        "area": 1,
         "TIME_PERIOD": 2017,
-        "OBS_VALUE": 62.5
+        "OBS_VALUE": 6.25
     },
     {
         "id": "Localizacion/SE/SE29",
+        "area": 1,
         "TIME_PERIOD": 2018,
-        "OBS_VALUE": 72.3
+        "OBS_VALUE": 7.2299999999999995
     },
     {
         "id": "Localizacion/SE/SE30",
+        "area": 1,
         "TIME_PERIOD": 2019,
-        "OBS_VALUE": 56.7
+        "OBS_VALUE": 5.67
     },
     {
         "id": "Localizacion/SE/SE31",
+        "area": 1,
         "TIME_PERIOD": 2020,
-        "OBS_VALUE": 22.1
+        "OBS_VALUE": 2.21
     },
     {
         "id": "Localizacion/SE/SE32",
+        "area": 1,
         "TIME_PERIOD": 2021,
-        "OBS_VALUE": 26.8
+        "OBS_VALUE": 2.68
     },
     {
         "id": "Localizacion/SI/SI1",
+        "area": 1,
         "TIME_PERIOD": 1990,
-        "OBS_VALUE": 100
+        "OBS_VALUE": 10.0
     },
     {
         "id": "Localizacion/SI/SI2",
+        "area": 1,
         "TIME_PERIOD": 1991,
-        "OBS_VALUE": 88
+        "OBS_VALUE": 8.8
     },
     {
         "id": "Localizacion/SI/SI3",
+        "area": 1,
         "TIME_PERIOD": 1992,
-        "OBS_VALUE": 87.2
+        "OBS_VALUE": 8.72
     },
     {
         "id": "Localizacion/SI/SI4",
+        "area": 1,
         "TIME_PERIOD": 1993,
-        "OBS_VALUE": 88.9
+        "OBS_VALUE": 8.89
     },
     {
         "id": "Localizacion/SI/SI5",
+        "area": 1,
         "TIME_PERIOD": 1994,
-        "OBS_VALUE": 90.6
+        "OBS_VALUE": 9.059999999999999
     },
     {
         "id": "Localizacion/SI/SI6",
+        "area": 1,
         "TIME_PERIOD": 1995,
-        "OBS_VALUE": 95.4
+        "OBS_VALUE": 9.540000000000001
     },
     {
         "id": "Localizacion/SI/SI7",
+        "area": 1,
         "TIME_PERIOD": 1996,
-        "OBS_VALUE": 95.5
+        "OBS_VALUE": 9.55
     },
     {
         "id": "Localizacion/SI/SI8",
+        "area": 1,
         "TIME_PERIOD": 1997,
-        "OBS_VALUE": 97.8
+        "OBS_VALUE": 9.78
     },
     {
         "id": "Localizacion/SI/SI9",
+        "area": 1,
         "TIME_PERIOD": 1998,
-        "OBS_VALUE": 94
+        "OBS_VALUE": 9.4
     },
     {
         "id": "Localizacion/SI/SI10",
+        "area": 1,
         "TIME_PERIOD": 1999,
-        "OBS_VALUE": 89.6
+        "OBS_VALUE": 8.959999999999999
     },
     {
         "id": "Localizacion/SI/SI11",
+        "area": 1,
         "TIME_PERIOD": 2000,
-        "OBS_VALUE": 87.5
+        "OBS_VALUE": 8.75
     },
     {
         "id": "Localizacion/SI/SI12",
+        "area": 1,
         "TIME_PERIOD": 2001,
-        "OBS_VALUE": 96
+        "OBS_VALUE": 9.6
     },
     {
         "id": "Localizacion/SI/SI13",
+        "area": 1,
         "TIME_PERIOD": 2002,
-        "OBS_VALUE": 90.2
+        "OBS_VALUE": 9.02
     },
     {
         "id": "Localizacion/SI/SI14",
+        "area": 1,
         "TIME_PERIOD": 2003,
-        "OBS_VALUE": 90
+        "OBS_VALUE": 9.0
     },
     {
         "id": "Localizacion/SI/SI15",
+        "area": 1,
         "TIME_PERIOD": 2004,
-        "OBS_VALUE": 91.7
+        "OBS_VALUE": 9.17
     },
     {
         "id": "Localizacion/SI/SI16",
+        "area": 1,
         "TIME_PERIOD": 2005,
-        "OBS_VALUE": 93.3
+        "OBS_VALUE": 9.33
     },
     {
         "id": "Localizacion/SI/SI17",
+        "area": 1,
         "TIME_PERIOD": 2006,
-        "OBS_VALUE": 94.5
+        "OBS_VALUE": 9.45
     },
     {
         "id": "Localizacion/SI/SI18",
+        "area": 1,
         "TIME_PERIOD": 2007,
-        "OBS_VALUE": 93.8
+        "OBS_VALUE": 9.379999999999999
     },
     {
         "id": "Localizacion/SI/SI19",
+        "area": 1,
         "TIME_PERIOD": 2008,
-        "OBS_VALUE": 100.6
+        "OBS_VALUE": 10.059999999999999
     },
     {
         "id": "Localizacion/SI/SI20",
+        "area": 1,
         "TIME_PERIOD": 2009,
-        "OBS_VALUE": 85.8
+        "OBS_VALUE": 8.58
     },
     {
         "id": "Localizacion/SI/SI21",
+        "area": 1,
         "TIME_PERIOD": 2010,
-        "OBS_VALUE": 87.9
+        "OBS_VALUE": 8.790000000000001
     },
     {
         "id": "Localizacion/SI/SI22",
+        "area": 1,
         "TIME_PERIOD": 2011,
-        "OBS_VALUE": 88
+        "OBS_VALUE": 8.8
     },
     {
         "id": "Localizacion/SI/SI23",
+        "area": 1,
         "TIME_PERIOD": 2012,
-        "OBS_VALUE": 84
+        "OBS_VALUE": 8.4
     },
     {
         "id": "Localizacion/SI/SI24",
+        "area": 1,
         "TIME_PERIOD": 2013,
-        "OBS_VALUE": 91
+        "OBS_VALUE": 9.1
     },
     {
         "id": "Localizacion/SI/SI25",
+        "area": 1,
         "TIME_PERIOD": 2014,
-        "OBS_VALUE": 121.1
+        "OBS_VALUE": 12.11
     },
     {
         "id": "Localizacion/SI/SI26",
+        "area": 1,
         "TIME_PERIOD": 2015,
-        "OBS_VALUE": 123.1
+        "OBS_VALUE": 12.309999999999999
     },
     {
         "id": "Localizacion/SI/SI27",
+        "area": 1,
         "TIME_PERIOD": 2016,
-        "OBS_VALUE": 130.1
+        "OBS_VALUE": 13.01
     },
     {
         "id": "Localizacion/SI/SI28",
+        "area": 1,
         "TIME_PERIOD": 2017,
-        "OBS_VALUE": 130.7
+        "OBS_VALUE": 13.069999999999999
     },
     {
         "id": "Localizacion/SI/SI29",
+        "area": 1,
         "TIME_PERIOD": 2018,
-        "OBS_VALUE": 130.3
+        "OBS_VALUE": 13.030000000000001
     },
     {
         "id": "Localizacion/SI/SI30",
+        "area": 1,
         "TIME_PERIOD": 2019,
-        "OBS_VALUE": 96.4
+        "OBS_VALUE": 9.64
     },
     {
         "id": "Localizacion/SI/SI31",
+        "area": 1,
         "TIME_PERIOD": 2020,
-        "OBS_VALUE": 89
+        "OBS_VALUE": 8.9
     },
     {
         "id": "Localizacion/SI/SI32",
+        "area": 1,
         "TIME_PERIOD": 2021,
-        "OBS_VALUE": 90.1
+        "OBS_VALUE": 9.01
     },
     {
         "id": "Localizacion/SK/SK1",
+        "area": 1,
         "TIME_PERIOD": 1990,
-        "OBS_VALUE": 100
+        "OBS_VALUE": 10.0
     },
     {
         "id": "Localizacion/SK/SK2",
+        "area": 1,
         "TIME_PERIOD": 1991,
-        "OBS_VALUE": 84.2
+        "OBS_VALUE": 8.42
     },
     {
         "id": "Localizacion/SK/SK3",
+        "area": 1,
         "TIME_PERIOD": 1992,
-        "OBS_VALUE": 74.3
+        "OBS_VALUE": 7.43
     },
     {
         "id": "Localizacion/SK/SK4",
+        "area": 1,
         "TIME_PERIOD": 1993,
-        "OBS_VALUE": 69.4
+        "OBS_VALUE": 6.94
     },
     {
         "id": "Localizacion/SK/SK5",
+        "area": 1,
         "TIME_PERIOD": 1994,
-        "OBS_VALUE": 66.3
+        "OBS_VALUE": 6.63
     },
     {
         "id": "Localizacion/SK/SK6",
+        "area": 1,
         "TIME_PERIOD": 1995,
-        "OBS_VALUE": 67.9
+        "OBS_VALUE": 6.790000000000001
     },
     {
         "id": "Localizacion/SK/SK7",
+        "area": 1,
         "TIME_PERIOD": 1996,
-        "OBS_VALUE": 67.7
+        "OBS_VALUE": 6.7700000000000005
     },
     {
         "id": "Localizacion/SK/SK8",
+        "area": 1,
         "TIME_PERIOD": 1997,
-        "OBS_VALUE": 67.8
+        "OBS_VALUE": 6.779999999999999
     },
     {
         "id": "Localizacion/SK/SK9",
+        "area": 1,
         "TIME_PERIOD": 1998,
-        "OBS_VALUE": 65
+        "OBS_VALUE": 6.5
     },
     {
         "id": "Localizacion/SK/SK10",
+        "area": 1,
         "TIME_PERIOD": 1999,
-        "OBS_VALUE": 64.4
+        "OBS_VALUE": 6.44
     },
     {
         "id": "Localizacion/SK/SK11",
+        "area": 1,
         "TIME_PERIOD": 2000,
-        "OBS_VALUE": 61.5
+        "OBS_VALUE": 6.15
     },
     {
         "id": "Localizacion/SK/SK12",
+        "area": 1,
         "TIME_PERIOD": 2001,
-        "OBS_VALUE": 66.1
+        "OBS_VALUE": 6.609999999999999
     },
     {
         "id": "Localizacion/SK/SK13",
+        "area": 1,
         "TIME_PERIOD": 2002,
-        "OBS_VALUE": 63.2
+        "OBS_VALUE": 6.32
     },
     {
         "id": "Localizacion/SK/SK14",
+        "area": 1,
         "TIME_PERIOD": 2003,
-        "OBS_VALUE": 64.3
+        "OBS_VALUE": 6.43
     },
     {
         "id": "Localizacion/SK/SK15",
+        "area": 1,
         "TIME_PERIOD": 2004,
-        "OBS_VALUE": 65.4
+        "OBS_VALUE": 6.540000000000001
     },
     {
         "id": "Localizacion/SK/SK16",
+        "area": 1,
         "TIME_PERIOD": 2005,
-        "OBS_VALUE": 71.4
+        "OBS_VALUE": 7.140000000000001
     },
     {
         "id": "Localizacion/SK/SK17",
+        "area": 1,
         "TIME_PERIOD": 2006,
-        "OBS_VALUE": 66.3
+        "OBS_VALUE": 6.63
     },
     {
         "id": "Localizacion/SK/SK18",
+        "area": 1,
         "TIME_PERIOD": 2007,
-        "OBS_VALUE": 64.3
+        "OBS_VALUE": 6.43
     },
     {
         "id": "Localizacion/SK/SK19",
+        "area": 1,
         "TIME_PERIOD": 2008,
-        "OBS_VALUE": 66.9
+        "OBS_VALUE": 6.69
     },
     {
         "id": "Localizacion/SK/SK20",
+        "area": 1,
         "TIME_PERIOD": 2009,
-        "OBS_VALUE": 60.5
+        "OBS_VALUE": 6.05
     },
     {
         "id": "Localizacion/SK/SK21",
+        "area": 1,
         "TIME_PERIOD": 2010,
-        "OBS_VALUE": 63.1
+        "OBS_VALUE": 6.3100000000000005
     },
     {
         "id": "Localizacion/SK/SK22",
+        "area": 1,
         "TIME_PERIOD": 2011,
-        "OBS_VALUE": 61.1
+        "OBS_VALUE": 6.11
     },
     {
         "id": "Localizacion/SK/SK23",
+        "area": 1,
         "TIME_PERIOD": 2012,
-        "OBS_VALUE": 55.7
+        "OBS_VALUE": 5.57
     },
     {
         "id": "Localizacion/SK/SK24",
+        "area": 1,
         "TIME_PERIOD": 2013,
-        "OBS_VALUE": 54
+        "OBS_VALUE": 5.4
     },
     {
         "id": "Localizacion/SK/SK25",
+        "area": 1,
         "TIME_PERIOD": 2014,
-        "OBS_VALUE": 54.3
+        "OBS_VALUE": 5.43
     },
     {
         "id": "Localizacion/SK/SK26",
+        "area": 1,
         "TIME_PERIOD": 2015,
-        "OBS_VALUE": 54.7
+        "OBS_VALUE": 5.470000000000001
     },
     {
         "id": "Localizacion/SK/SK27",
+        "area": 1,
         "TIME_PERIOD": 2016,
-        "OBS_VALUE": 55.3
+        "OBS_VALUE": 5.529999999999999
     },
     {
         "id": "Localizacion/SK/SK28",
+        "area": 1,
         "TIME_PERIOD": 2017,
-        "OBS_VALUE": 57.2
+        "OBS_VALUE": 5.720000000000001
     },
     {
         "id": "Localizacion/SK/SK29",
+        "area": 1,
         "TIME_PERIOD": 2018,
-        "OBS_VALUE": 58.5
+        "OBS_VALUE": 5.85
     },
     {
         "id": "Localizacion/SK/SK30",
+        "area": 1,
         "TIME_PERIOD": 2019,
-        "OBS_VALUE": 53.7
+        "OBS_VALUE": 5.37
     },
     {
         "id": "Localizacion/SK/SK31",
+        "area": 1,
         "TIME_PERIOD": 2020,
-        "OBS_VALUE": 45.8
+        "OBS_VALUE": 4.58
     },
     {
         "id": "Localizacion/SK/SK32",
+        "area": 1,
         "TIME_PERIOD": 2021,
-        "OBS_VALUE": 52.2
+        "OBS_VALUE": 5.220000000000001
     }
 ]

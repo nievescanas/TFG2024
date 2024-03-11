@@ -18,6 +18,8 @@ def csv_to_json(csv_file, json_file):
                 except ValueError:
                     pass  # Si no se puede convertir a número, dejar como está
 
+                
+
                 if key == "geo":
                     # Verificar si el valor de "geo" ha cambiado
                     if value != current_geo:
@@ -26,7 +28,11 @@ def csv_to_json(csv_file, json_file):
                     else:
                         count[value] += 1  # Incrementar el contador
                     formatted_row["id"] = f"Localizacion/{value}/{value}{count[value]}"
+                    formatted_row["area"] = 1
+                
                 else:
+                    if key== "OBS_VALUE":
+                        value=float(value)/10
                     formatted_row[key] = value
 
             data.append(formatted_row)

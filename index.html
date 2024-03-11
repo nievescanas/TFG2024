@@ -31,7 +31,7 @@
 
       <!-- Environment -->
       <a-entity environment ></a-entity>
-      
+
       <!-- Light -->
         <a-light type="point" intensity="1" position="-10 20 30"></a-light>
     
@@ -67,11 +67,22 @@
         <!-- Visualicacion de datos -->
         <a-entity 
                   position="0.56 1.5 -5.4" 
-                  babia-city='width: 50; depth: 50; streets: true; color: green;
-                  extra: 1.5; base_thick: 0.3; split: pivot; fmaxarea: area; fheight:OBS_VALUE;
+                  babia-city='width: 20; depth: 20; streets: true; color: green;
+                  extra: 1.5; base_thick: 0.3; split: pivot; fmaxarea:area ; fheight:OBS_VALUE;
                   from:treetest ;
                   treeLayout:true'>
         </a-entity>
+
+        <!-- Añadir proceso en el tiempo -->
+        <a-entity id="nav" babia-navigator></a-entity>
+        <!-- Carga de datos -->
+        <a-entity id="data" babia-queryjson="url:data\data1.json"></a-entity>
+
+        <a-entity id="selector" babia-selector="from: data; controller: nav; state: play"></a-entity>
+        <!-- Arbol de datos -->                       
+        <a-entity id="treetest" babia-treebuilder="field: id; split_by: /; from: data"></a-entity>
+        
+        <!-- Este componente muestra una ciudad en barcos. --> 
 
     </a-scene>
   </body>
