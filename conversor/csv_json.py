@@ -41,6 +41,6 @@ def csv_to_json(csv_file, json_file):
         json.dump(data, jsonfile, indent=4)
 
 
-csv_file_path = 'C:\\Users\\Nieves\\Desktop\\Universidad\\TFG2024\\conversor\\data\\data1.csv'
-json_file_path = 'C:\\Users\\Nieves\\Desktop\\Universidad\\TFG2024\\conversor\\data\\data1.json'
+csv_file_path = 'data\\data1.csv'
+json_file_path = 'data\\data1.json'
 csv_to_json(csv_file_path, json_file_path)
