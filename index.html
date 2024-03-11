@@ -28,77 +28,50 @@
   <body>
     <!-- Scene. --> <!--avatar-recorder -->
     <a-scene>
-      <a-assets>
-        <img id="groundTexture" src="assets\textures\floor.png">
-        <img id="skyTexture" src="assets\textures\Environment.png">
 
-        <a-asset-item id="Tile-obj" src="assets\Tile1.obj"></a-asset-item>
-        <a-asset-item id="Tile-mtl" src="assets\Tile1.mtl"></a-asset-item>
-        <a-asset-item id="plaftorm-obj" src="assets\Plaftorm.obj"></a-asset-item>
-        <a-asset-item id="plat_objs-obj" src="assets\plat_objs.obj"></a-asset-item>
-      </a-assets>
-
-      <!-- Camera. -->
-      <a-camera>
-        <a-entity id="camara" movement-controls="fly: true" position="0 5 20">
+      <!-- Environment -->
+      <a-entity environment ></a-entity>
+      
+      <!-- Light -->
+        <a-light type="point" intensity="1" position="-10 20 30"></a-light>
+    
+      <!-- Camera -->
+      <a-entity movement-controls="fly: true" position="0 5 20">
           <a-entity camera position="0 0 0" look-controls></a-entity>
           <a-entity cursor="rayOrigin:mouse"></a-entity>
           <a-entity laser-controls="hand: right"></a-entity>
       </a-entity>
-      </a-camera>
 
       <!-- Entorno. -->
-      <a-sky id="bg" radius="100" src="#skyTexture" theta-length="90"></a-sky>
-      <a-cylinder id="ground" src="#groundTexture" radius="100" height="0.1"></a-cylinder>
+        <!--<a-sky id="bg" radius="1000" src="#skyTexture" theta-length="90"></a-sky>--> 
+        <a-assets>
+          <img id="groundTexture" src="assets\textures\floor.png">
+          <img id="skyTexture" src="assets\textures\Environment.png">
+          <a-asset-item id="Tile-obj" src="assets\Tile1.obj"></a-asset-item>
+          <a-asset-item id="Tile-mtl" src="assets\Tile1.mtl"></a-asset-item>
+          <a-asset-item id="plaftorm-obj" src="assets\Plaftorm.obj"></a-asset-item>
+          <a-asset-item id="plat_objs-obj" src="assets\plat_objs.obj"></a-asset-item>
+        </a-assets>
 
-      <!-- Plataformas. -->
-      <a-obj-model  modify-materials static-body src="#Tile-obj" mtl="#Tile-mtl" position="-0.24 1 -4.11" rotation="0 0 0" scale="0.05 0.05 0.05" visible="true"></a-obj-model>
-      <a-obj-model modify-materials="" static-body="" src="#plaftorm-obj" mtl="" position="0.56 1.01 -7.4" scale="0.01 0.01 0.01"></a-obj-model>
-      <a-entity id="modify" position="-0.1 2 -5.19"></a-entity>
-      <a-obj-model modify-materials="" static-body="" src="#plat_objs-obj" mtl="" position="-3.41 1.01 -8.20" scale="0.0001 0.0001 0.0001"></a-obj-model>
-      <a-obj-model modify-materials="" static-body="" src="#plat_objs-obj" mtl="" position="-0.93 1.01 -8.20" scale="0.0001 0.0001 0.0001"></a-obj-model>
-      <a-obj-model modify-materials="" static-body="" src="#plat_objs-obj" mtl="" position="1.74 1.01 -8.20" scale="0.0001 0.0001 0.0001"></a-obj-model>
-      <a-obj-model modify-materials="" static-body="" src="#plat_objs-obj" mtl="" position="4.18 1.01 -8.20" scale="0.0001 0.0001 0.0001"></a-obj-model>
+        <!-- Plataformas. -->
+        <a-obj-model  modify-materials static-body src="#Tile-obj" mtl="#Tile-mtl" position="-0.24 1 -4.11" rotation="0 0 0" visible="true"></a-obj-model>
+
 
       <!-- Gráfica. -->
-      <!-- Carga de datos -->
-      <a-entity id="dataJson" 
-                babia-queryjson="url:Pruebas\PruebaJSON.json">
-      </a-entity>
-      <!-- Filtro de datos -->                       
-      <a-entity id="dataJson_Filter" 
-                babia-filter="from:dataJson; filter:Nombre=Maria">
-      </a-entity>    
-      <!-- Visualicacion de datos -->
+        <!-- Carga de datos -->
+        <a-entity id="data" babia-queryjson="url:data\data1.json"></a-entity>
 
-<!-- 
-    <a-entity
-    position="0.56 1.5 -5.4" 
-    scale="0.2 0.2 0.2"
-    babia-city='data:{"id": "Root",
-    "children":
-     [{"id": "BlockA",
-       "children": [{"id": "BlockA0",
-                 "children": [{"id": "A0A", "area": 2, "height": 1}],
-                 "children": [{"id": "A1A", "area": 1, "height": 2}]}]}]}'
-    > </a-entity>
- -->
-
-    <a-entity id="data" babia-queryjson="url:data\data1.json"></a-entity>
-    
-    <a-entity id="treetest" babia-treebuilder="field: id; split_by: /; from: data"></a-entity>
-
-    <a-entity 
-    position="0.56 1.5 -5.4" 
-    scale="0.2 0.2 0.2"
-    babia-city='width: 50; depth: 50; streets: true; color: green;
-    extra: 1.5; base_thick: 0.3; split: pivot; fmaxarea: area; fheight:OBS_VALUE;
-    from:treetest ;
-    treeLayout:true'></a-entity>
-
-      <!-- Hands. -->
-
-
+        <!-- Arbol de datos -->                       
+        <a-entity id="treetest" babia-treebuilder="field: id; split_by: /; from: data"></a-entity>
+ 
+        <!-- Visualicacion de datos -->
+        <a-entity 
+                  position="0.56 1.5 -5.4" 
+                  babia-city='width: 50; depth: 50; streets: true; color: green;
+                  extra: 1.5; base_thick: 0.3; split: pivot; fmaxarea: area; fheight:OBS_VALUE;
+                  from:treetest ;
+                  treeLayout:true'>
+        </a-entity>
 
     </a-scene>
   </body>
