@@ -1,0 +1,4962 @@
+[
+    {
+        "id": "Localizacion/AT/AT1",
+        "TIME_PERIOD": 1990,
+        "OBS_VALUE": 100
+    },
+    {
+        "id": "Localizacion/AT/AT2",
+        "TIME_PERIOD": 1991,
+        "OBS_VALUE": 95.3
+    },
+    {
+        "id": "Localizacion/AT/AT3",
+        "TIME_PERIOD": 1992,
+        "OBS_VALUE": 100
+    },
+    {
+        "id": "Localizacion/AT/AT4",
+        "TIME_PERIOD": 1993,
+        "OBS_VALUE": 89.5
+    },
+    {
+        "id": "Localizacion/AT/AT5",
+        "TIME_PERIOD": 1994,
+        "OBS_VALUE": 100.8
+    },
+    {
+        "id": "Localizacion/AT/AT6",
+        "TIME_PERIOD": 1995,
+        "OBS_VALUE": 90.9
+    },
+    {
+        "id": "Localizacion/AT/AT7",
+        "TIME_PERIOD": 1996,
+        "OBS_VALUE": 97.1
+    },
+    {
+        "id": "Localizacion/AT/AT8",
+        "TIME_PERIOD": 1997,
+        "OBS_VALUE": 90.9
+    },
+    {
+        "id": "Localizacion/AT/AT9",
+        "TIME_PERIOD": 1998,
+        "OBS_VALUE": 95
+    },
+    {
+        "id": "Localizacion/AT/AT10",
+        "TIME_PERIOD": 1999,
+        "OBS_VALUE": 90.9
+    },
+    {
+        "id": "Localizacion/AT/AT11",
+        "TIME_PERIOD": 2000,
+        "OBS_VALUE": 100.5
+    },
+    {
+        "id": "Localizacion/AT/AT12",
+        "TIME_PERIOD": 2001,
+        "OBS_VALUE": 83.8
+    },
+    {
+        "id": "Localizacion/AT/AT13",
+        "TIME_PERIOD": 2002,
+        "OBS_VALUE": 110.2
+    },
+    {
+        "id": "Localizacion/AT/AT14",
+        "TIME_PERIOD": 2003,
+        "OBS_VALUE": 114.9
+    },
+    {
+        "id": "Localizacion/AT/AT15",
+        "TIME_PERIOD": 2004,
+        "OBS_VALUE": 104.5
+    },
+    {
+        "id": "Localizacion/AT/AT16",
+        "TIME_PERIOD": 2005,
+        "OBS_VALUE": 112.4
+    },
+    {
+        "id": "Localizacion/AT/AT17",
+        "TIME_PERIOD": 2006,
+        "OBS_VALUE": 122.8
+    },
+    {
+        "id": "Localizacion/AT/AT18",
+        "TIME_PERIOD": 2007,
+        "OBS_VALUE": 123.9
+    },
+    {
+        "id": "Localizacion/AT/AT19",
+        "TIME_PERIOD": 2008,
+        "OBS_VALUE": 113.1
+    },
+    {
+        "id": "Localizacion/AT/AT20",
+        "TIME_PERIOD": 2009,
+        "OBS_VALUE": 109.3
+    },
+    {
+        "id": "Localizacion/AT/AT21",
+        "TIME_PERIOD": 2010,
+        "OBS_VALUE": 98.9
+    },
+    {
+        "id": "Localizacion/AT/AT22",
+        "TIME_PERIOD": 2011,
+        "OBS_VALUE": 102.4
+    },
+    {
+        "id": "Localizacion/AT/AT23",
+        "TIME_PERIOD": 2012,
+        "OBS_VALUE": 112.4
+    },
+    {
+        "id": "Localizacion/AT/AT24",
+        "TIME_PERIOD": 2013,
+        "OBS_VALUE": 112.2
+    },
+    {
+        "id": "Localizacion/AT/AT25",
+        "TIME_PERIOD": 2014,
+        "OBS_VALUE": 104.9
+    },
+    {
+        "id": "Localizacion/AT/AT26",
+        "TIME_PERIOD": 2015,
+        "OBS_VALUE": 110
+    },
+    {
+        "id": "Localizacion/AT/AT27",
+        "TIME_PERIOD": 2016,
+        "OBS_VALUE": 111
+    },
+    {
+        "id": "Localizacion/AT/AT28",
+        "TIME_PERIOD": 2017,
+        "OBS_VALUE": 119.8
+    },
+    {
+        "id": "Localizacion/AT/AT29",
+        "TIME_PERIOD": 2018,
+        "OBS_VALUE": 127.5
+    },
+    {
+        "id": "Localizacion/AT/AT30",
+        "TIME_PERIOD": 2019,
+        "OBS_VALUE": 125.6
+    },
+    {
+        "id": "Localizacion/AT/AT31",
+        "TIME_PERIOD": 2020,
+        "OBS_VALUE": 103
+    },
+    {
+        "id": "Localizacion/AT/AT32",
+        "TIME_PERIOD": 2021,
+        "OBS_VALUE": 100.9
+    },
+    {
+        "id": "Localizacion/BE/BE1",
+        "TIME_PERIOD": 1990,
+        "OBS_VALUE": 100
+    },
+    {
+        "id": "Localizacion/BE/BE2",
+        "TIME_PERIOD": 1991,
+        "OBS_VALUE": 101.8
+    },
+    {
+        "id": "Localizacion/BE/BE3",
+        "TIME_PERIOD": 1992,
+        "OBS_VALUE": 101.6
+    },
+    {
+        "id": "Localizacion/BE/BE4",
+        "TIME_PERIOD": 1993,
+        "OBS_VALUE": 100.7
+    },
+    {
+        "id": "Localizacion/BE/BE5",
+        "TIME_PERIOD": 1994,
+        "OBS_VALUE": 104
+    },
+    {
+        "id": "Localizacion/BE/BE6",
+        "TIME_PERIOD": 1995,
+        "OBS_VALUE": 105.6
+    },
+    {
+        "id": "Localizacion/BE/BE7",
+        "TIME_PERIOD": 1996,
+        "OBS_VALUE": 108.3
+    },
+    {
+        "id": "Localizacion/BE/BE8",
+        "TIME_PERIOD": 1997,
+        "OBS_VALUE": 103
+    },
+    {
+        "id": "Localizacion/BE/BE9",
+        "TIME_PERIOD": 1998,
+        "OBS_VALUE": 106.5
+    },
+    {
+        "id": "Localizacion/BE/BE10",
+        "TIME_PERIOD": 1999,
+        "OBS_VALUE": 102.9
+    },
+    {
+        "id": "Localizacion/BE/BE11",
+        "TIME_PERIOD": 2000,
+        "OBS_VALUE": 104
+    },
+    {
+        "id": "Localizacion/BE/BE12",
+        "TIME_PERIOD": 2001,
+        "OBS_VALUE": 102.8
+    },
+    {
+        "id": "Localizacion/BE/BE13",
+        "TIME_PERIOD": 2002,
+        "OBS_VALUE": 101.9
+    },
+    {
+        "id": "Localizacion/BE/BE14",
+        "TIME_PERIOD": 2003,
+        "OBS_VALUE": 102.4
+    },
+    {
+        "id": "Localizacion/BE/BE15",
+        "TIME_PERIOD": 2004,
+        "OBS_VALUE": 103.1
+    },
+    {
+        "id": "Localizacion/BE/BE16",
+        "TIME_PERIOD": 2005,
+        "OBS_VALUE": 100.8
+    },
+    {
+        "id": "Localizacion/BE/BE17",
+        "TIME_PERIOD": 2006,
+        "OBS_VALUE": 99.1
+    },
+    {
+        "id": "Localizacion/BE/BE18",
+        "TIME_PERIOD": 2007,
+        "OBS_VALUE": 97
+    },
+    {
+        "id": "Localizacion/BE/BE19",
+        "TIME_PERIOD": 2008,
+        "OBS_VALUE": 97.3
+    },
+    {
+        "id": "Localizacion/BE/BE20",
+        "TIME_PERIOD": 2009,
+        "OBS_VALUE": 88.5
+    },
+    {
+        "id": "Localizacion/BE/BE21",
+        "TIME_PERIOD": 2010,
+        "OBS_VALUE": 94.1
+    },
+    {
+        "id": "Localizacion/BE/BE22",
+        "TIME_PERIOD": 2011,
+        "OBS_VALUE": 87.2
+    },
+    {
+        "id": "Localizacion/BE/BE23",
+        "TIME_PERIOD": 2012,
+        "OBS_VALUE": 85.1
+    },
+    {
+        "id": "Localizacion/BE/BE24",
+        "TIME_PERIOD": 2013,
+        "OBS_VALUE": 84.6
+    },
+    {
+        "id": "Localizacion/BE/BE25",
+        "TIME_PERIOD": 2014,
+        "OBS_VALUE": 80.8
+    },
+    {
+        "id": "Localizacion/BE/BE26",
+        "TIME_PERIOD": 2015,
+        "OBS_VALUE": 83.9
+    },
+    {
+        "id": "Localizacion/BE/BE27",
+        "TIME_PERIOD": 2016,
+        "OBS_VALUE": 82.9
+    },
+    {
+        "id": "Localizacion/BE/BE28",
+        "TIME_PERIOD": 2017,
+        "OBS_VALUE": 82.9
+    },
+    {
+        "id": "Localizacion/BE/BE29",
+        "TIME_PERIOD": 2018,
+        "OBS_VALUE": 83.6
+    },
+    {
+        "id": "Localizacion/BE/BE30",
+        "TIME_PERIOD": 2019,
+        "OBS_VALUE": 83
+    },
+    {
+        "id": "Localizacion/BE/BE31",
+        "TIME_PERIOD": 2020,
+        "OBS_VALUE": 75.7
+    },
+    {
+        "id": "Localizacion/BE/BE32",
+        "TIME_PERIOD": 2021,
+        "OBS_VALUE": 78.9
+    },
+    {
+        "id": "Localizacion/BG/BG1",
+        "TIME_PERIOD": 1990,
+        "OBS_VALUE": 100
+    },
+    {
+        "id": "Localizacion/BG/BG2",
+        "TIME_PERIOD": 1991,
+        "OBS_VALUE": 78.1
+    },
+    {
+        "id": "Localizacion/BG/BG3",
+        "TIME_PERIOD": 1992,
+        "OBS_VALUE": 72.3
+    },
+    {
+        "id": "Localizacion/BG/BG4",
+        "TIME_PERIOD": 1993,
+        "OBS_VALUE": 71.5
+    },
+    {
+        "id": "Localizacion/BG/BG5",
+        "TIME_PERIOD": 1994,
+        "OBS_VALUE": 66.2
+    },
+    {
+        "id": "Localizacion/BG/BG6",
+        "TIME_PERIOD": 1995,
+        "OBS_VALUE": 67.9
+    },
+    {
+        "id": "Localizacion/BG/BG7",
+        "TIME_PERIOD": 1996,
+        "OBS_VALUE": 68.8
+    },
+    {
+        "id": "Localizacion/BG/BG8",
+        "TIME_PERIOD": 1997,
+        "OBS_VALUE": 64.4
+    },
+    {
+        "id": "Localizacion/BG/BG9",
+        "TIME_PERIOD": 1998,
+        "OBS_VALUE": 59.8
+    },
+    {
+        "id": "Localizacion/BG/BG10",
+        "TIME_PERIOD": 1999,
+        "OBS_VALUE": 51.3
+    },
+    {
+        "id": "Localizacion/BG/BG11",
+        "TIME_PERIOD": 2000,
+        "OBS_VALUE": 48.7
+    },
+    {
+        "id": "Localizacion/BG/BG12",
+        "TIME_PERIOD": 2001,
+        "OBS_VALUE": 55.5
+    },
+    {
+        "id": "Localizacion/BG/BG13",
+        "TIME_PERIOD": 2002,
+        "OBS_VALUE": 52.1
+    },
+    {
+        "id": "Localizacion/BG/BG14",
+        "TIME_PERIOD": 2003,
+        "OBS_VALUE": 58.6
+    },
+    {
+        "id": "Localizacion/BG/BG15",
+        "TIME_PERIOD": 2004,
+        "OBS_VALUE": 56.6
+    },
+    {
+        "id": "Localizacion/BG/BG16",
+        "TIME_PERIOD": 2005,
+        "OBS_VALUE": 55.8
+    },
+    {
+        "id": "Localizacion/BG/BG17",
+        "TIME_PERIOD": 2006,
+        "OBS_VALUE": 60.7
+    },
+    {
+        "id": "Localizacion/BG/BG18",
+        "TIME_PERIOD": 2007,
+        "OBS_VALUE": 64.2
+    },
+    {
+        "id": "Localizacion/BG/BG19",
+        "TIME_PERIOD": 2008,
+        "OBS_VALUE": 64.7
+    },
+    {
+        "id": "Localizacion/BG/BG20",
+        "TIME_PERIOD": 2009,
+        "OBS_VALUE": 53.7
+    },
+    {
+        "id": "Localizacion/BG/BG21",
+        "TIME_PERIOD": 2010,
+        "OBS_VALUE": 57.7
+    },
+    {
+        "id": "Localizacion/BG/BG22",
+        "TIME_PERIOD": 2011,
+        "OBS_VALUE": 68.1
+    },
+    {
+        "id": "Localizacion/BG/BG23",
+        "TIME_PERIOD": 2012,
+        "OBS_VALUE": 62.6
+    },
+    {
+        "id": "Localizacion/BG/BG24",
+        "TIME_PERIOD": 2013,
+        "OBS_VALUE": 57.7
+    },
+    {
+        "id": "Localizacion/BG/BG25",
+        "TIME_PERIOD": 2014,
+        "OBS_VALUE": 59.9
+    },
+    {
+        "id": "Localizacion/BG/BG26",
+        "TIME_PERIOD": 2015,
+        "OBS_VALUE": 64
+    },
+    {
+        "id": "Localizacion/BG/BG27",
+        "TIME_PERIOD": 2016,
+        "OBS_VALUE": 58.8
+    },
+    {
+        "id": "Localizacion/BG/BG28",
+        "TIME_PERIOD": 2017,
+        "OBS_VALUE": 61.3
+    },
+    {
+        "id": "Localizacion/BG/BG29",
+        "TIME_PERIOD": 2018,
+        "OBS_VALUE": 55.9
+    },
+    {
+        "id": "Localizacion/BG/BG30",
+        "TIME_PERIOD": 2019,
+        "OBS_VALUE": 54.4
+    },
+    {
+        "id": "Localizacion/BG/BG31",
+        "TIME_PERIOD": 2020,
+        "OBS_VALUE": 46.8
+    },
+    {
+        "id": "Localizacion/BG/BG32",
+        "TIME_PERIOD": 2021,
+        "OBS_VALUE": 54.4
+    },
+    {
+        "id": "Localizacion/CH/CH1",
+        "TIME_PERIOD": 1990,
+        "OBS_VALUE": 100
+    },
+    {
+        "id": "Localizacion/CH/CH2",
+        "TIME_PERIOD": 1991,
+        "OBS_VALUE": 97.7
+    },
+    {
+        "id": "Localizacion/CH/CH3",
+        "TIME_PERIOD": 1992,
+        "OBS_VALUE": 99.1
+    },
+    {
+        "id": "Localizacion/CH/CH4",
+        "TIME_PERIOD": 1993,
+        "OBS_VALUE": 94.2
+    },
+    {
+        "id": "Localizacion/CH/CH5",
+        "TIME_PERIOD": 1994,
+        "OBS_VALUE": 94.8
+    },
+    {
+        "id": "Localizacion/CH/CH6",
+        "TIME_PERIOD": 1995,
+        "OBS_VALUE": 95.3
+    },
+    {
+        "id": "Localizacion/CH/CH7",
+        "TIME_PERIOD": 1996,
+        "OBS_VALUE": 93.8
+    },
+    {
+        "id": "Localizacion/CH/CH8",
+        "TIME_PERIOD": 1997,
+        "OBS_VALUE": 94.9
+    },
+    {
+        "id": "Localizacion/CH/CH9",
+        "TIME_PERIOD": 1998,
+        "OBS_VALUE": 99.5
+    },
+    {
+        "id": "Localizacion/CH/CH10",
+        "TIME_PERIOD": 1999,
+        "OBS_VALUE": 100.4
+    },
+    {
+        "id": "Localizacion/CH/CH11",
+        "TIME_PERIOD": 2000,
+        "OBS_VALUE": 113
+    },
+    {
+        "id": "Localizacion/CH/CH12",
+        "TIME_PERIOD": 2001,
+        "OBS_VALUE": 104.4
+    },
+    {
+        "id": "Localizacion/CH/CH13",
+        "TIME_PERIOD": 2002,
+        "OBS_VALUE": 98
+    },
+    {
+        "id": "Localizacion/CH/CH14",
+        "TIME_PERIOD": 2003,
+        "OBS_VALUE": 99.1
+    },
+    {
+        "id": "Localizacion/CH/CH15",
+        "TIME_PERIOD": 2004,
+        "OBS_VALUE": 99.6
+    },
+    {
+        "id": "Localizacion/CH/CH16",
+        "TIME_PERIOD": 2005,
+        "OBS_VALUE": 100.4
+    },
+    {
+        "id": "Localizacion/CH/CH17",
+        "TIME_PERIOD": 2006,
+        "OBS_VALUE": 101.8
+    },
+    {
+        "id": "Localizacion/CH/CH18",
+        "TIME_PERIOD": 2007,
+        "OBS_VALUE": 100.7
+    },
+    {
+        "id": "Localizacion/CH/CH19",
+        "TIME_PERIOD": 2008,
+        "OBS_VALUE": 101.6
+    },
+    {
+        "id": "Localizacion/CH/CH20",
+        "TIME_PERIOD": 2009,
+        "OBS_VALUE": 96.7
+    },
+    {
+        "id": "Localizacion/CH/CH21",
+        "TIME_PERIOD": 2010,
+        "OBS_VALUE": 100.5
+    },
+    {
+        "id": "Localizacion/CH/CH22",
+        "TIME_PERIOD": 2011,
+        "OBS_VALUE": 96.9
+    },
+    {
+        "id": "Localizacion/CH/CH23",
+        "TIME_PERIOD": 2012,
+        "OBS_VALUE": 96.8
+    },
+    {
+        "id": "Localizacion/CH/CH24",
+        "TIME_PERIOD": 2013,
+        "OBS_VALUE": 99.7
+    },
+    {
+        "id": "Localizacion/CH/CH25",
+        "TIME_PERIOD": 2014,
+        "OBS_VALUE": 95.6
+    },
+    {
+        "id": "Localizacion/CH/CH26",
+        "TIME_PERIOD": 2015,
+        "OBS_VALUE": 91.8
+    },
+    {
+        "id": "Localizacion/CH/CH27",
+        "TIME_PERIOD": 2016,
+        "OBS_VALUE": 92.7
+    },
+    {
+        "id": "Localizacion/CH/CH28",
+        "TIME_PERIOD": 2017,
+        "OBS_VALUE": 91.8
+    },
+    {
+        "id": "Localizacion/CH/CH29",
+        "TIME_PERIOD": 2018,
+        "OBS_VALUE": 90.8
+    },
+    {
+        "id": "Localizacion/CH/CH30",
+        "TIME_PERIOD": 2019,
+        "OBS_VALUE": 89.2
+    },
+    {
+        "id": "Localizacion/CH/CH31",
+        "TIME_PERIOD": 2020,
+        "OBS_VALUE": 78.6
+    },
+    {
+        "id": "Localizacion/CH/CH32",
+        "TIME_PERIOD": 2021,
+        "OBS_VALUE": 80.7
+    },
+    {
+        "id": "Localizacion/CY/CY1",
+        "TIME_PERIOD": 1990,
+        "OBS_VALUE": 100
+    },
+    {
+        "id": "Localizacion/CY/CY2",
+        "TIME_PERIOD": 1991,
+        "OBS_VALUE": 110.1
+    },
+    {
+        "id": "Localizacion/CY/CY3",
+        "TIME_PERIOD": 1992,
+        "OBS_VALUE": 116.8
+    },
+    {
+        "id": "Localizacion/CY/CY4",
+        "TIME_PERIOD": 1993,
+        "OBS_VALUE": 119.4
+    },
+    {
+        "id": "Localizacion/CY/CY5",
+        "TIME_PERIOD": 1994,
+        "OBS_VALUE": 123.6
+    },
+    {
+        "id": "Localizacion/CY/CY6",
+        "TIME_PERIOD": 1995,
+        "OBS_VALUE": 123.8
+    },
+    {
+        "id": "Localizacion/CY/CY7",
+        "TIME_PERIOD": 1996,
+        "OBS_VALUE": 128.9
+    },
+    {
+        "id": "Localizacion/CY/CY8",
+        "TIME_PERIOD": 1997,
+        "OBS_VALUE": 130.1
+    },
+    {
+        "id": "Localizacion/CY/CY9",
+        "TIME_PERIOD": 1998,
+        "OBS_VALUE": 135.9
+    },
+    {
+        "id": "Localizacion/CY/CY10",
+        "TIME_PERIOD": 1999,
+        "OBS_VALUE": 140.5
+    },
+    {
+        "id": "Localizacion/CY/CY11",
+        "TIME_PERIOD": 2000,
+        "OBS_VALUE": 146
+    },
+    {
+        "id": "Localizacion/CY/CY12",
+        "TIME_PERIOD": 2001,
+        "OBS_VALUE": 147.1
+    },
+    {
+        "id": "Localizacion/CY/CY13",
+        "TIME_PERIOD": 2002,
+        "OBS_VALUE": 149.8
+    },
+    {
+        "id": "Localizacion/CY/CY14",
+        "TIME_PERIOD": 2003,
+        "OBS_VALUE": 156.9
+    },
+    {
+        "id": "Localizacion/CY/CY15",
+        "TIME_PERIOD": 2004,
+        "OBS_VALUE": 158.8
+    },
+    {
+        "id": "Localizacion/CY/CY16",
+        "TIME_PERIOD": 2005,
+        "OBS_VALUE": 159.6
+    },
+    {
+        "id": "Localizacion/CY/CY17",
+        "TIME_PERIOD": 2006,
+        "OBS_VALUE": 163.8
+    },
+    {
+        "id": "Localizacion/CY/CY18",
+        "TIME_PERIOD": 2007,
+        "OBS_VALUE": 169.5
+    },
+    {
+        "id": "Localizacion/CY/CY19",
+        "TIME_PERIOD": 2008,
+        "OBS_VALUE": 172.4
+    },
+    {
+        "id": "Localizacion/CY/CY20",
+        "TIME_PERIOD": 2009,
+        "OBS_VALUE": 167.3
+    },
+    {
+        "id": "Localizacion/CY/CY21",
+        "TIME_PERIOD": 2010,
+        "OBS_VALUE": 162.6
+    },
+    {
+        "id": "Localizacion/CY/CY22",
+        "TIME_PERIOD": 2011,
+        "OBS_VALUE": 157.5
+    },
+    {
+        "id": "Localizacion/CY/CY23",
+        "TIME_PERIOD": 2012,
+        "OBS_VALUE": 148.6
+    },
+    {
+        "id": "Localizacion/CY/CY24",
+        "TIME_PERIOD": 2013,
+        "OBS_VALUE": 136.1
+    },
+    {
+        "id": "Localizacion/CY/CY25",
+        "TIME_PERIOD": 2014,
+        "OBS_VALUE": 142.1
+    },
+    {
+        "id": "Localizacion/CY/CY26",
+        "TIME_PERIOD": 2015,
+        "OBS_VALUE": 142.6
+    },
+    {
+        "id": "Localizacion/CY/CY27",
+        "TIME_PERIOD": 2016,
+        "OBS_VALUE": 153.5
+    },
+    {
+        "id": "Localizacion/CY/CY28",
+        "TIME_PERIOD": 2017,
+        "OBS_VALUE": 156.5
+    },
+    {
+        "id": "Localizacion/CY/CY29",
+        "TIME_PERIOD": 2018,
+        "OBS_VALUE": 154.9
+    },
+    {
+        "id": "Localizacion/CY/CY30",
+        "TIME_PERIOD": 2019,
+        "OBS_VALUE": 155.9
+    },
+    {
+        "id": "Localizacion/CY/CY31",
+        "TIME_PERIOD": 2020,
+        "OBS_VALUE": 138.4
+    },
+    {
+        "id": "Localizacion/CY/CY32",
+        "TIME_PERIOD": 2021,
+        "OBS_VALUE": 145.7
+    },
+    {
+        "id": "Localizacion/CZ/CZ1",
+        "TIME_PERIOD": 1990,
+        "OBS_VALUE": 100
+    },
+    {
+        "id": "Localizacion/CZ/CZ2",
+        "TIME_PERIOD": 1991,
+        "OBS_VALUE": 89.8
+    },
+    {
+        "id": "Localizacion/CZ/CZ3",
+        "TIME_PERIOD": 1992,
+        "OBS_VALUE": 86.7
+    },
+    {
+        "id": "Localizacion/CZ/CZ4",
+        "TIME_PERIOD": 1993,
+        "OBS_VALUE": 82.8
+    },
+    {
+        "id": "Localizacion/CZ/CZ5",
+        "TIME_PERIOD": 1994,
+        "OBS_VALUE": 78.9
+    },
+    {
+        "id": "Localizacion/CZ/CZ6",
+        "TIME_PERIOD": 1995,
+        "OBS_VALUE": 78.2
+    },
+    {
+        "id": "Localizacion/CZ/CZ7",
+        "TIME_PERIOD": 1996,
+        "OBS_VALUE": 80
+    },
+    {
+        "id": "Localizacion/CZ/CZ8",
+        "TIME_PERIOD": 1997,
+        "OBS_VALUE": 78.1
+    },
+    {
+        "id": "Localizacion/CZ/CZ9",
+        "TIME_PERIOD": 1998,
+        "OBS_VALUE": 75
+    },
+    {
+        "id": "Localizacion/CZ/CZ10",
+        "TIME_PERIOD": 1999,
+        "OBS_VALUE": 69.7
+    },
+    {
+        "id": "Localizacion/CZ/CZ11",
+        "TIME_PERIOD": 2000,
+        "OBS_VALUE": 74.5
+    },
+    {
+        "id": "Localizacion/CZ/CZ12",
+        "TIME_PERIOD": 2001,
+        "OBS_VALUE": 74.3
+    },
+    {
+        "id": "Localizacion/CZ/CZ13",
+        "TIME_PERIOD": 2002,
+        "OBS_VALUE": 72.5
+    },
+    {
+        "id": "Localizacion/CZ/CZ14",
+        "TIME_PERIOD": 2003,
+        "OBS_VALUE": 74.5
+    },
+    {
+        "id": "Localizacion/CZ/CZ15",
+        "TIME_PERIOD": 2004,
+        "OBS_VALUE": 75.1
+    },
+    {
+        "id": "Localizacion/CZ/CZ16",
+        "TIME_PERIOD": 2005,
+        "OBS_VALUE": 74.1
+    },
+    {
+        "id": "Localizacion/CZ/CZ17",
+        "TIME_PERIOD": 2006,
+        "OBS_VALUE": 75.4
+    },
+    {
+        "id": "Localizacion/CZ/CZ18",
+        "TIME_PERIOD": 2007,
+        "OBS_VALUE": 76.5
+    },
+    {
+        "id": "Localizacion/CZ/CZ19",
+        "TIME_PERIOD": 2008,
+        "OBS_VALUE": 73.2
+    },
+    {
+        "id": "Localizacion/CZ/CZ20",
+        "TIME_PERIOD": 2009,
+        "OBS_VALUE": 68.2
+    },
+    {
+        "id": "Localizacion/CZ/CZ21",
+        "TIME_PERIOD": 2010,
+        "OBS_VALUE": 70
+    },
+    {
+        "id": "Localizacion/CZ/CZ22",
+        "TIME_PERIOD": 2011,
+        "OBS_VALUE": 69
+    },
+    {
+        "id": "Localizacion/CZ/CZ23",
+        "TIME_PERIOD": 2012,
+        "OBS_VALUE": 66.8
+    },
+    {
+        "id": "Localizacion/CZ/CZ24",
+        "TIME_PERIOD": 2013,
+        "OBS_VALUE": 64.2
+    },
+    {
+        "id": "Localizacion/CZ/CZ25",
+        "TIME_PERIOD": 2014,
+        "OBS_VALUE": 63.2
+    },
+    {
+        "id": "Localizacion/CZ/CZ26",
+        "TIME_PERIOD": 2015,
+        "OBS_VALUE": 63.9
+    },
+    {
+        "id": "Localizacion/CZ/CZ27",
+        "TIME_PERIOD": 2016,
+        "OBS_VALUE": 65.2
+    },
+    {
+        "id": "Localizacion/CZ/CZ28",
+        "TIME_PERIOD": 2017,
+        "OBS_VALUE": 66.5
+    },
+    {
+        "id": "Localizacion/CZ/CZ29",
+        "TIME_PERIOD": 2018,
+        "OBS_VALUE": 68.5
+    },
+    {
+        "id": "Localizacion/CZ/CZ30",
+        "TIME_PERIOD": 2019,
+        "OBS_VALUE": 69.1
+    },
+    {
+        "id": "Localizacion/CZ/CZ31",
+        "TIME_PERIOD": 2020,
+        "OBS_VALUE": 65
+    },
+    {
+        "id": "Localizacion/CZ/CZ32",
+        "TIME_PERIOD": 2021,
+        "OBS_VALUE": 66.3
+    },
+    {
+        "id": "Localizacion/DE/DE1",
+        "TIME_PERIOD": 1990,
+        "OBS_VALUE": 100
+    },
+    {
+        "id": "Localizacion/DE/DE2",
+        "TIME_PERIOD": 1991,
+        "OBS_VALUE": 91.7
+    },
+    {
+        "id": "Localizacion/DE/DE3",
+        "TIME_PERIOD": 1992,
+        "OBS_VALUE": 87.4
+    },
+    {
+        "id": "Localizacion/DE/DE4",
+        "TIME_PERIOD": 1993,
+        "OBS_VALUE": 86.7
+    },
+    {
+        "id": "Localizacion/DE/DE5",
+        "TIME_PERIOD": 1994,
+        "OBS_VALUE": 85.7
+    },
+    {
+        "id": "Localizacion/DE/DE6",
+        "TIME_PERIOD": 1995,
+        "OBS_VALUE": 85.6
+    },
+    {
+        "id": "Localizacion/DE/DE7",
+        "TIME_PERIOD": 1996,
+        "OBS_VALUE": 87.5
+    },
+    {
+        "id": "Localizacion/DE/DE8",
+        "TIME_PERIOD": 1997,
+        "OBS_VALUE": 84.9
+    },
+    {
+        "id": "Localizacion/DE/DE9",
+        "TIME_PERIOD": 1998,
+        "OBS_VALUE": 83
+    },
+    {
+        "id": "Localizacion/DE/DE10",
+        "TIME_PERIOD": 1999,
+        "OBS_VALUE": 80.2
+    },
+    {
+        "id": "Localizacion/DE/DE11",
+        "TIME_PERIOD": 2000,
+        "OBS_VALUE": 81.6
+    },
+    {
+        "id": "Localizacion/DE/DE12",
+        "TIME_PERIOD": 2001,
+        "OBS_VALUE": 81.9
+    },
+    {
+        "id": "Localizacion/DE/DE13",
+        "TIME_PERIOD": 2002,
+        "OBS_VALUE": 82.7
+    },
+    {
+        "id": "Localizacion/DE/DE14",
+        "TIME_PERIOD": 2003,
+        "OBS_VALUE": 82.1
+    },
+    {
+        "id": "Localizacion/DE/DE15",
+        "TIME_PERIOD": 2004,
+        "OBS_VALUE": 80.2
+    },
+    {
+        "id": "Localizacion/DE/DE16",
+        "TIME_PERIOD": 2005,
+        "OBS_VALUE": 78.2
+    },
+    {
+        "id": "Localizacion/DE/DE17",
+        "TIME_PERIOD": 2006,
+        "OBS_VALUE": 78.3
+    },
+    {
+        "id": "Localizacion/DE/DE18",
+        "TIME_PERIOD": 2007,
+        "OBS_VALUE": 76.5
+    },
+    {
+        "id": "Localizacion/DE/DE19",
+        "TIME_PERIOD": 2008,
+        "OBS_VALUE": 76.1
+    },
+    {
+        "id": "Localizacion/DE/DE20",
+        "TIME_PERIOD": 2009,
+        "OBS_VALUE": 70.3
+    },
+    {
+        "id": "Localizacion/DE/DE21",
+        "TIME_PERIOD": 2010,
+        "OBS_VALUE": 73.4
+    },
+    {
+        "id": "Localizacion/DE/DE22",
+        "TIME_PERIOD": 2011,
+        "OBS_VALUE": 71
+    },
+    {
+        "id": "Localizacion/DE/DE23",
+        "TIME_PERIOD": 2012,
+        "OBS_VALUE": 70.9
+    },
+    {
+        "id": "Localizacion/DE/DE24",
+        "TIME_PERIOD": 2013,
+        "OBS_VALUE": 72.6
+    },
+    {
+        "id": "Localizacion/DE/DE25",
+        "TIME_PERIOD": 2014,
+        "OBS_VALUE": 70
+    },
+    {
+        "id": "Localizacion/DE/DE26",
+        "TIME_PERIOD": 2015,
+        "OBS_VALUE": 70.1
+    },
+    {
+        "id": "Localizacion/DE/DE27",
+        "TIME_PERIOD": 2016,
+        "OBS_VALUE": 70.2
+    },
+    {
+        "id": "Localizacion/DE/DE28",
+        "TIME_PERIOD": 2017,
+        "OBS_VALUE": 69.3
+    },
+    {
+        "id": "Localizacion/DE/DE29",
+        "TIME_PERIOD": 2018,
+        "OBS_VALUE": 66.9
+    },
+    {
+        "id": "Localizacion/DE/DE30",
+        "TIME_PERIOD": 2019,
+        "OBS_VALUE": 62.9
+    },
+    {
+        "id": "Localizacion/DE/DE31",
+        "TIME_PERIOD": 2020,
+        "OBS_VALUE": 57.6
+    },
+    {
+        "id": "Localizacion/DE/DE32",
+        "TIME_PERIOD": 2021,
+        "OBS_VALUE": 60.2
+    },
+    {
+        "id": "Localizacion/DK/DK1",
+        "TIME_PERIOD": 1990,
+        "OBS_VALUE": 100
+    },
+    {
+        "id": "Localizacion/DK/DK2",
+        "TIME_PERIOD": 1991,
+        "OBS_VALUE": 112.3
+    },
+    {
+        "id": "Localizacion/DK/DK3",
+        "TIME_PERIOD": 1992,
+        "OBS_VALUE": 106.2
+    },
+    {
+        "id": "Localizacion/DK/DK4",
+        "TIME_PERIOD": 1993,
+        "OBS_VALUE": 107.3
+    },
+    {
+        "id": "Localizacion/DK/DK5",
+        "TIME_PERIOD": 1994,
+        "OBS_VALUE": 111.8
+    },
+    {
+        "id": "Localizacion/DK/DK6",
+        "TIME_PERIOD": 1995,
+        "OBS_VALUE": 108.4
+    },
+    {
+        "id": "Localizacion/DK/DK7",
+        "TIME_PERIOD": 1996,
+        "OBS_VALUE": 124
+    },
+    {
+        "id": "Localizacion/DK/DK8",
+        "TIME_PERIOD": 1997,
+        "OBS_VALUE": 112.6
+    },
+    {
+        "id": "Localizacion/DK/DK9",
+        "TIME_PERIOD": 1998,
+        "OBS_VALUE": 107.7
+    },
+    {
+        "id": "Localizacion/DK/DK10",
+        "TIME_PERIOD": 1999,
+        "OBS_VALUE": 104.8
+    },
+    {
+        "id": "Localizacion/DK/DK11",
+        "TIME_PERIOD": 2000,
+        "OBS_VALUE": 99.2
+    },
+    {
+        "id": "Localizacion/DK/DK12",
+        "TIME_PERIOD": 2001,
+        "OBS_VALUE": 100.6
+    },
+    {
+        "id": "Localizacion/DK/DK13",
+        "TIME_PERIOD": 2002,
+        "OBS_VALUE": 100.9
+    },
+    {
+        "id": "Localizacion/DK/DK14",
+        "TIME_PERIOD": 2003,
+        "OBS_VALUE": 106.9
+    },
+    {
+        "id": "Localizacion/DK/DK15",
+        "TIME_PERIOD": 2004,
+        "OBS_VALUE": 99.5
+    },
+    {
+        "id": "Localizacion/DK/DK16",
+        "TIME_PERIOD": 2005,
+        "OBS_VALUE": 94.2
+    },
+    {
+        "id": "Localizacion/DK/DK17",
+        "TIME_PERIOD": 2006,
+        "OBS_VALUE": 104.1
+    },
+    {
+        "id": "Localizacion/DK/DK18",
+        "TIME_PERIOD": 2007,
+        "OBS_VALUE": 98.7
+    },
+    {
+        "id": "Localizacion/DK/DK19",
+        "TIME_PERIOD": 2008,
+        "OBS_VALUE": 92.4
+    },
+    {
+        "id": "Localizacion/DK/DK20",
+        "TIME_PERIOD": 2009,
+        "OBS_VALUE": 87.7
+    },
+    {
+        "id": "Localizacion/DK/DK21",
+        "TIME_PERIOD": 2010,
+        "OBS_VALUE": 86.8
+    },
+    {
+        "id": "Localizacion/DK/DK22",
+        "TIME_PERIOD": 2011,
+        "OBS_VALUE": 79.7
+    },
+    {
+        "id": "Localizacion/DK/DK23",
+        "TIME_PERIOD": 2012,
+        "OBS_VALUE": 73.5
+    },
+    {
+        "id": "Localizacion/DK/DK24",
+        "TIME_PERIOD": 2013,
+        "OBS_VALUE": 75.2
+    },
+    {
+        "id": "Localizacion/DK/DK25",
+        "TIME_PERIOD": 2014,
+        "OBS_VALUE": 71.1
+    },
+    {
+        "id": "Localizacion/DK/DK26",
+        "TIME_PERIOD": 2015,
+        "OBS_VALUE": 66.3
+    },
+    {
+        "id": "Localizacion/DK/DK27",
+        "TIME_PERIOD": 2016,
+        "OBS_VALUE": 70.4
+    },
+    {
+        "id": "Localizacion/DK/DK28",
+        "TIME_PERIOD": 2017,
+        "OBS_VALUE": 67.6
+    },
+    {
+        "id": "Localizacion/DK/DK29",
+        "TIME_PERIOD": 2018,
+        "OBS_VALUE": 69.9
+    },
+    {
+        "id": "Localizacion/DK/DK30",
+        "TIME_PERIOD": 2019,
+        "OBS_VALUE": 64.2
+    },
+    {
+        "id": "Localizacion/DK/DK31",
+        "TIME_PERIOD": 2020,
+        "OBS_VALUE": 58.5
+    },
+    {
+        "id": "Localizacion/DK/DK32",
+        "TIME_PERIOD": 2021,
+        "OBS_VALUE": 59.3
+    },
+    {
+        "id": "Localizacion/EE/EE1",
+        "TIME_PERIOD": 1990,
+        "OBS_VALUE": 100
+    },
+    {
+        "id": "Localizacion/EE/EE2",
+        "TIME_PERIOD": 1991,
+        "OBS_VALUE": 92.5
+    },
+    {
+        "id": "Localizacion/EE/EE3",
+        "TIME_PERIOD": 1992,
+        "OBS_VALUE": 67.3
+    },
+    {
+        "id": "Localizacion/EE/EE4",
+        "TIME_PERIOD": 1993,
+        "OBS_VALUE": 49.3
+    },
+    {
+        "id": "Localizacion/EE/EE5",
+        "TIME_PERIOD": 1994,
+        "OBS_VALUE": 52.2
+    },
+    {
+        "id": "Localizacion/EE/EE6",
+        "TIME_PERIOD": 1995,
+        "OBS_VALUE": 45.7
+    },
+    {
+        "id": "Localizacion/EE/EE7",
+        "TIME_PERIOD": 1996,
+        "OBS_VALUE": 47.3
+    },
+    {
+        "id": "Localizacion/EE/EE8",
+        "TIME_PERIOD": 1997,
+        "OBS_VALUE": 46.2
+    },
+    {
+        "id": "Localizacion/EE/EE9",
+        "TIME_PERIOD": 1998,
+        "OBS_VALUE": 40.1
+    },
+    {
+        "id": "Localizacion/EE/EE10",
+        "TIME_PERIOD": 1999,
+        "OBS_VALUE": 38.2
+    },
+    {
+        "id": "Localizacion/EE/EE11",
+        "TIME_PERIOD": 2000,
+        "OBS_VALUE": 35
+    },
+    {
+        "id": "Localizacion/EE/EE12",
+        "TIME_PERIOD": 2001,
+        "OBS_VALUE": 35.5
+    },
+    {
+        "id": "Localizacion/EE/EE13",
+        "TIME_PERIOD": 2002,
+        "OBS_VALUE": 34.8
+    },
+    {
+        "id": "Localizacion/EE/EE14",
+        "TIME_PERIOD": 2003,
+        "OBS_VALUE": 41
+    },
+    {
+        "id": "Localizacion/EE/EE15",
+        "TIME_PERIOD": 2004,
+        "OBS_VALUE": 40.1
+    },
+    {
+        "id": "Localizacion/EE/EE16",
+        "TIME_PERIOD": 2005,
+        "OBS_VALUE": 45
+    },
+    {
+        "id": "Localizacion/EE/EE17",
+        "TIME_PERIOD": 2006,
+        "OBS_VALUE": 39
+    },
+    {
+        "id": "Localizacion/EE/EE18",
+        "TIME_PERIOD": 2007,
+        "OBS_VALUE": 50
+    },
+    {
+        "id": "Localizacion/EE/EE19",
+        "TIME_PERIOD": 2008,
+        "OBS_VALUE": 40.9
+    },
+    {
+        "id": "Localizacion/EE/EE20",
+        "TIME_PERIOD": 2009,
+        "OBS_VALUE": 32.2
+    },
+    {
+        "id": "Localizacion/EE/EE21",
+        "TIME_PERIOD": 2010,
+        "OBS_VALUE": 42.9
+    },
+    {
+        "id": "Localizacion/EE/EE22",
+        "TIME_PERIOD": 2011,
+        "OBS_VALUE": 43.7
+    },
+    {
+        "id": "Localizacion/EE/EE23",
+        "TIME_PERIOD": 2012,
+        "OBS_VALUE": 45.2
+    },
+    {
+        "id": "Localizacion/EE/EE24",
+        "TIME_PERIOD": 2013,
+        "OBS_VALUE": 52.6
+    },
+    {
+        "id": "Localizacion/EE/EE25",
+        "TIME_PERIOD": 2014,
+        "OBS_VALUE": 57
+    },
+    {
+        "id": "Localizacion/EE/EE26",
+        "TIME_PERIOD": 2015,
+        "OBS_VALUE": 47.3
+    },
+    {
+        "id": "Localizacion/EE/EE27",
+        "TIME_PERIOD": 2016,
+        "OBS_VALUE": 53.4
+    },
+    {
+        "id": "Localizacion/EE/EE28",
+        "TIME_PERIOD": 2017,
+        "OBS_VALUE": 58.2
+    },
+    {
+        "id": "Localizacion/EE/EE29",
+        "TIME_PERIOD": 2018,
+        "OBS_VALUE": 61.3
+    },
+    {
+        "id": "Localizacion/EE/EE30",
+        "TIME_PERIOD": 2019,
+        "OBS_VALUE": 43.3
+    },
+    {
+        "id": "Localizacion/EE/EE31",
+        "TIME_PERIOD": 2020,
+        "OBS_VALUE": 38.1
+    },
+    {
+        "id": "Localizacion/EE/EE32",
+        "TIME_PERIOD": 2021,
+        "OBS_VALUE": 42.6
+    },
+    {
+        "id": "Localizacion/EL/EL1",
+        "TIME_PERIOD": 1990,
+        "OBS_VALUE": 100
+    },
+    {
+        "id": "Localizacion/EL/EL2",
+        "TIME_PERIOD": 1991,
+        "OBS_VALUE": 99.6
+    },
+    {
+        "id": "Localizacion/EL/EL3",
+        "TIME_PERIOD": 1992,
+        "OBS_VALUE": 100.7
+    },
+    {
+        "id": "Localizacion/EL/EL4",
+        "TIME_PERIOD": 1993,
+        "OBS_VALUE": 99.9
+    },
+    {
+        "id": "Localizacion/EL/EL5",
+        "TIME_PERIOD": 1994,
+        "OBS_VALUE": 103.1
+    },
+    {
+        "id": "Localizacion/EL/EL6",
+        "TIME_PERIOD": 1995,
+        "OBS_VALUE": 104.8
+    },
+    {
+        "id": "Localizacion/EL/EL7",
+        "TIME_PERIOD": 1996,
+        "OBS_VALUE": 108.2
+    },
+    {
+        "id": "Localizacion/EL/EL8",
+        "TIME_PERIOD": 1997,
+        "OBS_VALUE": 113
+    },
+    {
+        "id": "Localizacion/EL/EL9",
+        "TIME_PERIOD": 1998,
+        "OBS_VALUE": 118.3
+    },
+    {
+        "id": "Localizacion/EL/EL10",
+        "TIME_PERIOD": 1999,
+        "OBS_VALUE": 118.2
+    },
+    {
+        "id": "Localizacion/EL/EL11",
+        "TIME_PERIOD": 2000,
+        "OBS_VALUE": 121.5
+    },
+    {
+        "id": "Localizacion/EL/EL12",
+        "TIME_PERIOD": 2001,
+        "OBS_VALUE": 122.3
+    },
+    {
+        "id": "Localizacion/EL/EL13",
+        "TIME_PERIOD": 2002,
+        "OBS_VALUE": 122
+    },
+    {
+        "id": "Localizacion/EL/EL14",
+        "TIME_PERIOD": 2003,
+        "OBS_VALUE": 126.6
+    },
+    {
+        "id": "Localizacion/EL/EL15",
+        "TIME_PERIOD": 2004,
+        "OBS_VALUE": 127.3
+    },
+    {
+        "id": "Localizacion/EL/EL16",
+        "TIME_PERIOD": 2005,
+        "OBS_VALUE": 130.3
+    },
+    {
+        "id": "Localizacion/EL/EL17",
+        "TIME_PERIOD": 2006,
+        "OBS_VALUE": 127.1
+    },
+    {
+        "id": "Localizacion/EL/EL18",
+        "TIME_PERIOD": 2007,
+        "OBS_VALUE": 131
+    },
+    {
+        "id": "Localizacion/EL/EL19",
+        "TIME_PERIOD": 2008,
+        "OBS_VALUE": 126.8
+    },
+    {
+        "id": "Localizacion/EL/EL20",
+        "TIME_PERIOD": 2009,
+        "OBS_VALUE": 119.5
+    },
+    {
+        "id": "Localizacion/EL/EL21",
+        "TIME_PERIOD": 2010,
+        "OBS_VALUE": 113.6
+    },
+    {
+        "id": "Localizacion/EL/EL22",
+        "TIME_PERIOD": 2011,
+        "OBS_VALUE": 110.7
+    },
+    {
+        "id": "Localizacion/EL/EL23",
+        "TIME_PERIOD": 2012,
+        "OBS_VALUE": 107.3
+    },
+    {
+        "id": "Localizacion/EL/EL24",
+        "TIME_PERIOD": 2013,
+        "OBS_VALUE": 99.5
+    },
+    {
+        "id": "Localizacion/EL/EL25",
+        "TIME_PERIOD": 2014,
+        "OBS_VALUE": 97.9
+    },
+    {
+        "id": "Localizacion/EL/EL26",
+        "TIME_PERIOD": 2015,
+        "OBS_VALUE": 90.8
+    },
+    {
+        "id": "Localizacion/EL/EL27",
+        "TIME_PERIOD": 2016,
+        "OBS_VALUE": 87.6
+    },
+    {
+        "id": "Localizacion/EL/EL28",
+        "TIME_PERIOD": 2017,
+        "OBS_VALUE": 91.6
+    },
+    {
+        "id": "Localizacion/EL/EL29",
+        "TIME_PERIOD": 2018,
+        "OBS_VALUE": 88.1
+    },
+    {
+        "id": "Localizacion/EL/EL30",
+        "TIME_PERIOD": 2019,
+        "OBS_VALUE": 81.3
+    },
+    {
+        "id": "Localizacion/EL/EL31",
+        "TIME_PERIOD": 2020,
+        "OBS_VALUE": 68.5
+    },
+    {
+        "id": "Localizacion/EL/EL32",
+        "TIME_PERIOD": 2021,
+        "OBS_VALUE": 71.5
+    },
+    {
+        "id": "Localizacion/ES/ES1",
+        "TIME_PERIOD": 1990,
+        "OBS_VALUE": 100
+    },
+    {
+        "id": "Localizacion/ES/ES2",
+        "TIME_PERIOD": 1991,
+        "OBS_VALUE": 103.1
+    },
+    {
+        "id": "Localizacion/ES/ES3",
+        "TIME_PERIOD": 1992,
+        "OBS_VALUE": 106.9
+    },
+    {
+        "id": "Localizacion/ES/ES4",
+        "TIME_PERIOD": 1993,
+        "OBS_VALUE": 102.5
+    },
+    {
+        "id": "Localizacion/ES/ES5",
+        "TIME_PERIOD": 1994,
+        "OBS_VALUE": 109.4
+    },
+    {
+        "id": "Localizacion/ES/ES6",
+        "TIME_PERIOD": 1995,
+        "OBS_VALUE": 115
+    },
+    {
+        "id": "Localizacion/ES/ES7",
+        "TIME_PERIOD": 1996,
+        "OBS_VALUE": 111.6
+    },
+    {
+        "id": "Localizacion/ES/ES8",
+        "TIME_PERIOD": 1997,
+        "OBS_VALUE": 117.2
+    },
+    {
+        "id": "Localizacion/ES/ES9",
+        "TIME_PERIOD": 1998,
+        "OBS_VALUE": 120.9
+    },
+    {
+        "id": "Localizacion/ES/ES10",
+        "TIME_PERIOD": 1999,
+        "OBS_VALUE": 129.9
+    },
+    {
+        "id": "Localizacion/ES/ES11",
+        "TIME_PERIOD": 2000,
+        "OBS_VALUE": 135.2
+    },
+    {
+        "id": "Localizacion/ES/ES12",
+        "TIME_PERIOD": 2001,
+        "OBS_VALUE": 134
+    },
+    {
+        "id": "Localizacion/ES/ES13",
+        "TIME_PERIOD": 2002,
+        "OBS_VALUE": 141.5
+    },
+    {
+        "id": "Localizacion/ES/ES14",
+        "TIME_PERIOD": 2003,
+        "OBS_VALUE": 144.6
+    },
+    {
+        "id": "Localizacion/ES/ES15",
+        "TIME_PERIOD": 2004,
+        "OBS_VALUE": 150.8
+    },
+    {
+        "id": "Localizacion/ES/ES16",
+        "TIME_PERIOD": 2005,
+        "OBS_VALUE": 157
+    },
+    {
+        "id": "Localizacion/ES/ES17",
+        "TIME_PERIOD": 2006,
+        "OBS_VALUE": 153.7
+    },
+    {
+        "id": "Localizacion/ES/ES18",
+        "TIME_PERIOD": 2007,
+        "OBS_VALUE": 159.2
+    },
+    {
+        "id": "Localizacion/ES/ES19",
+        "TIME_PERIOD": 2008,
+        "OBS_VALUE": 146.2
+    },
+    {
+        "id": "Localizacion/ES/ES20",
+        "TIME_PERIOD": 2009,
+        "OBS_VALUE": 131.6
+    },
+    {
+        "id": "Localizacion/ES/ES21",
+        "TIME_PERIOD": 2010,
+        "OBS_VALUE": 125
+    },
+    {
+        "id": "Localizacion/ES/ES22",
+        "TIME_PERIOD": 2011,
+        "OBS_VALUE": 125.7
+    },
+    {
+        "id": "Localizacion/ES/ES23",
+        "TIME_PERIOD": 2012,
+        "OBS_VALUE": 123.7
+    },
+    {
+        "id": "Localizacion/ES/ES24",
+        "TIME_PERIOD": 2013,
+        "OBS_VALUE": 113.6
+    },
+    {
+        "id": "Localizacion/ES/ES25",
+        "TIME_PERIOD": 2014,
+        "OBS_VALUE": 113.7
+    },
+    {
+        "id": "Localizacion/ES/ES26",
+        "TIME_PERIOD": 2015,
+        "OBS_VALUE": 117.5
+    },
+    {
+        "id": "Localizacion/ES/ES27",
+        "TIME_PERIOD": 2016,
+        "OBS_VALUE": 113.4
+    },
+    {
+        "id": "Localizacion/ES/ES28",
+        "TIME_PERIOD": 2017,
+        "OBS_VALUE": 118.7
+    },
+    {
+        "id": "Localizacion/ES/ES29",
+        "TIME_PERIOD": 2018,
+        "OBS_VALUE": 116.5
+    },
+    {
+        "id": "Localizacion/ES/ES30",
+        "TIME_PERIOD": 2019,
+        "OBS_VALUE": 109.7
+    },
+    {
+        "id": "Localizacion/ES/ES31",
+        "TIME_PERIOD": 2020,
+        "OBS_VALUE": 90.7
+    },
+    {
+        "id": "Localizacion/ES/ES32",
+        "TIME_PERIOD": 2021,
+        "OBS_VALUE": 97.7
+    },
+    {
+        "id": "Localizacion/EU27_2020/EU27_20201",
+        "TIME_PERIOD": 1990,
+        "OBS_VALUE": 100
+    },
+    {
+        "id": "Localizacion/EU27_2020/EU27_20202",
+        "TIME_PERIOD": 1991,
+        "OBS_VALUE": 95.6
+    },
+    {
+        "id": "Localizacion/EU27_2020/EU27_20203",
+        "TIME_PERIOD": 1992,
+        "OBS_VALUE": 93
+    },
+    {
+        "id": "Localizacion/EU27_2020/EU27_20204",
+        "TIME_PERIOD": 1993,
+        "OBS_VALUE": 91.1
+    },
+    {
+        "id": "Localizacion/EU27_2020/EU27_20205",
+        "TIME_PERIOD": 1994,
+        "OBS_VALUE": 90.8
+    },
+    {
+        "id": "Localizacion/EU27_2020/EU27_20206",
+        "TIME_PERIOD": 1995,
+        "OBS_VALUE": 91.5
+    },
+    {
+        "id": "Localizacion/EU27_2020/EU27_20207",
+        "TIME_PERIOD": 1996,
+        "OBS_VALUE": 93.1
+    },
+    {
+        "id": "Localizacion/EU27_2020/EU27_20208",
+        "TIME_PERIOD": 1997,
+        "OBS_VALUE": 91.8
+    },
+    {
+        "id": "Localizacion/EU27_2020/EU27_20209",
+        "TIME_PERIOD": 1998,
+        "OBS_VALUE": 90.7
+    },
+    {
+        "id": "Localizacion/EU27_2020/EU27_202010",
+        "TIME_PERIOD": 1999,
+        "OBS_VALUE": 89
+    },
+    {
+        "id": "Localizacion/EU27_2020/EU27_202011",
+        "TIME_PERIOD": 2000,
+        "OBS_VALUE": 89.8
+    },
+    {
+        "id": "Localizacion/EU27_2020/EU27_202012",
+        "TIME_PERIOD": 2001,
+        "OBS_VALUE": 89.8
+    },
+    {
+        "id": "Localizacion/EU27_2020/EU27_202013",
+        "TIME_PERIOD": 2002,
+        "OBS_VALUE": 90.1
+    },
+    {
+        "id": "Localizacion/EU27_2020/EU27_202014",
+        "TIME_PERIOD": 2003,
+        "OBS_VALUE": 92.1
+    },
+    {
+        "id": "Localizacion/EU27_2020/EU27_202015",
+        "TIME_PERIOD": 2004,
+        "OBS_VALUE": 91.5
+    },
+    {
+        "id": "Localizacion/EU27_2020/EU27_202016",
+        "TIME_PERIOD": 2005,
+        "OBS_VALUE": 91.2
+    },
+    {
+        "id": "Localizacion/EU27_2020/EU27_202017",
+        "TIME_PERIOD": 2006,
+        "OBS_VALUE": 91
+    },
+    {
+        "id": "Localizacion/EU27_2020/EU27_202018",
+        "TIME_PERIOD": 2007,
+        "OBS_VALUE": 91.4
+    },
+    {
+        "id": "Localizacion/EU27_2020/EU27_202019",
+        "TIME_PERIOD": 2008,
+        "OBS_VALUE": 88.5
+    },
+    {
+        "id": "Localizacion/EU27_2020/EU27_202020",
+        "TIME_PERIOD": 2009,
+        "OBS_VALUE": 81.6
+    },
+    {
+        "id": "Localizacion/EU27_2020/EU27_202021",
+        "TIME_PERIOD": 2010,
+        "OBS_VALUE": 83.4
+    },
+    {
+        "id": "Localizacion/EU27_2020/EU27_202022",
+        "TIME_PERIOD": 2011,
+        "OBS_VALUE": 81.2
+    },
+    {
+        "id": "Localizacion/EU27_2020/EU27_202023",
+        "TIME_PERIOD": 2012,
+        "OBS_VALUE": 79.7
+    },
+    {
+        "id": "Localizacion/EU27_2020/EU27_202024",
+        "TIME_PERIOD": 2013,
+        "OBS_VALUE": 77.9
+    },
+    {
+        "id": "Localizacion/EU27_2020/EU27_202025",
+        "TIME_PERIOD": 2014,
+        "OBS_VALUE": 75.2
+    },
+    {
+        "id": "Localizacion/EU27_2020/EU27_202026",
+        "TIME_PERIOD": 2015,
+        "OBS_VALUE": 76.4
+    },
+    {
+        "id": "Localizacion/EU27_2020/EU27_202027",
+        "TIME_PERIOD": 2016,
+        "OBS_VALUE": 76.6
+    },
+    {
+        "id": "Localizacion/EU27_2020/EU27_202028",
+        "TIME_PERIOD": 2017,
+        "OBS_VALUE": 78.7
+    },
+    {
+        "id": "Localizacion/EU27_2020/EU27_202029",
+        "TIME_PERIOD": 2018,
+        "OBS_VALUE": 76.9
+    },
+    {
+        "id": "Localizacion/EU27_2020/EU27_202030",
+        "TIME_PERIOD": 2019,
+        "OBS_VALUE": 73.8
+    },
+    {
+        "id": "Localizacion/EU27_2020/EU27_202031",
+        "TIME_PERIOD": 2020,
+        "OBS_VALUE": 66.2
+    },
+    {
+        "id": "Localizacion/EU27_2020/EU27_202032",
+        "TIME_PERIOD": 2021,
+        "OBS_VALUE": 70.3
+    },
+    {
+        "id": "Localizacion/FI/FI1",
+        "TIME_PERIOD": 1990,
+        "OBS_VALUE": 100
+    },
+    {
+        "id": "Localizacion/FI/FI2",
+        "TIME_PERIOD": 1991,
+        "OBS_VALUE": 68.7
+    },
+    {
+        "id": "Localizacion/FI/FI3",
+        "TIME_PERIOD": 1992,
+        "OBS_VALUE": 78.4
+    },
+    {
+        "id": "Localizacion/FI/FI4",
+        "TIME_PERIOD": 1993,
+        "OBS_VALUE": 81.6
+    },
+    {
+        "id": "Localizacion/FI/FI5",
+        "TIME_PERIOD": 1994,
+        "OBS_VALUE": 108.3
+    },
+    {
+        "id": "Localizacion/FI/FI6",
+        "TIME_PERIOD": 1995,
+        "OBS_VALUE": 103.2
+    },
+    {
+        "id": "Localizacion/FI/FI7",
+        "TIME_PERIOD": 1996,
+        "OBS_VALUE": 102.5
+    },
+    {
+        "id": "Localizacion/FI/FI8",
+        "TIME_PERIOD": 1997,
+        "OBS_VALUE": 109.6
+    },
+    {
+        "id": "Localizacion/FI/FI9",
+        "TIME_PERIOD": 1998,
+        "OBS_VALUE": 106
+    },
+    {
+        "id": "Localizacion/FI/FI10",
+        "TIME_PERIOD": 1999,
+        "OBS_VALUE": 104.2
+    },
+    {
+        "id": "Localizacion/FI/FI11",
+        "TIME_PERIOD": 2000,
+        "OBS_VALUE": 100.9
+    },
+    {
+        "id": "Localizacion/FI/FI12",
+        "TIME_PERIOD": 2001,
+        "OBS_VALUE": 110.8
+    },
+    {
+        "id": "Localizacion/FI/FI13",
+        "TIME_PERIOD": 2002,
+        "OBS_VALUE": 113.5
+    },
+    {
+        "id": "Localizacion/FI/FI14",
+        "TIME_PERIOD": 2003,
+        "OBS_VALUE": 128.8
+    },
+    {
+        "id": "Localizacion/FI/FI15",
+        "TIME_PERIOD": 2004,
+        "OBS_VALUE": 117.8
+    },
+    {
+        "id": "Localizacion/FI/FI16",
+        "TIME_PERIOD": 2005,
+        "OBS_VALUE": 91.8
+    },
+    {
+        "id": "Localizacion/FI/FI17",
+        "TIME_PERIOD": 2006,
+        "OBS_VALUE": 108.3
+    },
+    {
+        "id": "Localizacion/FI/FI18",
+        "TIME_PERIOD": 2007,
+        "OBS_VALUE": 125.9
+    },
+    {
+        "id": "Localizacion/FI/FI19",
+        "TIME_PERIOD": 2008,
+        "OBS_VALUE": 103.1
+    },
+    {
+        "id": "Localizacion/FI/FI20",
+        "TIME_PERIOD": 2009,
+        "OBS_VALUE": 68.4
+    },
+    {
+        "id": "Localizacion/FI/FI21",
+        "TIME_PERIOD": 2010,
+        "OBS_VALUE": 110.3
+    },
+    {
+        "id": "Localizacion/FI/FI22",
+        "TIME_PERIOD": 2011,
+        "OBS_VALUE": 95.9
+    },
+    {
+        "id": "Localizacion/FI/FI23",
+        "TIME_PERIOD": 2012,
+        "OBS_VALUE": 80
+    },
+    {
+        "id": "Localizacion/FI/FI24",
+        "TIME_PERIOD": 2013,
+        "OBS_VALUE": 95.7
+    },
+    {
+        "id": "Localizacion/FI/FI25",
+        "TIME_PERIOD": 2014,
+        "OBS_VALUE": 85.6
+    },
+    {
+        "id": "Localizacion/FI/FI26",
+        "TIME_PERIOD": 2015,
+        "OBS_VALUE": 86.8
+    },
+    {
+        "id": "Localizacion/FI/FI27",
+        "TIME_PERIOD": 2016,
+        "OBS_VALUE": 100
+    },
+    {
+        "id": "Localizacion/FI/FI28",
+        "TIME_PERIOD": 2017,
+        "OBS_VALUE": 99.4
+    },
+    {
+        "id": "Localizacion/FI/FI29",
+        "TIME_PERIOD": 2018,
+        "OBS_VALUE": 121.8
+    },
+    {
+        "id": "Localizacion/FI/FI30",
+        "TIME_PERIOD": 2019,
+        "OBS_VALUE": 104.7
+    },
+    {
+        "id": "Localizacion/FI/FI31",
+        "TIME_PERIOD": 2020,
+        "OBS_VALUE": 85.2
+    },
+    {
+        "id": "Localizacion/FI/FI32",
+        "TIME_PERIOD": 2021,
+        "OBS_VALUE": 105.8
+    },
+    {
+        "id": "Localizacion/FR/FR1",
+        "TIME_PERIOD": 1990,
+        "OBS_VALUE": 100
+    },
+    {
+        "id": "Localizacion/FR/FR2",
+        "TIME_PERIOD": 1991,
+        "OBS_VALUE": 104.8
+    },
+    {
+        "id": "Localizacion/FR/FR3",
+        "TIME_PERIOD": 1992,
+        "OBS_VALUE": 103.7
+    },
+    {
+        "id": "Localizacion/FR/FR4",
+        "TIME_PERIOD": 1993,
+        "OBS_VALUE": 99
+    },
+    {
+        "id": "Localizacion/FR/FR5",
+        "TIME_PERIOD": 1994,
+        "OBS_VALUE": 97.9
+    },
+    {
+        "id": "Localizacion/FR/FR6",
+        "TIME_PERIOD": 1995,
+        "OBS_VALUE": 98.4
+    },
+    {
+        "id": "Localizacion/FR/FR7",
+        "TIME_PERIOD": 1996,
+        "OBS_VALUE": 100.6
+    },
+    {
+        "id": "Localizacion/FR/FR8",
+        "TIME_PERIOD": 1997,
+        "OBS_VALUE": 98.9
+    },
+    {
+        "id": "Localizacion/FR/FR9",
+        "TIME_PERIOD": 1998,
+        "OBS_VALUE": 101.2
+    },
+    {
+        "id": "Localizacion/FR/FR10",
+        "TIME_PERIOD": 1999,
+        "OBS_VALUE": 99.7
+    },
+    {
+        "id": "Localizacion/FR/FR11",
+        "TIME_PERIOD": 2000,
+        "OBS_VALUE": 101.7
+    },
+    {
+        "id": "Localizacion/FR/FR12",
+        "TIME_PERIOD": 2001,
+        "OBS_VALUE": 100.2
+    },
+    {
+        "id": "Localizacion/FR/FR13",
+        "TIME_PERIOD": 2002,
+        "OBS_VALUE": 97.2
+    },
+    {
+        "id": "Localizacion/FR/FR14",
+        "TIME_PERIOD": 2003,
+        "OBS_VALUE": 97.1
+    },
+    {
+        "id": "Localizacion/FR/FR15",
+        "TIME_PERIOD": 2004,
+        "OBS_VALUE": 96.8
+    },
+    {
+        "id": "Localizacion/FR/FR16",
+        "TIME_PERIOD": 2005,
+        "OBS_VALUE": 97.1
+    },
+    {
+        "id": "Localizacion/FR/FR17",
+        "TIME_PERIOD": 2006,
+        "OBS_VALUE": 95.2
+    },
+    {
+        "id": "Localizacion/FR/FR18",
+        "TIME_PERIOD": 2007,
+        "OBS_VALUE": 93.9
+    },
+    {
+        "id": "Localizacion/FR/FR19",
+        "TIME_PERIOD": 2008,
+        "OBS_VALUE": 93
+    },
+    {
+        "id": "Localizacion/FR/FR20",
+        "TIME_PERIOD": 2009,
+        "OBS_VALUE": 90.6
+    },
+    {
+        "id": "Localizacion/FR/FR21",
+        "TIME_PERIOD": 2010,
+        "OBS_VALUE": 90.8
+    },
+    {
+        "id": "Localizacion/FR/FR22",
+        "TIME_PERIOD": 2011,
+        "OBS_VALUE": 85.9
+    },
+    {
+        "id": "Localizacion/FR/FR23",
+        "TIME_PERIOD": 2012,
+        "OBS_VALUE": 85.4
+    },
+    {
+        "id": "Localizacion/FR/FR24",
+        "TIME_PERIOD": 2013,
+        "OBS_VALUE": 85.5
+    },
+    {
+        "id": "Localizacion/FR/FR25",
+        "TIME_PERIOD": 2014,
+        "OBS_VALUE": 80.3
+    },
+    {
+        "id": "Localizacion/FR/FR26",
+        "TIME_PERIOD": 2015,
+        "OBS_VALUE": 82
+    },
+    {
+        "id": "Localizacion/FR/FR27",
+        "TIME_PERIOD": 2016,
+        "OBS_VALUE": 83.5
+    },
+    {
+        "id": "Localizacion/FR/FR28",
+        "TIME_PERIOD": 2017,
+        "OBS_VALUE": 85.9
+    },
+    {
+        "id": "Localizacion/FR/FR29",
+        "TIME_PERIOD": 2018,
+        "OBS_VALUE": 82.7
+    },
+    {
+        "id": "Localizacion/FR/FR30",
+        "TIME_PERIOD": 2019,
+        "OBS_VALUE": 81.4
+    },
+    {
+        "id": "Localizacion/FR/FR31",
+        "TIME_PERIOD": 2020,
+        "OBS_VALUE": 71.4
+    },
+    {
+        "id": "Localizacion/FR/FR32",
+        "TIME_PERIOD": 2021,
+        "OBS_VALUE": 76.5
+    },
+    {
+        "id": "Localizacion/HR/HR1",
+        "TIME_PERIOD": 1990,
+        "OBS_VALUE": 100
+    },
+    {
+        "id": "Localizacion/HR/HR2",
+        "TIME_PERIOD": 1991,
+        "OBS_VALUE": 68
+    },
+    {
+        "id": "Localizacion/HR/HR3",
+        "TIME_PERIOD": 1992,
+        "OBS_VALUE": 60.2
+    },
+    {
+        "id": "Localizacion/HR/HR4",
+        "TIME_PERIOD": 1993,
+        "OBS_VALUE": 59.9
+    },
+    {
+        "id": "Localizacion/HR/HR5",
+        "TIME_PERIOD": 1994,
+        "OBS_VALUE": 55.6
+    },
+    {
+        "id": "Localizacion/HR/HR6",
+        "TIME_PERIOD": 1995,
+        "OBS_VALUE": 56.3
+    },
+    {
+        "id": "Localizacion/HR/HR7",
+        "TIME_PERIOD": 1996,
+        "OBS_VALUE": 59.5
+    },
+    {
+        "id": "Localizacion/HR/HR8",
+        "TIME_PERIOD": 1997,
+        "OBS_VALUE": 67.2
+    },
+    {
+        "id": "Localizacion/HR/HR9",
+        "TIME_PERIOD": 1998,
+        "OBS_VALUE": 68.5
+    },
+    {
+        "id": "Localizacion/HR/HR10",
+        "TIME_PERIOD": 1999,
+        "OBS_VALUE": 70.4
+    },
+    {
+        "id": "Localizacion/HR/HR11",
+        "TIME_PERIOD": 2000,
+        "OBS_VALUE": 74.7
+    },
+    {
+        "id": "Localizacion/HR/HR12",
+        "TIME_PERIOD": 2001,
+        "OBS_VALUE": 74.5
+    },
+    {
+        "id": "Localizacion/HR/HR13",
+        "TIME_PERIOD": 2002,
+        "OBS_VALUE": 77.5
+    },
+    {
+        "id": "Localizacion/HR/HR14",
+        "TIME_PERIOD": 2003,
+        "OBS_VALUE": 86.4
+    },
+    {
+        "id": "Localizacion/HR/HR15",
+        "TIME_PERIOD": 2004,
+        "OBS_VALUE": 85.3
+    },
+    {
+        "id": "Localizacion/HR/HR16",
+        "TIME_PERIOD": 2005,
+        "OBS_VALUE": 86.5
+    },
+    {
+        "id": "Localizacion/HR/HR17",
+        "TIME_PERIOD": 2006,
+        "OBS_VALUE": 88.8
+    },
+    {
+        "id": "Localizacion/HR/HR18",
+        "TIME_PERIOD": 2007,
+        "OBS_VALUE": 98.9
+    },
+    {
+        "id": "Localizacion/HR/HR19",
+        "TIME_PERIOD": 2008,
+        "OBS_VALUE": 94.6
+    },
+    {
+        "id": "Localizacion/HR/HR20",
+        "TIME_PERIOD": 2009,
+        "OBS_VALUE": 85.4
+    },
+    {
+        "id": "Localizacion/HR/HR21",
+        "TIME_PERIOD": 2010,
+        "OBS_VALUE": 84.2
+    },
+    {
+        "id": "Localizacion/HR/HR22",
+        "TIME_PERIOD": 2011,
+        "OBS_VALUE": 88
+    },
+    {
+        "id": "Localizacion/HR/HR23",
+        "TIME_PERIOD": 2012,
+        "OBS_VALUE": 82.9
+    },
+    {
+        "id": "Localizacion/HR/HR24",
+        "TIME_PERIOD": 2013,
+        "OBS_VALUE": 74.5
+    },
+    {
+        "id": "Localizacion/HR/HR25",
+        "TIME_PERIOD": 2014,
+        "OBS_VALUE": 72.2
+    },
+    {
+        "id": "Localizacion/HR/HR26",
+        "TIME_PERIOD": 2015,
+        "OBS_VALUE": 75.2
+    },
+    {
+        "id": "Localizacion/HR/HR27",
+        "TIME_PERIOD": 2016,
+        "OBS_VALUE": 76.1
+    },
+    {
+        "id": "Localizacion/HR/HR28",
+        "TIME_PERIOD": 2017,
+        "OBS_VALUE": 82.9
+    },
+    {
+        "id": "Localizacion/HR/HR29",
+        "TIME_PERIOD": 2018,
+        "OBS_VALUE": 76.7
+    },
+    {
+        "id": "Localizacion/HR/HR30",
+        "TIME_PERIOD": 2019,
+        "OBS_VALUE": 76.7
+    },
+    {
+        "id": "Localizacion/HR/HR31",
+        "TIME_PERIOD": 2020,
+        "OBS_VALUE": 71.8
+    },
+    {
+        "id": "Localizacion/HR/HR32",
+        "TIME_PERIOD": 2021,
+        "OBS_VALUE": 73.9
+    },
+    {
+        "id": "Localizacion/HU/HU1",
+        "TIME_PERIOD": 1990,
+        "OBS_VALUE": 100
+    },
+    {
+        "id": "Localizacion/HU/HU2",
+        "TIME_PERIOD": 1991,
+        "OBS_VALUE": 94
+    },
+    {
+        "id": "Localizacion/HU/HU3",
+        "TIME_PERIOD": 1992,
+        "OBS_VALUE": 82.7
+    },
+    {
+        "id": "Localizacion/HU/HU4",
+        "TIME_PERIOD": 1993,
+        "OBS_VALUE": 80.9
+    },
+    {
+        "id": "Localizacion/HU/HU5",
+        "TIME_PERIOD": 1994,
+        "OBS_VALUE": 79.2
+    },
+    {
+        "id": "Localizacion/HU/HU6",
+        "TIME_PERIOD": 1995,
+        "OBS_VALUE": 78
+    },
+    {
+        "id": "Localizacion/HU/HU7",
+        "TIME_PERIOD": 1996,
+        "OBS_VALUE": 84.4
+    },
+    {
+        "id": "Localizacion/HU/HU8",
+        "TIME_PERIOD": 1997,
+        "OBS_VALUE": 82.2
+    },
+    {
+        "id": "Localizacion/HU/HU9",
+        "TIME_PERIOD": 1998,
+        "OBS_VALUE": 80.5
+    },
+    {
+        "id": "Localizacion/HU/HU10",
+        "TIME_PERIOD": 1999,
+        "OBS_VALUE": 83.5
+    },
+    {
+        "id": "Localizacion/HU/HU11",
+        "TIME_PERIOD": 2000,
+        "OBS_VALUE": 81.4
+    },
+    {
+        "id": "Localizacion/HU/HU12",
+        "TIME_PERIOD": 2001,
+        "OBS_VALUE": 81.5
+    },
+    {
+        "id": "Localizacion/HU/HU13",
+        "TIME_PERIOD": 2002,
+        "OBS_VALUE": 80.4
+    },
+    {
+        "id": "Localizacion/HU/HU14",
+        "TIME_PERIOD": 2003,
+        "OBS_VALUE": 80.9
+    },
+    {
+        "id": "Localizacion/HU/HU15",
+        "TIME_PERIOD": 2004,
+        "OBS_VALUE": 80.8
+    },
+    {
+        "id": "Localizacion/HU/HU16",
+        "TIME_PERIOD": 2005,
+        "OBS_VALUE": 77.9
+    },
+    {
+        "id": "Localizacion/HU/HU17",
+        "TIME_PERIOD": 2006,
+        "OBS_VALUE": 78.6
+    },
+    {
+        "id": "Localizacion/HU/HU18",
+        "TIME_PERIOD": 2007,
+        "OBS_VALUE": 76.5
+    },
+    {
+        "id": "Localizacion/HU/HU19",
+        "TIME_PERIOD": 2008,
+        "OBS_VALUE": 72.5
+    },
+    {
+        "id": "Localizacion/HU/HU20",
+        "TIME_PERIOD": 2009,
+        "OBS_VALUE": 67.3
+    },
+    {
+        "id": "Localizacion/HU/HU21",
+        "TIME_PERIOD": 2010,
+        "OBS_VALUE": 67.8
+    },
+    {
+        "id": "Localizacion/HU/HU22",
+        "TIME_PERIOD": 2011,
+        "OBS_VALUE": 66.7
+    },
+    {
+        "id": "Localizacion/HU/HU23",
+        "TIME_PERIOD": 2012,
+        "OBS_VALUE": 62.2
+    },
+    {
+        "id": "Localizacion/HU/HU24",
+        "TIME_PERIOD": 2013,
+        "OBS_VALUE": 59.8
+    },
+    {
+        "id": "Localizacion/HU/HU25",
+        "TIME_PERIOD": 2014,
+        "OBS_VALUE": 59.1
+    },
+    {
+        "id": "Localizacion/HU/HU26",
+        "TIME_PERIOD": 2015,
+        "OBS_VALUE": 61.9
+    },
+    {
+        "id": "Localizacion/HU/HU27",
+        "TIME_PERIOD": 2016,
+        "OBS_VALUE": 63.7
+    },
+    {
+        "id": "Localizacion/HU/HU28",
+        "TIME_PERIOD": 2017,
+        "OBS_VALUE": 65.6
+    },
+    {
+        "id": "Localizacion/HU/HU29",
+        "TIME_PERIOD": 2018,
+        "OBS_VALUE": 66.3
+    },
+    {
+        "id": "Localizacion/HU/HU30",
+        "TIME_PERIOD": 2019,
+        "OBS_VALUE": 65.4
+    },
+    {
+        "id": "Localizacion/HU/HU31",
+        "TIME_PERIOD": 2020,
+        "OBS_VALUE": 61
+    },
+    {
+        "id": "Localizacion/HU/HU32",
+        "TIME_PERIOD": 2021,
+        "OBS_VALUE": 62.3
+    },
+    {
+        "id": "Localizacion/IE/IE1",
+        "TIME_PERIOD": 1990,
+        "OBS_VALUE": 100
+    },
+    {
+        "id": "Localizacion/IE/IE2",
+        "TIME_PERIOD": 1991,
+        "OBS_VALUE": 101.1
+    },
+    {
+        "id": "Localizacion/IE/IE3",
+        "TIME_PERIOD": 1992,
+        "OBS_VALUE": 100.5
+    },
+    {
+        "id": "Localizacion/IE/IE4",
+        "TIME_PERIOD": 1993,
+        "OBS_VALUE": 102.4
+    },
+    {
+        "id": "Localizacion/IE/IE5",
+        "TIME_PERIOD": 1994,
+        "OBS_VALUE": 104.5
+    },
+    {
+        "id": "Localizacion/IE/IE6",
+        "TIME_PERIOD": 1995,
+        "OBS_VALUE": 108.3
+    },
+    {
+        "id": "Localizacion/IE/IE7",
+        "TIME_PERIOD": 1996,
+        "OBS_VALUE": 111.1
+    },
+    {
+        "id": "Localizacion/IE/IE8",
+        "TIME_PERIOD": 1997,
+        "OBS_VALUE": 112.9
+    },
+    {
+        "id": "Localizacion/IE/IE9",
+        "TIME_PERIOD": 1998,
+        "OBS_VALUE": 116.8
+    },
+    {
+        "id": "Localizacion/IE/IE10",
+        "TIME_PERIOD": 1999,
+        "OBS_VALUE": 119.3
+    },
+    {
+        "id": "Localizacion/IE/IE11",
+        "TIME_PERIOD": 2000,
+        "OBS_VALUE": 125.7
+    },
+    {
+        "id": "Localizacion/IE/IE12",
+        "TIME_PERIOD": 2001,
+        "OBS_VALUE": 131.4
+    },
+    {
+        "id": "Localizacion/IE/IE13",
+        "TIME_PERIOD": 2002,
+        "OBS_VALUE": 128.5
+    },
+    {
+        "id": "Localizacion/IE/IE14",
+        "TIME_PERIOD": 2003,
+        "OBS_VALUE": 130
+    },
+    {
+        "id": "Localizacion/IE/IE15",
+        "TIME_PERIOD": 2004,
+        "OBS_VALUE": 126.2
+    },
+    {
+        "id": "Localizacion/IE/IE16",
+        "TIME_PERIOD": 2005,
+        "OBS_VALUE": 130.3
+    },
+    {
+        "id": "Localizacion/IE/IE17",
+        "TIME_PERIOD": 2006,
+        "OBS_VALUE": 130
+    },
+    {
+        "id": "Localizacion/IE/IE18",
+        "TIME_PERIOD": 2007,
+        "OBS_VALUE": 126.7
+    },
+    {
+        "id": "Localizacion/IE/IE19",
+        "TIME_PERIOD": 2008,
+        "OBS_VALUE": 124.8
+    },
+    {
+        "id": "Localizacion/IE/IE20",
+        "TIME_PERIOD": 2009,
+        "OBS_VALUE": 113.7
+    },
+    {
+        "id": "Localizacion/IE/IE21",
+        "TIME_PERIOD": 2010,
+        "OBS_VALUE": 115.4
+    },
+    {
+        "id": "Localizacion/IE/IE22",
+        "TIME_PERIOD": 2011,
+        "OBS_VALUE": 107
+    },
+    {
+        "id": "Localizacion/IE/IE23",
+        "TIME_PERIOD": 2012,
+        "OBS_VALUE": 107.1
+    },
+    {
+        "id": "Localizacion/IE/IE24",
+        "TIME_PERIOD": 2013,
+        "OBS_VALUE": 108.4
+    },
+    {
+        "id": "Localizacion/IE/IE25",
+        "TIME_PERIOD": 2014,
+        "OBS_VALUE": 107.3
+    },
+    {
+        "id": "Localizacion/IE/IE26",
+        "TIME_PERIOD": 2015,
+        "OBS_VALUE": 112.4
+    },
+    {
+        "id": "Localizacion/IE/IE27",
+        "TIME_PERIOD": 2016,
+        "OBS_VALUE": 114.2
+    },
+    {
+        "id": "Localizacion/IE/IE28",
+        "TIME_PERIOD": 2017,
+        "OBS_VALUE": 117.8
+    },
+    {
+        "id": "Localizacion/IE/IE29",
+        "TIME_PERIOD": 2018,
+        "OBS_VALUE": 116.9
+    },
+    {
+        "id": "Localizacion/IE/IE30",
+        "TIME_PERIOD": 2019,
+        "OBS_VALUE": 113.4
+    },
+    {
+        "id": "Localizacion/IE/IE31",
+        "TIME_PERIOD": 2020,
+        "OBS_VALUE": 107.3
+    },
+    {
+        "id": "Localizacion/IE/IE32",
+        "TIME_PERIOD": 2021,
+        "OBS_VALUE": 112.8
+    },
+    {
+        "id": "Localizacion/IS/IS1",
+        "TIME_PERIOD": 1990,
+        "OBS_VALUE": 100
+    },
+    {
+        "id": "Localizacion/IS/IS2",
+        "TIME_PERIOD": 1991,
+        "OBS_VALUE": 98.6
+    },
+    {
+        "id": "Localizacion/IS/IS3",
+        "TIME_PERIOD": 1992,
+        "OBS_VALUE": 97.9
+    },
+    {
+        "id": "Localizacion/IS/IS4",
+        "TIME_PERIOD": 1993,
+        "OBS_VALUE": 98.4
+    },
+    {
+        "id": "Localizacion/IS/IS5",
+        "TIME_PERIOD": 1994,
+        "OBS_VALUE": 98
+    },
+    {
+        "id": "Localizacion/IS/IS6",
+        "TIME_PERIOD": 1995,
+        "OBS_VALUE": 99
+    },
+    {
+        "id": "Localizacion/IS/IS7",
+        "TIME_PERIOD": 1996,
+        "OBS_VALUE": 99.7
+    },
+    {
+        "id": "Localizacion/IS/IS8",
+        "TIME_PERIOD": 1997,
+        "OBS_VALUE": 101
+    },
+    {
+        "id": "Localizacion/IS/IS9",
+        "TIME_PERIOD": 1998,
+        "OBS_VALUE": 102.4
+    },
+    {
+        "id": "Localizacion/IS/IS10",
+        "TIME_PERIOD": 1999,
+        "OBS_VALUE": 104.2
+    },
+    {
+        "id": "Localizacion/IS/IS11",
+        "TIME_PERIOD": 2000,
+        "OBS_VALUE": 104.9
+    },
+    {
+        "id": "Localizacion/IS/IS12",
+        "TIME_PERIOD": 2001,
+        "OBS_VALUE": 103.7
+    },
+    {
+        "id": "Localizacion/IS/IS13",
+        "TIME_PERIOD": 2002,
+        "OBS_VALUE": 104.3
+    },
+    {
+        "id": "Localizacion/IS/IS14",
+        "TIME_PERIOD": 2003,
+        "OBS_VALUE": 104.2
+    },
+    {
+        "id": "Localizacion/IS/IS15",
+        "TIME_PERIOD": 2004,
+        "OBS_VALUE": 105.3
+    },
+    {
+        "id": "Localizacion/IS/IS16",
+        "TIME_PERIOD": 2005,
+        "OBS_VALUE": 104.5
+    },
+    {
+        "id": "Localizacion/IS/IS17",
+        "TIME_PERIOD": 2006,
+        "OBS_VALUE": 109.7
+    },
+    {
+        "id": "Localizacion/IS/IS18",
+        "TIME_PERIOD": 2007,
+        "OBS_VALUE": 111.3
+    },
+    {
+        "id": "Localizacion/IS/IS19",
+        "TIME_PERIOD": 2008,
+        "OBS_VALUE": 113.8
+    },
+    {
+        "id": "Localizacion/IS/IS20",
+        "TIME_PERIOD": 2009,
+        "OBS_VALUE": 110.9
+    },
+    {
+        "id": "Localizacion/IS/IS21",
+        "TIME_PERIOD": 2010,
+        "OBS_VALUE": 110.1
+    },
+    {
+        "id": "Localizacion/IS/IS22",
+        "TIME_PERIOD": 2011,
+        "OBS_VALUE": 108.7
+    },
+    {
+        "id": "Localizacion/IS/IS23",
+        "TIME_PERIOD": 2012,
+        "OBS_VALUE": 108.8
+    },
+    {
+        "id": "Localizacion/IS/IS24",
+        "TIME_PERIOD": 2013,
+        "OBS_VALUE": 109.1
+    },
+    {
+        "id": "Localizacion/IS/IS25",
+        "TIME_PERIOD": 2014,
+        "OBS_VALUE": 109.5
+    },
+    {
+        "id": "Localizacion/IS/IS26",
+        "TIME_PERIOD": 2015,
+        "OBS_VALUE": 110.7
+    },
+    {
+        "id": "Localizacion/IS/IS27",
+        "TIME_PERIOD": 2016,
+        "OBS_VALUE": 111.9
+    },
+    {
+        "id": "Localizacion/IS/IS28",
+        "TIME_PERIOD": 2017,
+        "OBS_VALUE": 113.9
+    },
+    {
+        "id": "Localizacion/IS/IS29",
+        "TIME_PERIOD": 2018,
+        "OBS_VALUE": 115.3
+    },
+    {
+        "id": "Localizacion/IS/IS30",
+        "TIME_PERIOD": 2019,
+        "OBS_VALUE": 111.7
+    },
+    {
+        "id": "Localizacion/IS/IS31",
+        "TIME_PERIOD": 2020,
+        "OBS_VALUE": 105.1
+    },
+    {
+        "id": "Localizacion/IS/IS32",
+        "TIME_PERIOD": 2021,
+        "OBS_VALUE": 107.1
+    },
+    {
+        "id": "Localizacion/IT/IT1",
+        "TIME_PERIOD": 1990,
+        "OBS_VALUE": 100
+    },
+    {
+        "id": "Localizacion/IT/IT2",
+        "TIME_PERIOD": 1991,
+        "OBS_VALUE": 97.4
+    },
+    {
+        "id": "Localizacion/IT/IT3",
+        "TIME_PERIOD": 1992,
+        "OBS_VALUE": 97.7
+    },
+    {
+        "id": "Localizacion/IT/IT4",
+        "TIME_PERIOD": 1993,
+        "OBS_VALUE": 98.9
+    },
+    {
+        "id": "Localizacion/IT/IT5",
+        "TIME_PERIOD": 1994,
+        "OBS_VALUE": 95.3
+    },
+    {
+        "id": "Localizacion/IT/IT6",
+        "TIME_PERIOD": 1995,
+        "OBS_VALUE": 99.1
+    },
+    {
+        "id": "Localizacion/IT/IT7",
+        "TIME_PERIOD": 1996,
+        "OBS_VALUE": 97.9
+    },
+    {
+        "id": "Localizacion/IT/IT8",
+        "TIME_PERIOD": 1997,
+        "OBS_VALUE": 101
+    },
+    {
+        "id": "Localizacion/IT/IT9",
+        "TIME_PERIOD": 1998,
+        "OBS_VALUE": 103.9
+    },
+    {
+        "id": "Localizacion/IT/IT10",
+        "TIME_PERIOD": 1999,
+        "OBS_VALUE": 103.3
+    },
+    {
+        "id": "Localizacion/IT/IT11",
+        "TIME_PERIOD": 2000,
+        "OBS_VALUE": 104.6
+    },
+    {
+        "id": "Localizacion/IT/IT12",
+        "TIME_PERIOD": 2001,
+        "OBS_VALUE": 103
+    },
+    {
+        "id": "Localizacion/IT/IT13",
+        "TIME_PERIOD": 2002,
+        "OBS_VALUE": 103.1
+    },
+    {
+        "id": "Localizacion/IT/IT14",
+        "TIME_PERIOD": 2003,
+        "OBS_VALUE": 108.6
+    },
+    {
+        "id": "Localizacion/IT/IT15",
+        "TIME_PERIOD": 2004,
+        "OBS_VALUE": 108.5
+    },
+    {
+        "id": "Localizacion/IT/IT16",
+        "TIME_PERIOD": 2005,
+        "OBS_VALUE": 108.6
+    },
+    {
+        "id": "Localizacion/IT/IT17",
+        "TIME_PERIOD": 2006,
+        "OBS_VALUE": 106.6
+    },
+    {
+        "id": "Localizacion/IT/IT18",
+        "TIME_PERIOD": 2007,
+        "OBS_VALUE": 110.1
+    },
+    {
+        "id": "Localizacion/IT/IT19",
+        "TIME_PERIOD": 2008,
+        "OBS_VALUE": 104.1
+    },
+    {
+        "id": "Localizacion/IT/IT20",
+        "TIME_PERIOD": 2009,
+        "OBS_VALUE": 92.8
+    },
+    {
+        "id": "Localizacion/IT/IT21",
+        "TIME_PERIOD": 2010,
+        "OBS_VALUE": 93.9
+    },
+    {
+        "id": "Localizacion/IT/IT22",
+        "TIME_PERIOD": 2011,
+        "OBS_VALUE": 93
+    },
+    {
+        "id": "Localizacion/IT/IT23",
+        "TIME_PERIOD": 2012,
+        "OBS_VALUE": 91.1
+    },
+    {
+        "id": "Localizacion/IT/IT24",
+        "TIME_PERIOD": 2013,
+        "OBS_VALUE": 81.2
+    },
+    {
+        "id": "Localizacion/IT/IT25",
+        "TIME_PERIOD": 2014,
+        "OBS_VALUE": 77.1
+    },
+    {
+        "id": "Localizacion/IT/IT26",
+        "TIME_PERIOD": 2015,
+        "OBS_VALUE": 78.8
+    },
+    {
+        "id": "Localizacion/IT/IT27",
+        "TIME_PERIOD": 2016,
+        "OBS_VALUE": 78.5
+    },
+    {
+        "id": "Localizacion/IT/IT28",
+        "TIME_PERIOD": 2017,
+        "OBS_VALUE": 81.4
+    },
+    {
+        "id": "Localizacion/IT/IT29",
+        "TIME_PERIOD": 2018,
+        "OBS_VALUE": 76.7
+    },
+    {
+        "id": "Localizacion/IT/IT30",
+        "TIME_PERIOD": 2019,
+        "OBS_VALUE": 75.2
+    },
+    {
+        "id": "Localizacion/IT/IT31",
+        "TIME_PERIOD": 2020,
+        "OBS_VALUE": 68.2
+    },
+    {
+        "id": "Localizacion/IT/IT32",
+        "TIME_PERIOD": 2021,
+        "OBS_VALUE": 75.7
+    },
+    {
+        "id": "Localizacion/LT/LT1",
+        "TIME_PERIOD": 1990,
+        "OBS_VALUE": 100
+    },
+    {
+        "id": "Localizacion/LT/LT2",
+        "TIME_PERIOD": 1991,
+        "OBS_VALUE": 104
+    },
+    {
+        "id": "Localizacion/LT/LT3",
+        "TIME_PERIOD": 1992,
+        "OBS_VALUE": 59.8
+    },
+    {
+        "id": "Localizacion/LT/LT4",
+        "TIME_PERIOD": 1993,
+        "OBS_VALUE": 43.2
+    },
+    {
+        "id": "Localizacion/LT/LT5",
+        "TIME_PERIOD": 1994,
+        "OBS_VALUE": 41.2
+    },
+    {
+        "id": "Localizacion/LT/LT6",
+        "TIME_PERIOD": 1995,
+        "OBS_VALUE": 41.7
+    },
+    {
+        "id": "Localizacion/LT/LT7",
+        "TIME_PERIOD": 1996,
+        "OBS_VALUE": 56.8
+    },
+    {
+        "id": "Localizacion/LT/LT8",
+        "TIME_PERIOD": 1997,
+        "OBS_VALUE": 52.9
+    },
+    {
+        "id": "Localizacion/LT/LT9",
+        "TIME_PERIOD": 1998,
+        "OBS_VALUE": 37.4
+    },
+    {
+        "id": "Localizacion/LT/LT10",
+        "TIME_PERIOD": 1999,
+        "OBS_VALUE": 32.4
+    },
+    {
+        "id": "Localizacion/LT/LT11",
+        "TIME_PERIOD": 2000,
+        "OBS_VALUE": 23.4
+    },
+    {
+        "id": "Localizacion/LT/LT12",
+        "TIME_PERIOD": 2001,
+        "OBS_VALUE": 30.3
+    },
+    {
+        "id": "Localizacion/LT/LT13",
+        "TIME_PERIOD": 2002,
+        "OBS_VALUE": 33.3
+    },
+    {
+        "id": "Localizacion/LT/LT14",
+        "TIME_PERIOD": 2003,
+        "OBS_VALUE": 35.5
+    },
+    {
+        "id": "Localizacion/LT/LT15",
+        "TIME_PERIOD": 2004,
+        "OBS_VALUE": 38.6
+    },
+    {
+        "id": "Localizacion/LT/LT16",
+        "TIME_PERIOD": 2005,
+        "OBS_VALUE": 42.7
+    },
+    {
+        "id": "Localizacion/LT/LT17",
+        "TIME_PERIOD": 2006,
+        "OBS_VALUE": 44.5
+    },
+    {
+        "id": "Localizacion/LT/LT18",
+        "TIME_PERIOD": 2007,
+        "OBS_VALUE": 45
+    },
+    {
+        "id": "Localizacion/LT/LT19",
+        "TIME_PERIOD": 2008,
+        "OBS_VALUE": 41.3
+    },
+    {
+        "id": "Localizacion/LT/LT20",
+        "TIME_PERIOD": 2009,
+        "OBS_VALUE": 29.4
+    },
+    {
+        "id": "Localizacion/LT/LT21",
+        "TIME_PERIOD": 2010,
+        "OBS_VALUE": 24.4
+    },
+    {
+        "id": "Localizacion/LT/LT22",
+        "TIME_PERIOD": 2011,
+        "OBS_VALUE": 24.9
+    },
+    {
+        "id": "Localizacion/LT/LT23",
+        "TIME_PERIOD": 2012,
+        "OBS_VALUE": 25.7
+    },
+    {
+        "id": "Localizacion/LT/LT24",
+        "TIME_PERIOD": 2013,
+        "OBS_VALUE": 24.6
+    },
+    {
+        "id": "Localizacion/LT/LT25",
+        "TIME_PERIOD": 2014,
+        "OBS_VALUE": 26.2
+    },
+    {
+        "id": "Localizacion/LT/LT26",
+        "TIME_PERIOD": 2015,
+        "OBS_VALUE": 28.9
+    },
+    {
+        "id": "Localizacion/LT/LT27",
+        "TIME_PERIOD": 2016,
+        "OBS_VALUE": 31
+    },
+    {
+        "id": "Localizacion/LT/LT28",
+        "TIME_PERIOD": 2017,
+        "OBS_VALUE": 32.7
+    },
+    {
+        "id": "Localizacion/LT/LT29",
+        "TIME_PERIOD": 2018,
+        "OBS_VALUE": 34.4
+    },
+    {
+        "id": "Localizacion/LT/LT30",
+        "TIME_PERIOD": 2019,
+        "OBS_VALUE": 34.2
+    },
+    {
+        "id": "Localizacion/LT/LT31",
+        "TIME_PERIOD": 2020,
+        "OBS_VALUE": 31.8
+    },
+    {
+        "id": "Localizacion/LT/LT32",
+        "TIME_PERIOD": 2021,
+        "OBS_VALUE": 33.3
+    },
+    {
+        "id": "Localizacion/LU/LU1",
+        "TIME_PERIOD": 1990,
+        "OBS_VALUE": 100
+    },
+    {
+        "id": "Localizacion/LU/LU2",
+        "TIME_PERIOD": 1991,
+        "OBS_VALUE": 104.4
+    },
+    {
+        "id": "Localizacion/LU/LU3",
+        "TIME_PERIOD": 1992,
+        "OBS_VALUE": 99.4
+    },
+    {
+        "id": "Localizacion/LU/LU4",
+        "TIME_PERIOD": 1993,
+        "OBS_VALUE": 99.7
+    },
+    {
+        "id": "Localizacion/LU/LU5",
+        "TIME_PERIOD": 1994,
+        "OBS_VALUE": 95.3
+    },
+    {
+        "id": "Localizacion/LU/LU6",
+        "TIME_PERIOD": 1995,
+        "OBS_VALUE": 77.1
+    },
+    {
+        "id": "Localizacion/LU/LU7",
+        "TIME_PERIOD": 1996,
+        "OBS_VALUE": 77.7
+    },
+    {
+        "id": "Localizacion/LU/LU8",
+        "TIME_PERIOD": 1997,
+        "OBS_VALUE": 73.1
+    },
+    {
+        "id": "Localizacion/LU/LU9",
+        "TIME_PERIOD": 1998,
+        "OBS_VALUE": 68.2
+    },
+    {
+        "id": "Localizacion/LU/LU10",
+        "TIME_PERIOD": 1999,
+        "OBS_VALUE": 72.1
+    },
+    {
+        "id": "Localizacion/LU/LU11",
+        "TIME_PERIOD": 2000,
+        "OBS_VALUE": 76.1
+    },
+    {
+        "id": "Localizacion/LU/LU12",
+        "TIME_PERIOD": 2001,
+        "OBS_VALUE": 80.7
+    },
+    {
+        "id": "Localizacion/LU/LU13",
+        "TIME_PERIOD": 2002,
+        "OBS_VALUE": 87.3
+    },
+    {
+        "id": "Localizacion/LU/LU14",
+        "TIME_PERIOD": 2003,
+        "OBS_VALUE": 91.3
+    },
+    {
+        "id": "Localizacion/LU/LU15",
+        "TIME_PERIOD": 2004,
+        "OBS_VALUE": 102.2
+    },
+    {
+        "id": "Localizacion/LU/LU16",
+        "TIME_PERIOD": 2005,
+        "OBS_VALUE": 104.6
+    },
+    {
+        "id": "Localizacion/LU/LU17",
+        "TIME_PERIOD": 2006,
+        "OBS_VALUE": 103.3
+    },
+    {
+        "id": "Localizacion/LU/LU18",
+        "TIME_PERIOD": 2007,
+        "OBS_VALUE": 100.2
+    },
+    {
+        "id": "Localizacion/LU/LU19",
+        "TIME_PERIOD": 2008,
+        "OBS_VALUE": 99.3
+    },
+    {
+        "id": "Localizacion/LU/LU20",
+        "TIME_PERIOD": 2009,
+        "OBS_VALUE": 94.7
+    },
+    {
+        "id": "Localizacion/LU/LU21",
+        "TIME_PERIOD": 2010,
+        "OBS_VALUE": 101
+    },
+    {
+        "id": "Localizacion/LU/LU22",
+        "TIME_PERIOD": 2011,
+        "OBS_VALUE": 98.7
+    },
+    {
+        "id": "Localizacion/LU/LU23",
+        "TIME_PERIOD": 2012,
+        "OBS_VALUE": 95.7
+    },
+    {
+        "id": "Localizacion/LU/LU24",
+        "TIME_PERIOD": 2013,
+        "OBS_VALUE": 90.6
+    },
+    {
+        "id": "Localizacion/LU/LU25",
+        "TIME_PERIOD": 2014,
+        "OBS_VALUE": 88.3
+    },
+    {
+        "id": "Localizacion/LU/LU26",
+        "TIME_PERIOD": 2015,
+        "OBS_VALUE": 86.3
+    },
+    {
+        "id": "Localizacion/LU/LU27",
+        "TIME_PERIOD": 2016,
+        "OBS_VALUE": 84.9
+    },
+    {
+        "id": "Localizacion/LU/LU28",
+        "TIME_PERIOD": 2017,
+        "OBS_VALUE": 88.5
+    },
+    {
+        "id": "Localizacion/LU/LU29",
+        "TIME_PERIOD": 2018,
+        "OBS_VALUE": 92.7
+    },
+    {
+        "id": "Localizacion/LU/LU30",
+        "TIME_PERIOD": 2019,
+        "OBS_VALUE": 92.8
+    },
+    {
+        "id": "Localizacion/LU/LU31",
+        "TIME_PERIOD": 2020,
+        "OBS_VALUE": 77.9
+    },
+    {
+        "id": "Localizacion/LU/LU32",
+        "TIME_PERIOD": 2021,
+        "OBS_VALUE": 81.2
+    },
+    {
+        "id": "Localizacion/LV/LV1",
+        "TIME_PERIOD": 1990,
+        "OBS_VALUE": 100
+    },
+    {
+        "id": "Localizacion/LV/LV2",
+        "TIME_PERIOD": 1991,
+        "OBS_VALUE": 83.9
+    },
+    {
+        "id": "Localizacion/LV/LV3",
+        "TIME_PERIOD": 1992,
+        "OBS_VALUE": 45.2
+    },
+    {
+        "id": "Localizacion/LV/LV4",
+        "TIME_PERIOD": 1993,
+        "OBS_VALUE": 21.2
+    },
+    {
+        "id": "Localizacion/LV/LV5",
+        "TIME_PERIOD": 1994,
+        "OBS_VALUE": -13.7
+    },
+    {
+        "id": "Localizacion/LV/LV6",
+        "TIME_PERIOD": 1995,
+        "OBS_VALUE": -15.4
+    },
+    {
+        "id": "Localizacion/LV/LV7",
+        "TIME_PERIOD": 1996,
+        "OBS_VALUE": -16.1
+    },
+    {
+        "id": "Localizacion/LV/LV8",
+        "TIME_PERIOD": 1997,
+        "OBS_VALUE": -7.4
+    },
+    {
+        "id": "Localizacion/LV/LV9",
+        "TIME_PERIOD": 1998,
+        "OBS_VALUE": -4.3
+    },
+    {
+        "id": "Localizacion/LV/LV10",
+        "TIME_PERIOD": 1999,
+        "OBS_VALUE": 16.6
+    },
+    {
+        "id": "Localizacion/LV/LV11",
+        "TIME_PERIOD": 2000,
+        "OBS_VALUE": -11.4
+    },
+    {
+        "id": "Localizacion/LV/LV12",
+        "TIME_PERIOD": 2001,
+        "OBS_VALUE": -10.8
+    },
+    {
+        "id": "Localizacion/LV/LV13",
+        "TIME_PERIOD": 2002,
+        "OBS_VALUE": 1.4
+    },
+    {
+        "id": "Localizacion/LV/LV14",
+        "TIME_PERIOD": 2003,
+        "OBS_VALUE": 6
+    },
+    {
+        "id": "Localizacion/LV/LV15",
+        "TIME_PERIOD": 2004,
+        "OBS_VALUE": 32.5
+    },
+    {
+        "id": "Localizacion/LV/LV16",
+        "TIME_PERIOD": 2005,
+        "OBS_VALUE": 37.8
+    },
+    {
+        "id": "Localizacion/LV/LV17",
+        "TIME_PERIOD": 2006,
+        "OBS_VALUE": 35.7
+    },
+    {
+        "id": "Localizacion/LV/LV18",
+        "TIME_PERIOD": 2007,
+        "OBS_VALUE": 42.3
+    },
+    {
+        "id": "Localizacion/LV/LV19",
+        "TIME_PERIOD": 2008,
+        "OBS_VALUE": 36.6
+    },
+    {
+        "id": "Localizacion/LV/LV20",
+        "TIME_PERIOD": 2009,
+        "OBS_VALUE": 52.6
+    },
+    {
+        "id": "Localizacion/LV/LV21",
+        "TIME_PERIOD": 2010,
+        "OBS_VALUE": 73.4
+    },
+    {
+        "id": "Localizacion/LV/LV22",
+        "TIME_PERIOD": 2011,
+        "OBS_VALUE": 64.8
+    },
+    {
+        "id": "Localizacion/LV/LV23",
+        "TIME_PERIOD": 2012,
+        "OBS_VALUE": 53.8
+    },
+    {
+        "id": "Localizacion/LV/LV24",
+        "TIME_PERIOD": 2013,
+        "OBS_VALUE": 62.6
+    },
+    {
+        "id": "Localizacion/LV/LV25",
+        "TIME_PERIOD": 2014,
+        "OBS_VALUE": 89.8
+    },
+    {
+        "id": "Localizacion/LV/LV26",
+        "TIME_PERIOD": 2015,
+        "OBS_VALUE": 81
+    },
+    {
+        "id": "Localizacion/LV/LV27",
+        "TIME_PERIOD": 2016,
+        "OBS_VALUE": 68.2
+    },
+    {
+        "id": "Localizacion/LV/LV28",
+        "TIME_PERIOD": 2017,
+        "OBS_VALUE": 58.4
+    },
+    {
+        "id": "Localizacion/LV/LV29",
+        "TIME_PERIOD": 2018,
+        "OBS_VALUE": 80.2
+    },
+    {
+        "id": "Localizacion/LV/LV30",
+        "TIME_PERIOD": 2019,
+        "OBS_VALUE": 67.2
+    },
+    {
+        "id": "Localizacion/LV/LV31",
+        "TIME_PERIOD": 2020,
+        "OBS_VALUE": 82.6
+    },
+    {
+        "id": "Localizacion/LV/LV32",
+        "TIME_PERIOD": 2021,
+        "OBS_VALUE": 96.2
+    },
+    {
+        "id": "Localizacion/MT/MT1",
+        "TIME_PERIOD": 1990,
+        "OBS_VALUE": 100
+    },
+    {
+        "id": "Localizacion/MT/MT2",
+        "TIME_PERIOD": 1991,
+        "OBS_VALUE": 94.4
+    },
+    {
+        "id": "Localizacion/MT/MT3",
+        "TIME_PERIOD": 1992,
+        "OBS_VALUE": 97.8
+    },
+    {
+        "id": "Localizacion/MT/MT4",
+        "TIME_PERIOD": 1993,
+        "OBS_VALUE": 119.4
+    },
+    {
+        "id": "Localizacion/MT/MT5",
+        "TIME_PERIOD": 1994,
+        "OBS_VALUE": 113.6
+    },
+    {
+        "id": "Localizacion/MT/MT6",
+        "TIME_PERIOD": 1995,
+        "OBS_VALUE": 107.2
+    },
+    {
+        "id": "Localizacion/MT/MT7",
+        "TIME_PERIOD": 1996,
+        "OBS_VALUE": 110.3
+    },
+    {
+        "id": "Localizacion/MT/MT8",
+        "TIME_PERIOD": 1997,
+        "OBS_VALUE": 112
+    },
+    {
+        "id": "Localizacion/MT/MT9",
+        "TIME_PERIOD": 1998,
+        "OBS_VALUE": 110.6
+    },
+    {
+        "id": "Localizacion/MT/MT10",
+        "TIME_PERIOD": 1999,
+        "OBS_VALUE": 112.9
+    },
+    {
+        "id": "Localizacion/MT/MT11",
+        "TIME_PERIOD": 2000,
+        "OBS_VALUE": 109.1
+    },
+    {
+        "id": "Localizacion/MT/MT12",
+        "TIME_PERIOD": 2001,
+        "OBS_VALUE": 117.2
+    },
+    {
+        "id": "Localizacion/MT/MT13",
+        "TIME_PERIOD": 2002,
+        "OBS_VALUE": 118
+    },
+    {
+        "id": "Localizacion/MT/MT14",
+        "TIME_PERIOD": 2003,
+        "OBS_VALUE": 125.9
+    },
+    {
+        "id": "Localizacion/MT/MT15",
+        "TIME_PERIOD": 2004,
+        "OBS_VALUE": 122.1
+    },
+    {
+        "id": "Localizacion/MT/MT16",
+        "TIME_PERIOD": 2005,
+        "OBS_VALUE": 115.9
+    },
+    {
+        "id": "Localizacion/MT/MT17",
+        "TIME_PERIOD": 2006,
+        "OBS_VALUE": 117.6
+    },
+    {
+        "id": "Localizacion/MT/MT18",
+        "TIME_PERIOD": 2007,
+        "OBS_VALUE": 121.3
+    },
+    {
+        "id": "Localizacion/MT/MT19",
+        "TIME_PERIOD": 2008,
+        "OBS_VALUE": 117.8
+    },
+    {
+        "id": "Localizacion/MT/MT20",
+        "TIME_PERIOD": 2009,
+        "OBS_VALUE": 112.4
+    },
+    {
+        "id": "Localizacion/MT/MT21",
+        "TIME_PERIOD": 2010,
+        "OBS_VALUE": 116
+    },
+    {
+        "id": "Localizacion/MT/MT22",
+        "TIME_PERIOD": 2011,
+        "OBS_VALUE": 115.9
+    },
+    {
+        "id": "Localizacion/MT/MT23",
+        "TIME_PERIOD": 2012,
+        "OBS_VALUE": 121.6
+    },
+    {
+        "id": "Localizacion/MT/MT24",
+        "TIME_PERIOD": 2013,
+        "OBS_VALUE": 110.9
+    },
+    {
+        "id": "Localizacion/MT/MT25",
+        "TIME_PERIOD": 2014,
+        "OBS_VALUE": 111.7
+    },
+    {
+        "id": "Localizacion/MT/MT26",
+        "TIME_PERIOD": 2015,
+        "OBS_VALUE": 88.3
+    },
+    {
+        "id": "Localizacion/MT/MT27",
+        "TIME_PERIOD": 2016,
+        "OBS_VALUE": 79.5
+    },
+    {
+        "id": "Localizacion/MT/MT28",
+        "TIME_PERIOD": 2017,
+        "OBS_VALUE": 87.3
+    },
+    {
+        "id": "Localizacion/MT/MT29",
+        "TIME_PERIOD": 2018,
+        "OBS_VALUE": 89.2
+    },
+    {
+        "id": "Localizacion/MT/MT30",
+        "TIME_PERIOD": 2019,
+        "OBS_VALUE": 94.7
+    },
+    {
+        "id": "Localizacion/MT/MT31",
+        "TIME_PERIOD": 2020,
+        "OBS_VALUE": 82.2
+    },
+    {
+        "id": "Localizacion/MT/MT32",
+        "TIME_PERIOD": 2021,
+        "OBS_VALUE": 84.6
+    },
+    {
+        "id": "Localizacion/NL/NL1",
+        "TIME_PERIOD": 1990,
+        "OBS_VALUE": 100
+    },
+    {
+        "id": "Localizacion/NL/NL2",
+        "TIME_PERIOD": 1991,
+        "OBS_VALUE": 103.5
+    },
+    {
+        "id": "Localizacion/NL/NL3",
+        "TIME_PERIOD": 1992,
+        "OBS_VALUE": 104
+    },
+    {
+        "id": "Localizacion/NL/NL4",
+        "TIME_PERIOD": 1993,
+        "OBS_VALUE": 104.4
+    },
+    {
+        "id": "Localizacion/NL/NL5",
+        "TIME_PERIOD": 1994,
+        "OBS_VALUE": 104.8
+    },
+    {
+        "id": "Localizacion/NL/NL6",
+        "TIME_PERIOD": 1995,
+        "OBS_VALUE": 105.2
+    },
+    {
+        "id": "Localizacion/NL/NL7",
+        "TIME_PERIOD": 1996,
+        "OBS_VALUE": 109.8
+    },
+    {
+        "id": "Localizacion/NL/NL8",
+        "TIME_PERIOD": 1997,
+        "OBS_VALUE": 106.5
+    },
+    {
+        "id": "Localizacion/NL/NL9",
+        "TIME_PERIOD": 1998,
+        "OBS_VALUE": 106.8
+    },
+    {
+        "id": "Localizacion/NL/NL10",
+        "TIME_PERIOD": 1999,
+        "OBS_VALUE": 101.6
+    },
+    {
+        "id": "Localizacion/NL/NL11",
+        "TIME_PERIOD": 2000,
+        "OBS_VALUE": 100.9
+    },
+    {
+        "id": "Localizacion/NL/NL12",
+        "TIME_PERIOD": 2001,
+        "OBS_VALUE": 101.3
+    },
+    {
+        "id": "Localizacion/NL/NL13",
+        "TIME_PERIOD": 2002,
+        "OBS_VALUE": 100.4
+    },
+    {
+        "id": "Localizacion/NL/NL14",
+        "TIME_PERIOD": 2003,
+        "OBS_VALUE": 100.8
+    },
+    {
+        "id": "Localizacion/NL/NL15",
+        "TIME_PERIOD": 2004,
+        "OBS_VALUE": 101.7
+    },
+    {
+        "id": "Localizacion/NL/NL16",
+        "TIME_PERIOD": 2005,
+        "OBS_VALUE": 99.3
+    },
+    {
+        "id": "Localizacion/NL/NL17",
+        "TIME_PERIOD": 2006,
+        "OBS_VALUE": 97.1
+    },
+    {
+        "id": "Localizacion/NL/NL18",
+        "TIME_PERIOD": 2007,
+        "OBS_VALUE": 96.4
+    },
+    {
+        "id": "Localizacion/NL/NL19",
+        "TIME_PERIOD": 2008,
+        "OBS_VALUE": 96.4
+    },
+    {
+        "id": "Localizacion/NL/NL20",
+        "TIME_PERIOD": 2009,
+        "OBS_VALUE": 93.6
+    },
+    {
+        "id": "Localizacion/NL/NL21",
+        "TIME_PERIOD": 2010,
+        "OBS_VALUE": 98.5
+    },
+    {
+        "id": "Localizacion/NL/NL22",
+        "TIME_PERIOD": 2011,
+        "OBS_VALUE": 92.8
+    },
+    {
+        "id": "Localizacion/NL/NL23",
+        "TIME_PERIOD": 2012,
+        "OBS_VALUE": 90.9
+    },
+    {
+        "id": "Localizacion/NL/NL24",
+        "TIME_PERIOD": 2013,
+        "OBS_VALUE": 90.7
+    },
+    {
+        "id": "Localizacion/NL/NL25",
+        "TIME_PERIOD": 2014,
+        "OBS_VALUE": 87.3
+    },
+    {
+        "id": "Localizacion/NL/NL26",
+        "TIME_PERIOD": 2015,
+        "OBS_VALUE": 90.5
+    },
+    {
+        "id": "Localizacion/NL/NL27",
+        "TIME_PERIOD": 2016,
+        "OBS_VALUE": 90.8
+    },
+    {
+        "id": "Localizacion/NL/NL28",
+        "TIME_PERIOD": 2017,
+        "OBS_VALUE": 89.3
+    },
+    {
+        "id": "Localizacion/NL/NL29",
+        "TIME_PERIOD": 2018,
+        "OBS_VALUE": 87.2
+    },
+    {
+        "id": "Localizacion/NL/NL30",
+        "TIME_PERIOD": 2019,
+        "OBS_VALUE": 84.6
+    },
+    {
+        "id": "Localizacion/NL/NL31",
+        "TIME_PERIOD": 2020,
+        "OBS_VALUE": 75.2
+    },
+    {
+        "id": "Localizacion/NL/NL32",
+        "TIME_PERIOD": 2021,
+        "OBS_VALUE": 76.8
+    },
+    {
+        "id": "Localizacion/NO/NO1",
+        "TIME_PERIOD": 1990,
+        "OBS_VALUE": 100
+    },
+    {
+        "id": "Localizacion/NO/NO2",
+        "TIME_PERIOD": 1991,
+        "OBS_VALUE": 90
+    },
+    {
+        "id": "Localizacion/NO/NO3",
+        "TIME_PERIOD": 1992,
+        "OBS_VALUE": 87.9
+    },
+    {
+        "id": "Localizacion/NO/NO4",
+        "TIME_PERIOD": 1993,
+        "OBS_VALUE": 88.9
+    },
+    {
+        "id": "Localizacion/NO/NO5",
+        "TIME_PERIOD": 1994,
+        "OBS_VALUE": 98.4
+    },
+    {
+        "id": "Localizacion/NO/NO6",
+        "TIME_PERIOD": 1995,
+        "OBS_VALUE": 89.2
+    },
+    {
+        "id": "Localizacion/NO/NO7",
+        "TIME_PERIOD": 1996,
+        "OBS_VALUE": 98.1
+    },
+    {
+        "id": "Localizacion/NO/NO8",
+        "TIME_PERIOD": 1997,
+        "OBS_VALUE": 100.8
+    },
+    {
+        "id": "Localizacion/NO/NO9",
+        "TIME_PERIOD": 1998,
+        "OBS_VALUE": 95.1
+    },
+    {
+        "id": "Localizacion/NO/NO10",
+        "TIME_PERIOD": 1999,
+        "OBS_VALUE": 93.9
+    },
+    {
+        "id": "Localizacion/NO/NO11",
+        "TIME_PERIOD": 2000,
+        "OBS_VALUE": 88.5
+    },
+    {
+        "id": "Localizacion/NO/NO12",
+        "TIME_PERIOD": 2001,
+        "OBS_VALUE": 86.7
+    },
+    {
+        "id": "Localizacion/NO/NO13",
+        "TIME_PERIOD": 2002,
+        "OBS_VALUE": 81
+    },
+    {
+        "id": "Localizacion/NO/NO14",
+        "TIME_PERIOD": 2003,
+        "OBS_VALUE": 78.8
+    },
+    {
+        "id": "Localizacion/NO/NO15",
+        "TIME_PERIOD": 2004,
+        "OBS_VALUE": 80.6
+    },
+    {
+        "id": "Localizacion/NO/NO16",
+        "TIME_PERIOD": 2005,
+        "OBS_VALUE": 84.5
+    },
+    {
+        "id": "Localizacion/NO/NO17",
+        "TIME_PERIOD": 2006,
+        "OBS_VALUE": 80.2
+    },
+    {
+        "id": "Localizacion/NO/NO18",
+        "TIME_PERIOD": 2007,
+        "OBS_VALUE": 84
+    },
+    {
+        "id": "Localizacion/NO/NO19",
+        "TIME_PERIOD": 2008,
+        "OBS_VALUE": 77.3
+    },
+    {
+        "id": "Localizacion/NO/NO20",
+        "TIME_PERIOD": 2009,
+        "OBS_VALUE": 63.4
+    },
+    {
+        "id": "Localizacion/NO/NO21",
+        "TIME_PERIOD": 2010,
+        "OBS_VALUE": 77.6
+    },
+    {
+        "id": "Localizacion/NO/NO22",
+        "TIME_PERIOD": 2011,
+        "OBS_VALUE": 72.4
+    },
+    {
+        "id": "Localizacion/NO/NO23",
+        "TIME_PERIOD": 2012,
+        "OBS_VALUE": 80.2
+    },
+    {
+        "id": "Localizacion/NO/NO24",
+        "TIME_PERIOD": 2013,
+        "OBS_VALUE": 79.7
+    },
+    {
+        "id": "Localizacion/NO/NO25",
+        "TIME_PERIOD": 2014,
+        "OBS_VALUE": 89.6
+    },
+    {
+        "id": "Localizacion/NO/NO26",
+        "TIME_PERIOD": 2015,
+        "OBS_VALUE": 102
+    },
+    {
+        "id": "Localizacion/NO/NO27",
+        "TIME_PERIOD": 2016,
+        "OBS_VALUE": 99.8
+    },
+    {
+        "id": "Localizacion/NO/NO28",
+        "TIME_PERIOD": 2017,
+        "OBS_VALUE": 100.2
+    },
+    {
+        "id": "Localizacion/NO/NO29",
+        "TIME_PERIOD": 2018,
+        "OBS_VALUE": 98.5
+    },
+    {
+        "id": "Localizacion/NO/NO30",
+        "TIME_PERIOD": 2019,
+        "OBS_VALUE": 89.5
+    },
+    {
+        "id": "Localizacion/NO/NO31",
+        "TIME_PERIOD": 2020,
+        "OBS_VALUE": 73.3
+    },
+    {
+        "id": "Localizacion/NO/NO32",
+        "TIME_PERIOD": 2021,
+        "OBS_VALUE": 81.1
+    },
+    {
+        "id": "Localizacion/PL/PL1",
+        "TIME_PERIOD": 1990,
+        "OBS_VALUE": 100
+    },
+    {
+        "id": "Localizacion/PL/PL2",
+        "TIME_PERIOD": 1991,
+        "OBS_VALUE": 99.1
+    },
+    {
+        "id": "Localizacion/PL/PL3",
+        "TIME_PERIOD": 1992,
+        "OBS_VALUE": 101.1
+    },
+    {
+        "id": "Localizacion/PL/PL4",
+        "TIME_PERIOD": 1993,
+        "OBS_VALUE": 99.4
+    },
+    {
+        "id": "Localizacion/PL/PL5",
+        "TIME_PERIOD": 1994,
+        "OBS_VALUE": 98.1
+    },
+    {
+        "id": "Localizacion/PL/PL6",
+        "TIME_PERIOD": 1995,
+        "OBS_VALUE": 96.2
+    },
+    {
+        "id": "Localizacion/PL/PL7",
+        "TIME_PERIOD": 1996,
+        "OBS_VALUE": 95.4
+    },
+    {
+        "id": "Localizacion/PL/PL8",
+        "TIME_PERIOD": 1997,
+        "OBS_VALUE": 93.1
+    },
+    {
+        "id": "Localizacion/PL/PL9",
+        "TIME_PERIOD": 1998,
+        "OBS_VALUE": 85
+    },
+    {
+        "id": "Localizacion/PL/PL10",
+        "TIME_PERIOD": 1999,
+        "OBS_VALUE": 83
+    },
+    {
+        "id": "Localizacion/PL/PL11",
+        "TIME_PERIOD": 2000,
+        "OBS_VALUE": 80.7
+    },
+    {
+        "id": "Localizacion/PL/PL12",
+        "TIME_PERIOD": 2001,
+        "OBS_VALUE": 82.1
+    },
+    {
+        "id": "Localizacion/PL/PL13",
+        "TIME_PERIOD": 2002,
+        "OBS_VALUE": 77.9
+    },
+    {
+        "id": "Localizacion/PL/PL14",
+        "TIME_PERIOD": 2003,
+        "OBS_VALUE": 80.4
+    },
+    {
+        "id": "Localizacion/PL/PL15",
+        "TIME_PERIOD": 2004,
+        "OBS_VALUE": 79.1
+    },
+    {
+        "id": "Localizacion/PL/PL16",
+        "TIME_PERIOD": 2005,
+        "OBS_VALUE": 79.2
+    },
+    {
+        "id": "Localizacion/PL/PL17",
+        "TIME_PERIOD": 2006,
+        "OBS_VALUE": 83.9
+    },
+    {
+        "id": "Localizacion/PL/PL18",
+        "TIME_PERIOD": 2007,
+        "OBS_VALUE": 85.3
+    },
+    {
+        "id": "Localizacion/PL/PL19",
+        "TIME_PERIOD": 2008,
+        "OBS_VALUE": 84
+    },
+    {
+        "id": "Localizacion/PL/PL20",
+        "TIME_PERIOD": 2009,
+        "OBS_VALUE": 79.9
+    },
+    {
+        "id": "Localizacion/PL/PL21",
+        "TIME_PERIOD": 2010,
+        "OBS_VALUE": 84.2
+    },
+    {
+        "id": "Localizacion/PL/PL22",
+        "TIME_PERIOD": 2011,
+        "OBS_VALUE": 82.6
+    },
+    {
+        "id": "Localizacion/PL/PL23",
+        "TIME_PERIOD": 2012,
+        "OBS_VALUE": 80.8
+    },
+    {
+        "id": "Localizacion/PL/PL24",
+        "TIME_PERIOD": 2013,
+        "OBS_VALUE": 79.4
+    },
+    {
+        "id": "Localizacion/PL/PL25",
+        "TIME_PERIOD": 2014,
+        "OBS_VALUE": 78.3
+    },
+    {
+        "id": "Localizacion/PL/PL26",
+        "TIME_PERIOD": 2015,
+        "OBS_VALUE": 79.8
+    },
+    {
+        "id": "Localizacion/PL/PL27",
+        "TIME_PERIOD": 2016,
+        "OBS_VALUE": 80.7
+    },
+    {
+        "id": "Localizacion/PL/PL28",
+        "TIME_PERIOD": 2017,
+        "OBS_VALUE": 83.8
+    },
+    {
+        "id": "Localizacion/PL/PL29",
+        "TIME_PERIOD": 2018,
+        "OBS_VALUE": 84.1
+    },
+    {
+        "id": "Localizacion/PL/PL30",
+        "TIME_PERIOD": 2019,
+        "OBS_VALUE": 83.2
+    },
+    {
+        "id": "Localizacion/PL/PL31",
+        "TIME_PERIOD": 2020,
+        "OBS_VALUE": 79.3
+    },
+    {
+        "id": "Localizacion/PL/PL32",
+        "TIME_PERIOD": 2021,
+        "OBS_VALUE": 85.5
+    },
+    {
+        "id": "Localizacion/PT/PT1",
+        "TIME_PERIOD": 1990,
+        "OBS_VALUE": 100
+    },
+    {
+        "id": "Localizacion/PT/PT2",
+        "TIME_PERIOD": 1991,
+        "OBS_VALUE": 89.1
+    },
+    {
+        "id": "Localizacion/PT/PT3",
+        "TIME_PERIOD": 1992,
+        "OBS_VALUE": 85.2
+    },
+    {
+        "id": "Localizacion/PT/PT4",
+        "TIME_PERIOD": 1993,
+        "OBS_VALUE": 81.6
+    },
+    {
+        "id": "Localizacion/PT/PT5",
+        "TIME_PERIOD": 1994,
+        "OBS_VALUE": 84.3
+    },
+    {
+        "id": "Localizacion/PT/PT6",
+        "TIME_PERIOD": 1995,
+        "OBS_VALUE": 89.3
+    },
+    {
+        "id": "Localizacion/PT/PT7",
+        "TIME_PERIOD": 1996,
+        "OBS_VALUE": 87.6
+    },
+    {
+        "id": "Localizacion/PT/PT8",
+        "TIME_PERIOD": 1997,
+        "OBS_VALUE": 90.8
+    },
+    {
+        "id": "Localizacion/PT/PT9",
+        "TIME_PERIOD": 1998,
+        "OBS_VALUE": 98.6
+    },
+    {
+        "id": "Localizacion/PT/PT10",
+        "TIME_PERIOD": 1999,
+        "OBS_VALUE": 110.1
+    },
+    {
+        "id": "Localizacion/PT/PT11",
+        "TIME_PERIOD": 2000,
+        "OBS_VALUE": 121
+    },
+    {
+        "id": "Localizacion/PT/PT12",
+        "TIME_PERIOD": 2001,
+        "OBS_VALUE": 111
+    },
+    {
+        "id": "Localizacion/PT/PT13",
+        "TIME_PERIOD": 2002,
+        "OBS_VALUE": 118
+    },
+    {
+        "id": "Localizacion/PT/PT14",
+        "TIME_PERIOD": 2003,
+        "OBS_VALUE": 129.7
+    },
+    {
+        "id": "Localizacion/PT/PT15",
+        "TIME_PERIOD": 2004,
+        "OBS_VALUE": 121
+    },
+    {
+        "id": "Localizacion/PT/PT16",
+        "TIME_PERIOD": 2005,
+        "OBS_VALUE": 135.5
+    },
+    {
+        "id": "Localizacion/PT/PT17",
+        "TIME_PERIOD": 2006,
+        "OBS_VALUE": 120.7
+    },
+    {
+        "id": "Localizacion/PT/PT18",
+        "TIME_PERIOD": 2007,
+        "OBS_VALUE": 115.2
+    },
+    {
+        "id": "Localizacion/PT/PT19",
+        "TIME_PERIOD": 2008,
+        "OBS_VALUE": 103
+    },
+    {
+        "id": "Localizacion/PT/PT20",
+        "TIME_PERIOD": 2009,
+        "OBS_VALUE": 96.8
+    },
+    {
+        "id": "Localizacion/PT/PT21",
+        "TIME_PERIOD": 2010,
+        "OBS_VALUE": 96.4
+    },
+    {
+        "id": "Localizacion/PT/PT22",
+        "TIME_PERIOD": 2011,
+        "OBS_VALUE": 99.5
+    },
+    {
+        "id": "Localizacion/PT/PT23",
+        "TIME_PERIOD": 2012,
+        "OBS_VALUE": 99.4
+    },
+    {
+        "id": "Localizacion/PT/PT24",
+        "TIME_PERIOD": 2013,
+        "OBS_VALUE": 98.4
+    },
+    {
+        "id": "Localizacion/PT/PT25",
+        "TIME_PERIOD": 2014,
+        "OBS_VALUE": 91
+    },
+    {
+        "id": "Localizacion/PT/PT26",
+        "TIME_PERIOD": 2015,
+        "OBS_VALUE": 99.2
+    },
+    {
+        "id": "Localizacion/PT/PT27",
+        "TIME_PERIOD": 2016,
+        "OBS_VALUE": 104
+    },
+    {
+        "id": "Localizacion/PT/PT28",
+        "TIME_PERIOD": 2017,
+        "OBS_VALUE": 142
+    },
+    {
+        "id": "Localizacion/PT/PT29",
+        "TIME_PERIOD": 2018,
+        "OBS_VALUE": 100.5
+    },
+    {
+        "id": "Localizacion/PT/PT30",
+        "TIME_PERIOD": 2019,
+        "OBS_VALUE": 94
+    },
+    {
+        "id": "Localizacion/PT/PT31",
+        "TIME_PERIOD": 2020,
+        "OBS_VALUE": 80.6
+    },
+    {
+        "id": "Localizacion/PT/PT32",
+        "TIME_PERIOD": 2021,
+        "OBS_VALUE": 77
+    },
+    {
+        "id": "Localizacion/RO/RO1",
+        "TIME_PERIOD": 1990,
+        "OBS_VALUE": 100
+    },
+    {
+        "id": "Localizacion/RO/RO2",
+        "TIME_PERIOD": 1991,
+        "OBS_VALUE": 79.3
+    },
+    {
+        "id": "Localizacion/RO/RO3",
+        "TIME_PERIOD": 1992,
+        "OBS_VALUE": 72
+    },
+    {
+        "id": "Localizacion/RO/RO4",
+        "TIME_PERIOD": 1993,
+        "OBS_VALUE": 66.9
+    },
+    {
+        "id": "Localizacion/RO/RO5",
+        "TIME_PERIOD": 1994,
+        "OBS_VALUE": 65.8
+    },
+    {
+        "id": "Localizacion/RO/RO6",
+        "TIME_PERIOD": 1995,
+        "OBS_VALUE": 69
+    },
+    {
+        "id": "Localizacion/RO/RO7",
+        "TIME_PERIOD": 1996,
+        "OBS_VALUE": 70.5
+    },
+    {
+        "id": "Localizacion/RO/RO8",
+        "TIME_PERIOD": 1997,
+        "OBS_VALUE": 67.4
+    },
+    {
+        "id": "Localizacion/RO/RO9",
+        "TIME_PERIOD": 1998,
+        "OBS_VALUE": 59
+    },
+    {
+        "id": "Localizacion/RO/RO10",
+        "TIME_PERIOD": 1999,
+        "OBS_VALUE": 51.4
+    },
+    {
+        "id": "Localizacion/RO/RO11",
+        "TIME_PERIOD": 2000,
+        "OBS_VALUE": 47.9
+    },
+    {
+        "id": "Localizacion/RO/RO12",
+        "TIME_PERIOD": 2001,
+        "OBS_VALUE": 49.1
+    },
+    {
+        "id": "Localizacion/RO/RO13",
+        "TIME_PERIOD": 2002,
+        "OBS_VALUE": 50.8
+    },
+    {
+        "id": "Localizacion/RO/RO14",
+        "TIME_PERIOD": 2003,
+        "OBS_VALUE": 53.1
+    },
+    {
+        "id": "Localizacion/RO/RO15",
+        "TIME_PERIOD": 2004,
+        "OBS_VALUE": 52.5
+    },
+    {
+        "id": "Localizacion/RO/RO16",
+        "TIME_PERIOD": 2005,
+        "OBS_VALUE": 51.6
+    },
+    {
+        "id": "Localizacion/RO/RO17",
+        "TIME_PERIOD": 2006,
+        "OBS_VALUE": 52.2
+    },
+    {
+        "id": "Localizacion/RO/RO18",
+        "TIME_PERIOD": 2007,
+        "OBS_VALUE": 53.4
+    },
+    {
+        "id": "Localizacion/RO/RO19",
+        "TIME_PERIOD": 2008,
+        "OBS_VALUE": 51.8
+    },
+    {
+        "id": "Localizacion/RO/RO20",
+        "TIME_PERIOD": 2009,
+        "OBS_VALUE": 43.7
+    },
+    {
+        "id": "Localizacion/RO/RO21",
+        "TIME_PERIOD": 2010,
+        "OBS_VALUE": 39.2
+    },
+    {
+        "id": "Localizacion/RO/RO22",
+        "TIME_PERIOD": 2011,
+        "OBS_VALUE": 41.8
+    },
+    {
+        "id": "Localizacion/RO/RO23",
+        "TIME_PERIOD": 2012,
+        "OBS_VALUE": 39.8
+    },
+    {
+        "id": "Localizacion/RO/RO24",
+        "TIME_PERIOD": 2013,
+        "OBS_VALUE": 34.6
+    },
+    {
+        "id": "Localizacion/RO/RO25",
+        "TIME_PERIOD": 2014,
+        "OBS_VALUE": 29.5
+    },
+    {
+        "id": "Localizacion/RO/RO26",
+        "TIME_PERIOD": 2015,
+        "OBS_VALUE": 29.4
+    },
+    {
+        "id": "Localizacion/RO/RO27",
+        "TIME_PERIOD": 2016,
+        "OBS_VALUE": 27.7
+    },
+    {
+        "id": "Localizacion/RO/RO28",
+        "TIME_PERIOD": 2017,
+        "OBS_VALUE": 30
+    },
+    {
+        "id": "Localizacion/RO/RO29",
+        "TIME_PERIOD": 2018,
+        "OBS_VALUE": 31.2
+    },
+    {
+        "id": "Localizacion/RO/RO30",
+        "TIME_PERIOD": 2019,
+        "OBS_VALUE": 29.7
+    },
+    {
+        "id": "Localizacion/RO/RO31",
+        "TIME_PERIOD": 2020,
+        "OBS_VALUE": 26.9
+    },
+    {
+        "id": "Localizacion/RO/RO32",
+        "TIME_PERIOD": 2021,
+        "OBS_VALUE": 29
+    },
+    {
+        "id": "Localizacion/SE/SE1",
+        "TIME_PERIOD": 1990,
+        "OBS_VALUE": 100
+    },
+    {
+        "id": "Localizacion/SE/SE2",
+        "TIME_PERIOD": 1991,
+        "OBS_VALUE": 100.5
+    },
+    {
+        "id": "Localizacion/SE/SE3",
+        "TIME_PERIOD": 1992,
+        "OBS_VALUE": 102.2
+    },
+    {
+        "id": "Localizacion/SE/SE4",
+        "TIME_PERIOD": 1993,
+        "OBS_VALUE": 119.4
+    },
+    {
+        "id": "Localizacion/SE/SE5",
+        "TIME_PERIOD": 1994,
+        "OBS_VALUE": 123.5
+    },
+    {
+        "id": "Localizacion/SE/SE6",
+        "TIME_PERIOD": 1995,
+        "OBS_VALUE": 121.3
+    },
+    {
+        "id": "Localizacion/SE/SE7",
+        "TIME_PERIOD": 1996,
+        "OBS_VALUE": 126.5
+    },
+    {
+        "id": "Localizacion/SE/SE8",
+        "TIME_PERIOD": 1997,
+        "OBS_VALUE": 105.4
+    },
+    {
+        "id": "Localizacion/SE/SE9",
+        "TIME_PERIOD": 1998,
+        "OBS_VALUE": 105
+    },
+    {
+        "id": "Localizacion/SE/SE10",
+        "TIME_PERIOD": 1999,
+        "OBS_VALUE": 92.6
+    },
+    {
+        "id": "Localizacion/SE/SE11",
+        "TIME_PERIOD": 2000,
+        "OBS_VALUE": 83.4
+    },
+    {
+        "id": "Localizacion/SE/SE12",
+        "TIME_PERIOD": 2001,
+        "OBS_VALUE": 82.8
+    },
+    {
+        "id": "Localizacion/SE/SE13",
+        "TIME_PERIOD": 2002,
+        "OBS_VALUE": 87.9
+    },
+    {
+        "id": "Localizacion/SE/SE14",
+        "TIME_PERIOD": 2003,
+        "OBS_VALUE": 99.5
+    },
+    {
+        "id": "Localizacion/SE/SE15",
+        "TIME_PERIOD": 2004,
+        "OBS_VALUE": 106.9
+    },
+    {
+        "id": "Localizacion/SE/SE16",
+        "TIME_PERIOD": 2005,
+        "OBS_VALUE": 94.8
+    },
+    {
+        "id": "Localizacion/SE/SE17",
+        "TIME_PERIOD": 2006,
+        "OBS_VALUE": 67.2
+    },
+    {
+        "id": "Localizacion/SE/SE18",
+        "TIME_PERIOD": 2007,
+        "OBS_VALUE": 71.5
+    },
+    {
+        "id": "Localizacion/SE/SE19",
+        "TIME_PERIOD": 2008,
+        "OBS_VALUE": 64.4
+    },
+    {
+        "id": "Localizacion/SE/SE20",
+        "TIME_PERIOD": 2009,
+        "OBS_VALUE": 47.5
+    },
+    {
+        "id": "Localizacion/SE/SE21",
+        "TIME_PERIOD": 2010,
+        "OBS_VALUE": 61.2
+    },
+    {
+        "id": "Localizacion/SE/SE22",
+        "TIME_PERIOD": 2011,
+        "OBS_VALUE": 42.1
+    },
+    {
+        "id": "Localizacion/SE/SE23",
+        "TIME_PERIOD": 2012,
+        "OBS_VALUE": 30.4
+    },
+    {
+        "id": "Localizacion/SE/SE24",
+        "TIME_PERIOD": 2013,
+        "OBS_VALUE": 31.3
+    },
+    {
+        "id": "Localizacion/SE/SE25",
+        "TIME_PERIOD": 2014,
+        "OBS_VALUE": 30.6
+    },
+    {
+        "id": "Localizacion/SE/SE26",
+        "TIME_PERIOD": 2015,
+        "OBS_VALUE": 35.3
+    },
+    {
+        "id": "Localizacion/SE/SE27",
+        "TIME_PERIOD": 2016,
+        "OBS_VALUE": 40.8
+    },
+    {
+        "id": "Localizacion/SE/SE28",
+        "TIME_PERIOD": 2017,
+        "OBS_VALUE": 62.5
+    },
+    {
+        "id": "Localizacion/SE/SE29",
+        "TIME_PERIOD": 2018,
+        "OBS_VALUE": 72.3
+    },
+    {
+        "id": "Localizacion/SE/SE30",
+        "TIME_PERIOD": 2019,
+        "OBS_VALUE": 56.7
+    },
+    {
+        "id": "Localizacion/SE/SE31",
+        "TIME_PERIOD": 2020,
+        "OBS_VALUE": 22.1
+    },
+    {
+        "id": "Localizacion/SE/SE32",
+        "TIME_PERIOD": 2021,
+        "OBS_VALUE": 26.8
+    },
+    {
+        "id": "Localizacion/SI/SI1",
+        "TIME_PERIOD": 1990,
+        "OBS_VALUE": 100
+    },
+    {
+        "id": "Localizacion/SI/SI2",
+        "TIME_PERIOD": 1991,
+        "OBS_VALUE": 88
+    },
+    {
+        "id": "Localizacion/SI/SI3",
+        "TIME_PERIOD": 1992,
+        "OBS_VALUE": 87.2
+    },
+    {
+        "id": "Localizacion/SI/SI4",
+        "TIME_PERIOD": 1993,
+        "OBS_VALUE": 88.9
+    },
+    {
+        "id": "Localizacion/SI/SI5",
+        "TIME_PERIOD": 1994,
+        "OBS_VALUE": 90.6
+    },
+    {
+        "id": "Localizacion/SI/SI6",
+        "TIME_PERIOD": 1995,
+        "OBS_VALUE": 95.4
+    },
+    {
+        "id": "Localizacion/SI/SI7",
+        "TIME_PERIOD": 1996,
+        "OBS_VALUE": 95.5
+    },
+    {
+        "id": "Localizacion/SI/SI8",
+        "TIME_PERIOD": 1997,
+        "OBS_VALUE": 97.8
+    },
+    {
+        "id": "Localizacion/SI/SI9",
+        "TIME_PERIOD": 1998,
+        "OBS_VALUE": 94
+    },
+    {
+        "id": "Localizacion/SI/SI10",
+        "TIME_PERIOD": 1999,
+        "OBS_VALUE": 89.6
+    },
+    {
+        "id": "Localizacion/SI/SI11",
+        "TIME_PERIOD": 2000,
+        "OBS_VALUE": 87.5
+    },
+    {
+        "id": "Localizacion/SI/SI12",
+        "TIME_PERIOD": 2001,
+        "OBS_VALUE": 96
+    },
+    {
+        "id": "Localizacion/SI/SI13",
+        "TIME_PERIOD": 2002,
+        "OBS_VALUE": 90.2
+    },
+    {
+        "id": "Localizacion/SI/SI14",
+        "TIME_PERIOD": 2003,
+        "OBS_VALUE": 90
+    },
+    {
+        "id": "Localizacion/SI/SI15",
+        "TIME_PERIOD": 2004,
+        "OBS_VALUE": 91.7
+    },
+    {
+        "id": "Localizacion/SI/SI16",
+        "TIME_PERIOD": 2005,
+        "OBS_VALUE": 93.3
+    },
+    {
+        "id": "Localizacion/SI/SI17",
+        "TIME_PERIOD": 2006,
+        "OBS_VALUE": 94.5
+    },
+    {
+        "id": "Localizacion/SI/SI18",
+        "TIME_PERIOD": 2007,
+        "OBS_VALUE": 93.8
+    },
+    {
+        "id": "Localizacion/SI/SI19",
+        "TIME_PERIOD": 2008,
+        "OBS_VALUE": 100.6
+    },
+    {
+        "id": "Localizacion/SI/SI20",
+        "TIME_PERIOD": 2009,
+        "OBS_VALUE": 85.8
+    },
+    {
+        "id": "Localizacion/SI/SI21",
+        "TIME_PERIOD": 2010,
+        "OBS_VALUE": 87.9
+    },
+    {
+        "id": "Localizacion/SI/SI22",
+        "TIME_PERIOD": 2011,
+        "OBS_VALUE": 88
+    },
+    {
+        "id": "Localizacion/SI/SI23",
+        "TIME_PERIOD": 2012,
+        "OBS_VALUE": 84
+    },
+    {
+        "id": "Localizacion/SI/SI24",
+        "TIME_PERIOD": 2013,
+        "OBS_VALUE": 91
+    },
+    {
+        "id": "Localizacion/SI/SI25",
+        "TIME_PERIOD": 2014,
+        "OBS_VALUE": 121.1
+    },
+    {
+        "id": "Localizacion/SI/SI26",
+        "TIME_PERIOD": 2015,
+        "OBS_VALUE": 123.1
+    },
+    {
+        "id": "Localizacion/SI/SI27",
+        "TIME_PERIOD": 2016,
+        "OBS_VALUE": 130.1
+    },
+    {
+        "id": "Localizacion/SI/SI28",
+        "TIME_PERIOD": 2017,
+        "OBS_VALUE": 130.7
+    },
+    {
+        "id": "Localizacion/SI/SI29",
+        "TIME_PERIOD": 2018,
+        "OBS_VALUE": 130.3
+    },
+    {
+        "id": "Localizacion/SI/SI30",
+        "TIME_PERIOD": 2019,
+        "OBS_VALUE": 96.4
+    },
+    {
+        "id": "Localizacion/SI/SI31",
+        "TIME_PERIOD": 2020,
+        "OBS_VALUE": 89
+    },
+    {
+        "id": "Localizacion/SI/SI32",
+        "TIME_PERIOD": 2021,
+        "OBS_VALUE": 90.1
+    },
+    {
+        "id": "Localizacion/SK/SK1",
+        "TIME_PERIOD": 1990,
+        "OBS_VALUE": 100
+    },
+    {
+        "id": "Localizacion/SK/SK2",
+        "TIME_PERIOD": 1991,
+        "OBS_VALUE": 84.2
+    },
+    {
+        "id": "Localizacion/SK/SK3",
+        "TIME_PERIOD": 1992,
+        "OBS_VALUE": 74.3
+    },
+    {
+        "id": "Localizacion/SK/SK4",
+        "TIME_PERIOD": 1993,
+        "OBS_VALUE": 69.4
+    },
+    {
+        "id": "Localizacion/SK/SK5",
+        "TIME_PERIOD": 1994,
+        "OBS_VALUE": 66.3
+    },
+    {
+        "id": "Localizacion/SK/SK6",
+        "TIME_PERIOD": 1995,
+        "OBS_VALUE": 67.9
+    },
+    {
+        "id": "Localizacion/SK/SK7",
+        "TIME_PERIOD": 1996,
+        "OBS_VALUE": 67.7
+    },
+    {
+        "id": "Localizacion/SK/SK8",
+        "TIME_PERIOD": 1997,
+        "OBS_VALUE": 67.8
+    },
+    {
+        "id": "Localizacion/SK/SK9",
+        "TIME_PERIOD": 1998,
+        "OBS_VALUE": 65
+    },
+    {
+        "id": "Localizacion/SK/SK10",
+        "TIME_PERIOD": 1999,
+        "OBS_VALUE": 64.4
+    },
+    {
+        "id": "Localizacion/SK/SK11",
+        "TIME_PERIOD": 2000,
+        "OBS_VALUE": 61.5
+    },
+    {
+        "id": "Localizacion/SK/SK12",
+        "TIME_PERIOD": 2001,
+        "OBS_VALUE": 66.1
+    },
+    {
+        "id": "Localizacion/SK/SK13",
+        "TIME_PERIOD": 2002,
+        "OBS_VALUE": 63.2
+    },
+    {
+        "id": "Localizacion/SK/SK14",
+        "TIME_PERIOD": 2003,
+        "OBS_VALUE": 64.3
+    },
+    {
+        "id": "Localizacion/SK/SK15",
+        "TIME_PERIOD": 2004,
+        "OBS_VALUE": 65.4
+    },
+    {
+        "id": "Localizacion/SK/SK16",
+        "TIME_PERIOD": 2005,
+        "OBS_VALUE": 71.4
+    },
+    {
+        "id": "Localizacion/SK/SK17",
+        "TIME_PERIOD": 2006,
+        "OBS_VALUE": 66.3
+    },
+    {
+        "id": "Localizacion/SK/SK18",
+        "TIME_PERIOD": 2007,
+        "OBS_VALUE": 64.3
+    },
+    {
+        "id": "Localizacion/SK/SK19",
+        "TIME_PERIOD": 2008,
+        "OBS_VALUE": 66.9
+    },
+    {
+        "id": "Localizacion/SK/SK20",
+        "TIME_PERIOD": 2009,
+        "OBS_VALUE": 60.5
+    },
+    {
+        "id": "Localizacion/SK/SK21",
+        "TIME_PERIOD": 2010,
+        "OBS_VALUE": 63.1
+    },
+    {
+        "id": "Localizacion/SK/SK22",
+        "TIME_PERIOD": 2011,
+        "OBS_VALUE": 61.1
+    },
+    {
+        "id": "Localizacion/SK/SK23",
+        "TIME_PERIOD": 2012,
+        "OBS_VALUE": 55.7
+    },
+    {
+        "id": "Localizacion/SK/SK24",
+        "TIME_PERIOD": 2013,
+        "OBS_VALUE": 54
+    },
+    {
+        "id": "Localizacion/SK/SK25",
+        "TIME_PERIOD": 2014,
+        "OBS_VALUE": 54.3
+    },
+    {
+        "id": "Localizacion/SK/SK26",
+        "TIME_PERIOD": 2015,
+        "OBS_VALUE": 54.7
+    },
+    {
+        "id": "Localizacion/SK/SK27",
+        "TIME_PERIOD": 2016,
+        "OBS_VALUE": 55.3
+    },
+    {
+        "id": "Localizacion/SK/SK28",
+        "TIME_PERIOD": 2017,
+        "OBS_VALUE": 57.2
+    },
+    {
+        "id": "Localizacion/SK/SK29",
+        "TIME_PERIOD": 2018,
+        "OBS_VALUE": 58.5
+    },
+    {
+        "id": "Localizacion/SK/SK30",
+        "TIME_PERIOD": 2019,
+        "OBS_VALUE": 53.7
+    },
+    {
+        "id": "Localizacion/SK/SK31",
+        "TIME_PERIOD": 2020,
+        "OBS_VALUE": 45.8
+    },
+    {
+        "id": "Localizacion/SK/SK32",
+        "TIME_PERIOD": 2021,
+        "OBS_VALUE": 52.2
+    }
+]
