@@ -11,6 +11,7 @@
     <script src="componentes\init.js"></script>
     <script src="componentes\constructor-fltros.js"></script>
     <script src="componentes\move-leiya.js"></script>
+    <script src="componentes\leiya.js"></script>
     
   
   </head> 
@@ -49,8 +50,10 @@
 
         <!-- Objetos 3D. -->
         <a-obj-model  id="suelo" modify-materials static-body src="#Tile-obj" mtl="#Tile-mtl" position="-0.24 1 -4.11" rotation="0 0 0" visible="true"></a-obj-model>
-        <a-obj-model  id="plataforma-1" modify-materials="" static-body="" src="#Plat-obj" mtl="" position="-27 2 -20" scale="0.1 0.1 0.1" move-leiya></a-obj-model>
-        <a-obj-model  id="plataforma-2" modify-materials="" static-body="" src="#Plat-obj" mtl="" position=" 47 2 -20" scale="0.1 0.1 0.1" move-leiya></a-obj-model>
+        <a-obj-model  id="plataforma-1" modify-materials="" static-body="" src="#Plat-obj" mtl="" position="-16 2 6" scale="0.1 0.1 0.1" rotation="0 -90 0" visible="false"
+        move-leiya ></a-obj-model>
+        <a-obj-model  id="plataforma-2" modify-materials="" static-body="" src="#Plat-obj" mtl="" position=" 47 2 -20" scale="0.1 0.1 0.1" 
+        move-leiya="soundUrl:sound\start.m4a" visible="false"></a-obj-model>
 
         <!-- Imagenes -->
         <a-assets>
@@ -61,29 +64,20 @@
         <!-- Data -->
         <a-entity id="querierjson" babia-queryjson="url:data\data1.json"></a-entity>
 
-        <!-- Leiya. -->
-        <a-entity id="Leiya" move-leiya position="0 4 0" visible="true" animation="property: position; dir: alternate; loop: true; to: 0 3.5 0; dur: 2000;" >
-          <a-sound id="vozLeiya" src="sound\start1.m4a" autoplay="false" loop="false" positional="true" id="sonido"></a-sound>          
-          <!-- Esfera principal -->
-          <a-sphere radius="0.2" opacity="0.9" material="color: white; shader: flat; side: double;" light="type: point; intensity: 1;" ></a-sphere>
-          <!-- Esferas transparentes alrededor de la esfera principal para el efecto de aura -->
-          <a-sphere radius="0.4" opacity="0.3" material="color: white;shader: flat; side: double;" ></a-sphere>
-          <a-sphere radius="0.6" opacity="0.2" material="color: white;shader: flat; side: double;" ></a-sphere>
-          <a-sphere radius="0.8" opacity="0.1" material="color: white;shader: flat; side: double;" ></a-sphere>
-        </a-entity>
-        
-      
+        <!-- Asistente. -->
+        <a-entity id="Leiya" leiya="soundUrl:sound\start1.m4a" position="0 8 0"></a-entity>
+
         <!-- Botón inicio -->
-        <a-image id="boton" src="#botonImagen" position="0 4 1" width="2" height="2" 
-          look-at="[camera]" animation="property: position; dir: alternate; loop: true; to: 0 3.5 1; dur: 2000;"
+        <a-image id="boton" src="#botonImagen" position="0 8 1" width="2" height="2" 
+          look-at="[camera]" animation="property: position; dir: alternate; loop: true; to: 0 8.2 1; dur: 2000;"
           onclick="init()">
         </a-image>
 
         <!-- Entorno Grafica 1 -->
-        <a-entity id="grafica1" visible="true"  width="20" height="20" depth="20">
+        <a-entity id="grafica1" visible="false"  width="20" height="20" depth="20">
           <!-- Crea un plano y asigna la imagen como textura -->
           <a-plane id="plano" src="#miImagen" position="0 12 -24" material="transparent: true; opacity: 1" width="20" height="20"
-          visible="true">
+          visible="false">
 
             <!-- Data -->
             <a-entity id="querierjson" babia-queryjson="url:../data/data1.json"></a-entity>
@@ -102,7 +96,7 @@
 
 
        <!-- Entorno Grafica 2 -->
-       <a-entity id="grafica2" visible="true"  width="5" height="5" depth="5" position="-39 4 -5">
+       <a-entity id="grafica2" visible="false"  width="5" height="5" depth="5" position="-39 4 -5">
           <!-- Data -->
           <a-entity id="querierjson2" babia-queryjson="url:../data/data1.json"></a-entity>
 
