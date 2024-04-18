@@ -1,13 +1,12 @@
 function init() {
-    //var plano = document.getElementById('plano');
+    var plano = document.getElementById('plano');
     var boton = document.getElementById('boton');
-    var audio = document.getElementById('sonido');
+    var audio = document.getElementById('vozLeiya');
     var leiya = document.getElementById('Leiya');
     var imgLeiya = document.getElementById('imgLeiya');
     
 
-    // Si el plano está visible, lo oculta; si no, lo muestra
-    //plano.setAttribute('visible', !plano.getAttribute('visible'));
+    // Si el plano está visible, lo oculta; si no, lo muestra  
     leiya.setAttribute('visible', !leiya.getAttribute('visible'));
 
     if (boton) {
@@ -22,6 +21,7 @@ function init() {
   audio.addEventListener('sound-ended', function() {
     // Llamar a tu función de inicio una vez que termine el sonido
     leiya.setAttribute('visible', !leiya.getAttribute('visible'));
+    plano.setAttribute('visible', !plano.getAttribute('visible'));
     imgLeiya.setAttribute('visible', !imgLeiya.getAttribute('visible'));
   });
   
