@@ -7,6 +7,8 @@ Data: https://ec.europa.eu/eurostat/databrowser/view/SDG_13_10__custom_1300365/s
 
 https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Copyright/licence_policy
 
+https://www.youtube.com/watch?v=Rwpo-Ejo8mA
+
 
 Visualización Demo 2:
 ![](https://github.com/nievescanas/AFrame/blob/main/Test%201/Readme/Test_1.PNG?raw=true)
